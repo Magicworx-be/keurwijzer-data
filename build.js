@@ -132,12 +132,11 @@ function median(arr) {
   return s.length % 2 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
 }
 function norm(name) { return String(name).toLowerCase().replace(/\s+/g, ' ').trim(); }
-function chipSlug(label) {
-  return String(label).toLowerCase()
-    .replace(/[àáâä]/g, 'a').replace(/[èéêë]/g, 'e').replace(/[ìíîï]/g, 'i')
-    .replace(/[òóôö]/g, 'o').replace(/[ùúûü]/g, 'u').replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
+// Slug voor chips én badge-bestandsnamen. Eén bron met de navigatie-slugs:
+// delegeert naar lib/registry.js `slugify`, zodat beide niet uiteenlopen
+// (o.a. identieke accentafhandeling, inclusief ç). R wordt hieronder ingeladen;
+// elke aanroep gebeurt ruim ná die require.
+function chipSlug(label) { return R.slugify(label); }
 function chipLabel(slug) {
   const s = String(slug).replace(/-/g, ' ').trim();
   return s.charAt(0).toUpperCase() + s.slice(1);
@@ -608,13 +607,7 @@ const metaDesc = 'De best beoordeelde ' + config.vak.mv + ' in ' + config.regio.
   ', geselecteerd volgens een vaste, publieke methodiek op basis van de getuigenissen van ' +
   'klanten en de vakspecialiteit van het bedrijf. Onafhankelijk — een plaats is niet te koop.';
 
-const GEO_CODES = {
-  'oost-vlaanderen': 'BE-VOV', 'west-vlaanderen': 'BE-VWV', 'antwerpen': 'BE-VAN',
-  'limburg': 'BE-VLI', 'vlaams-brabant': 'BE-VBR', 'waals-brabant': 'BE-WBR',
-  'henegouwen': 'BE-WHT', 'luik': 'BE-WLG', 'luxemburg': 'BE-WLX',
-  'namen': 'BE-WNA', 'brussel': 'BE-BRU'
-};
-const geoRegion = GEO_CODES[norm(config.regio.provincie)] || 'BE';
+const geoRegion = R.GEO_CODES[norm(config.regio.provincie)] || 'BE';
 if (geoRegion === 'BE')
   warnings.push('provincie "' + config.regio.provincie + '" niet herkend voor geo.region — teruggevallen op "BE"');
 

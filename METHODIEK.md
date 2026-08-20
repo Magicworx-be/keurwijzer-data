@@ -10,7 +10,7 @@ dit document verouderd — zie [Onderhoud](#onderhoud-1-bron-2-lezers).
 
 | | |
 |---|---|
-| **Bindende bron voor alle berekeningen** | `build.js` (constanten bovenaan, regels 52–78) |
+| **Bindende bron voor alle berekeningen** | `build.js` (constanten bovenaan, regels 52–112) |
 | **Bindende bron voor de LLM-beoordeling** | `prompts/scoring-prompt.md` |
 | **Bindende bron voor het werkproces** | `prompts/directory-pagina-prompt.md` |
 | **Waarom-beslissingen** | `WIJZIGINGEN.md` |
@@ -375,7 +375,7 @@ worden door de code gedraaid. Ze mogen niet uit elkaar lopen.
 
 1. **De code is bindend.** Wijzigt een drempel of gewicht, dan wijzigt hij eerst
    in `build.js` (of in `prompts/scoring-prompt.md`) — en pas daarna hier.
-2. **Elke wijziging aan `build.js` regels 52–78, of aan een rubriek in
+2. **Elke wijziging aan `build.js` regels 52–112, of aan een rubriek in
    `scoring-prompt.md`, vereist een update van dit document in dezelfde beurt.**
    Werk je in Claude Code: vraag expliciet om `METHODIEK.md` mee bij te werken.
 3. **Cowork wijzigt dit document niet zelfstandig inhoudelijk.** Merkt Cowork een
@@ -388,7 +388,7 @@ worden door de code gedraaid. Ze mogen niet uit elkaar lopen.
 **Snelle controle** — of dit document nog klopt met de code:
 
 ```bash
-sed -n '52,78p' build.js
+sed -n '52,112p' build.js
 ```
 
 Vergelijk die getallen met §2, §3 en §4 hierboven. Wijken ze af, dan is dit

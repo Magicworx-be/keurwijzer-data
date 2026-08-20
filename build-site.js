@@ -21,12 +21,7 @@ const ROOT = __dirname;
 const origin = R.SITE_ORIGIN;
 const HERO_IMG = 'https://assets.cdn.filesafe.space/fgbjON9EFqwVMZW3nImb/media/6a56552b524a3ec4c67a7cac.png';
 
-const GEO_CODES = {
-  'oost-vlaanderen': 'BE-VOV', 'west-vlaanderen': 'BE-VWV', 'antwerpen': 'BE-VAN',
-  'limburg': 'BE-VLI', 'vlaams-brabant': 'BE-VBR', 'waals-brabant': 'BE-WBR',
-  'henegouwen': 'BE-WHT', 'luik': 'BE-WLG', 'luxemburg': 'BE-WLX',
-  'namen': 'BE-WNA', 'brussel': 'BE-BRU',
-};
+const GEO_CODES = R.GEO_CODES;   // gedeelde bron in lib/registry.js
 
 function esc(s) {
   return String(s == null ? '' : s)
