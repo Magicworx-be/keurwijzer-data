@@ -1,0 +1,106 @@
+KEURWIJZER CONTROLERAPPORT — dakwerkers-aalst  (variant: Top 10-concept, geen zichtbare score)
+Peildatum: 2026-07-23 · Prior C (regiogemiddelde, tijdsgewogen): 4.604
+Methodiek-versie: 1 (vastgepind in config)  ·  vertrouwen-vloer 3.5→0, 5.0→1  ·  recentheid vol bij 6 reviews/24m  ·  publicatiedrempel ≥10 reviews
+Opnamecriteria: gemeente in lijst, ≥10 reviews, ≥3 in 24m
+Gewichten: 35% vertrouwen / 30% reviewkwaliteit / 15% recentheid / 20% vakfocus
+Eligible bedrijven: 26 (waarvan 26 publicabel, ≥10 reviews) → gepubliceerd: Top 10 (10 bedrijven)
+
+⚠ DATA-INTEGRITEIT — MOGELIJK AFGEKAPTE REVIEW-EXPORT (exact 100 bruikbare reviews)
+  Vermoedelijke exportlimiet. Dit vertekent het VERTROUWEN van grote spelers naar beneden.
+  Actie: her-scrape zonder limiet en draai normalize opnieuw vóór publicatie.
+    Pluimvee Schouppe — 100 van 414 reviews gebruikt  (eligible, niet gepubliceerd)
+
+TOP 10  (dit staat op de site — zonder cijfer)
+pos  comp   trust  rq    rec   focus  bayes  Rw    v_w    n24  reviews  bedrijf
+ #1  0.911  0.923  0.88  1.00  0.88   4.88   4.99   43.8   60       60  Dakwerken Elite Bouwteam
+ #2  0.896  0.881  0.88  1.00  0.88   4.82   4.89   49.4   67       70  BV Dakwerken Van den Driessche - Dakwerken Aalst
+ #3  0.882  0.841  0.88  1.00  0.88   4.76   4.94   13.9   14       27  Dakwerken Cieters
+ #4  0.881  0.910  0.88  1.00  0.75   4.87   5.00   31.0   37       44  Ribeiro Dakwerken
+ #5  0.873  0.853  0.75  1.00  1.00   4.78   5.00   12.7   14       14  Dakwerken Matthieu Baertsoen
+ #6  0.861  0.818  0.75  1.00  1.00   4.73   5.00    7.2    8       12  GCS Epdm Bv
+ #7  0.853  0.757  0.88  1.00  0.88   4.64   4.66   18.1   12       53  DWG Projects specialist platte daken
+ #8  0.843  0.838  0.75  1.00  0.88   4.76   5.00   10.0   12       12  Sneldak
+ #9  0.836  0.852  0.63  1.00  1.00   4.78   5.00   12.5   15       15  Dakdekker Dossche
+#10  0.823  0.780  0.75  1.00  0.88   4.67   4.72   19.8   25       32  DakDender - De Vulder
+
+VAKFOCUS-AUDIT (bron van de specialiteitsdimensie, per gerankt bedrijf)
+    Dakwerken Elite Bouwteam — 4.5 via https://elitebouwteam.be/
+    BV Dakwerken Van den Driessche - Dakwerken Aalst — 4.5 via https://www.dakwerken-vandendriessche.be/
+    Dakwerken Cieters — 4.5 via http://www.dakwerken-cieters.be/
+    Ribeiro Dakwerken — 4.0 via http://www.ribeirodakwerken.be/
+    Dakwerken Matthieu Baertsoen — 5.0 via https://dakwerkenmatthieubaertsoen.be/
+    GCS Epdm Bv — 5.0 via https://gcs-epdm.be/
+    DWG Projects specialist platte daken — 4.5 via http://www.dwgprojects.be/
+    Sneldak — 4.5 via http://www.dakwerkensneldak.be/
+    Dakdekker Dossche — 5.0 via https://dakdekkerdossche.be/
+    DakDender - De Vulder — 4.5 via http://www.dakdender.be/
+
+ROBUUSTHEID VAN DE SELECTIE (±0,5 op reviewkwaliteit + vakfocus, 5000 trials, vaste seed)
+  kans = P(blijft in Top 10)   ·   band = 5e–95e percentiel van de positie
+  #1  kans 100%   band #1–#5   vast          Dakwerken Elite Bouwteam
+  #2  kans 100%   band #1–#7   vast          BV Dakwerken Van den Driessche - Dakwerken Aalst
+  #3  kans  99%   band #1–#8   vast          Dakwerken Cieters
+  #4  kans  99%   band #1–#8   vast          Ribeiro Dakwerken
+  #5  kans  99%   band #2–#9   vast          Dakwerken Matthieu Baertsoen
+  #6  kans  94%   band #3–#11   waarschijnlijk GCS Epdm Bv
+  #7  kans  90%   band #3–#11   waarschijnlijk DWG Projects specialist platte daken
+  #8  kans  81%   band #3–#12   waarschijnlijk Sneldak
+  #9  kans  66%   band #5–#13   WANKEL        Dakdekker Dossche
+ #10  kans  56%   band #5–#14   WANKEL        DakDender - De Vulder
+  Samengevat: 5 vast, 3 waarschijnlijk, 2 wankel (van 10).
+  Marge #10 → eerstvolgende publicabele (Dakwerken VDG): 0.008.
+
+BEDRIJVEN 11–20 — NIET OP DE SITE (zie prospectiedocument voor dasslim.be)
+    #11  comp 0.815  Dakwerken VDG
+    #12  comp 0.809  Dakwerken D'hooge
+    #13  comp 0.805  Nguet Construct
+    #14  comp 0.777  KRN - BOUW EN RENOVATIE / DAKWERKEN / DAK RENOVATIE / DAK ISOLATIE / GEVEL ISOLATIE
+    #15  comp 0.751  Dakwerken Straetmans marc
+    #16  comp 0.743  Dakwerken Adriaens Dak en Gevel BV
+    #17  comp 0.732  Leedse Dakwerken
+    #18  comp 0.730  GeelDak
+    #19  comp 0.716  Dakwerken Cherretté
+    #20  comp 0.697  LP Dakwerken
+
+ELIGIBLE MAAR VOORBIJ PLEK 20 (niet getoond, niet in prospectie)
+    comp 0.697  Renovera
+    comp 0.665  Dakwerken Van Ransbeek Jos
+    comp 0.657  RT & S
+    comp 0.645  Renovatie Lclean BV
+    comp 0.599  Dakwerken TD Pagidak
+    comp 0.329  Pluimvee Schouppe
+
+NOG NIET ELIGIBLE — NIET OP DE SITE (wél in prospectiedocument, max 10)
+    Meesters Dakwerkers — Nog te weinig recente reviews (2 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    ATD Covan — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Dakwerken De Mey Erik — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Dakwerken Hemerijckx — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Dakwerken VD — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Gedak — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Wobben schilder en dakwerken aalst — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Dakwerken Van Nieuwenhove — Nog te weinig Google-reviews (8 van min. 10) om betrouwbaar te beoordelen.
+    Guy De Lombaert — Nog te weinig Google-reviews (8 van min. 10) om betrouwbaar te beoordelen.
+    Cu Zn Dakwerken nv — Nog te weinig Google-reviews (7 van min. 10) om betrouwbaar te beoordelen.
+
+GEEN LOCATIEDATA (geen gemeente → altijd weggelaten, niet geraden)
+    Boba Dakwerken Aalst — https://dakwerken-aalst.be/
+    DakwerkenCampari — https://www.dakwerkencampari.be/
+    De Kleinen Dakwerker — https://dekleinendakwerker.be/
+    elite dakwerken aalst — https://elite-dakwerken.be/
+    Dakwerk Boon | Pascal Boon — https://www.dakwerkboon.be/
+    MKB Dakwerken Aalst — https://mkbdakwerkenaalst.be/
+    MZ Dakwerken — http://www.mz-dakwerken.be/
+    Joeri Vyverman - Dak- en Schrijnwerken — https://dakwerkenvyverman.be/
+    ISO Dakwerken Lede — https://iso-dakwerken-lede.be/
+
+WAARSCHUWINGEN
+  ! "Boba Dakwerken Aalst": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "DakwerkenCampari": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "De Kleinen Dakwerker": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "elite dakwerken aalst": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Dakwerk Boon | Pascal Boon": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "MKB Dakwerken Aalst": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "MZ Dakwerken": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Pluimvee Schouppe": slechts 100 van 414 reviews met bruikbare datum/score — controleer de export
+  ! "Joeri Vyverman - Dak- en Schrijnwerken": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "ISO Dakwerken Lede": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)

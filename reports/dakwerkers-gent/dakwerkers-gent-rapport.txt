@@ -1,0 +1,211 @@
+KEURWIJZER CONTROLERAPPORT — dakwerkers-gent  (variant: Top 10-concept, geen zichtbare score)
+Peildatum: 2026-07-17 · Prior C (regiogemiddelde, tijdsgewogen): 4.665
+Methodiek-versie: 1 (vastgepind in config)  ·  vertrouwen-vloer 3.5→0, 5.0→1  ·  recentheid vol bij 6 reviews/24m  ·  publicatiedrempel ≥10 reviews
+Opnamecriteria: gemeente in lijst, ≥10 reviews, ≥3 in 24m
+Gewichten: 35% vertrouwen / 30% reviewkwaliteit / 15% recentheid / 20% vakfocus
+Eligible bedrijven: 57 (waarvan 57 publicabel, ≥10 reviews) → gepubliceerd: Top 10 (10 bedrijven)
+
+⚠ DATA-INTEGRITEIT — MOGELIJK AFGEKAPTE REVIEW-EXPORT (exact 100 bruikbare reviews)
+  Vermoedelijke exportlimiet. Dit vertekent het VERTROUWEN van grote spelers naar beneden.
+  Actie: her-scrape zonder limiet en draai normalize opnieuw vóór publicatie.
+    Recotex — 100 van 582 reviews gebruikt  (eligible, niet gepubliceerd)
+    Dak- en Gevelrenovatie DURIEUX — 100 van 428 reviews gebruikt  (eligible, niet gepubliceerd)
+    Dakdekker Den haag | Wellhuis Dakwerken — 100 van 291 reviews gebruikt  (niet eligible)
+    Solitec — 100 van 262 reviews gebruikt  (eligible, niet gepubliceerd)
+    ZelfDakStore — 100 van 251 reviews gebruikt  (eligible, niet gepubliceerd)
+    Dakwerken Schiettecatte bv — 100 van 154 reviews gebruikt  ← STAAT IN DE GEPUBLICEERDE SELECTIE
+    Benex — 100 van 130 reviews gebruikt  (eligible, niet gepubliceerd)
+    EBA Construct — 100 van 113 reviews gebruikt  (eligible, niet gepubliceerd)
+    VDS Renovatie & Dakwerken — 100 van 101 reviews gebruikt  (eligible, niet gepubliceerd)
+
+TOP 10  (dit staat op de site — zonder cijfer)
+pos  comp   trust  rq    rec   focus  bayes  Rw    v_w    n24  reviews  bedrijf
+ #1  0.906  0.909  0.88  1.00  0.88   4.86   4.98   28.1   38       41  Dakwerken Maenhaut
+ #2  0.902  0.899  0.88  1.00  0.88   4.85   4.89   66.7   78      154  Dakwerken Schiettecatte bv
+ #3  0.896  0.953  0.88  1.00  0.75   4.93   5.00   60.5   74       74  Fortura
+ #4  0.892  0.942  0.88  1.00  0.75   4.91   5.00   45.5   52       72  Dakwerken Elewaut
+ #5  0.874  0.890  0.88  1.00  0.75   4.83   4.93   27.9   15       93  Top-Bouw
+ #6  0.865  0.865  0.88  1.00  0.75   4.80   4.84   46.7   46       87  Dakinvest
+ #7  0.863  0.860  0.88  1.00  0.75   4.79   5.00    9.5   10       10  Dakwerken TM
+ #8  0.858  0.844  0.88  1.00  0.75   4.77   5.00    7.0   10       10  Dakwerken Sigitek
+ #9  0.857  0.878  0.75  1.00  0.88   4.82   5.00   13.2   20       20  uwdakspecialist.be
+#10  0.855  0.873  0.75  1.00  0.88   4.81   4.85   55.3   68       68  Donzo
+
+VAKFOCUS-AUDIT (bron van de specialiteitsdimensie, per gerankt bedrijf)
+    Dakwerken Maenhaut — 4.5 via http://www.dakwerkenmaenhaut.be/
+    Dakwerken Schiettecatte bv — 4.5 via https://www.schiettecattebv.be/
+    Fortura — 4.0 via https://www.fortura.be/
+    Dakwerken Elewaut — 4.0 via http://www.dakwerken-elewaut.be/
+    Top-Bouw — 4.0 via http://www.top-bouw.be/
+    Dakinvest — 4.0 via https://www.rg-dakinvest.be/
+    Dakwerken TM — 4.0 via https://www.dakwerkentm.be/
+    Dakwerken Sigitek — 4.0 via https://sigitek.be/
+    uwdakspecialist.be — 4.5 via https://www.uwdakspecialist.be/
+    Donzo — 4.5 via https://www.donzo.be/
+
+ROBUUSTHEID VAN DE SELECTIE (±0,5 op reviewkwaliteit + vakfocus, 5000 trials, vaste seed)
+  kans = P(blijft in Top 10)   ·   band = 5e–95e percentiel van de positie
+  #1  kans  97%   band #1–#9   vast          Dakwerken Maenhaut
+  #2  kans  95%   band #1–#10   vast          Dakwerken Schiettecatte bv
+  #3  kans  92%   band #1–#12   waarschijnlijk Fortura
+  #4  kans  89%   band #1–#13   waarschijnlijk Dakwerken Elewaut
+  #5  kans  71%   band #2–#18   WANKEL        Top-Bouw
+  #6  kans  61%   band #2–#21   WANKEL        Dakinvest
+  #7  kans  57%   band #3–#21   WANKEL        Dakwerken TM
+  #8  kans  50%   band #3–#23   WANKEL        Dakwerken Sigitek
+  #9  kans  48%   band #3–#24   WANKEL        uwdakspecialist.be
+ #10  kans  46%   band #3–#24   WANKEL        Donzo
+  Samengevat: 2 vast, 2 waarschijnlijk, 6 wankel (van 10).
+  Marge #10 → eerstvolgende publicabele (CBP Dakwerken): 0.004.
+
+BEDRIJVEN 11–20 — NIET OP DE SITE (zie prospectiedocument voor dasslim.be)
+    #11  comp 0.852  CBP Dakwerken
+    #12  comp 0.851  Bo-Renodak
+    #13  comp 0.850  Dakwerken Vanden Bossche Quinten
+    #14  comp 0.850  Dakwerken GDB
+    #15  comp 0.845  Benex
+    #16  comp 0.839  Solitec
+    #17  comp 0.832  ZelfDakStore
+    #18  comp 0.830  G&L Bouw | Dakwerken & Renovatie
+    #19  comp 0.826  Ing Belg bv Dakwerken
+    #20  comp 0.825  KGJ Projects | Dakwerken & Renovatie
+
+ELIGIBLE MAAR VOORBIJ PLEK 20 (niet getoond, niet in prospectie)
+    comp 0.822  Dakwerken Moentjens
+    comp 0.821  Dakwerken Plaetinck | Dakwerker uit evergem
+    comp 0.818  EBA Construct
+    comp 0.814  Joe on the roof
+    comp 0.811  LMconstruct BV
+    comp 0.810  Dakwerken Ivan De Block
+    comp 0.807  Recotex
+    comp 0.802  Dakwerken Mike
+    comp 0.802  Van Hoof platte daken
+    comp 0.801  Dak- en Gevelrenovatie DURIEUX
+    comp 0.796  Pyck Wouter bvba
+    comp 0.782  Castor
+    comp 0.779  Vermaco Dakwerken bvba
+    comp 0.772  Thomas en zoon dak en renovatiewerken
+    comp 0.761  VDS Renovatie & Dakwerken
+    comp 0.757  UNIQUE Dakwerken En Gevelwerken Specialist Asbest ALGEMENE BOUW & RENOVATIEWERKEN Merelbeke
+    comp 0.752  Proden Dakwerken
+    comp 0.746  Devotek
+    comp 0.742  Totaalrenovatie George | Badkamerrenovatie, Dakwerken, Interieurafwerking, Schilderen & Isolatie
+    comp 0.732  JVB Building
+    comp 0.728  DUROOF
+    comp 0.724  Dakwerken HS
+    comp 0.720  Renova Construct Bv
+    comp 0.718  MKB Dakwerken Gent
+    comp 0.714  HTS Dakwerken
+    comp 0.711  Blue Sky Bouwcollectief
+    comp 0.707  R & B Dakwerken
+    comp 0.704  Dakwerken Roels
+    comp 0.648  Troch T
+    comp 0.646  Tectum Dekkers Eke
+    comp 0.639  Gielen Service
+    comp 0.613  Goeman Construction Team
+    comp 0.576  ADW
+    comp 0.573  Algemene Dakwerken Van Vlaenderen
+    comp 0.555  Het Bouwteam ( Dakwerken )
+    comp 0.553  Wetterse Dakwerken
+    comp 0.513  Mady Dakwerken
+
+NOG NIET ELIGIBLE — NIET OP DE SITE (wél in prospectiedocument, max 10)
+    GanDak — Nog te weinig recente reviews (2 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Tectum Constructors Melle — Nog te weinig recente reviews (2 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    ISO Services Dakwerken — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    DAKWERKEN DE VOS Bvba — Nog te weinig recente reviews (1 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Goeman / Eddy — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Vlerick Johan — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Algemene Dakwerken Gent - Aalter - Oost-Vlaanderen — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Gent Asfalt — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Toproof Dakwerken Gent — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Winithan — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+
+GEEN LOCATIEDATA (geen gemeente → altijd weggelaten, niet geraden)
+    Bonne Dakwerken Destelbergen — https://bonne-dakwerken-destelbergen.be/
+    Dakwerken Bjorn De Buck — http://dakwerkendebuck.be/
+    ISO Dakwerken Evergem — https://iso-dakwerken-evergem.be/
+
+BUITEN DE GEMEENTELIJST (volledig weggelaten)
+    Melle Simons Dakwerken (Leveroy)
+    Uniek Dakdekkers (Delft)
+    Dakdekker Den haag | Wellhuis Dakwerken (Den Haag)
+    MYDAK (Beverlo)
+    den dakdekker, (Heusden-Zolder)
+    Dakdekker het dakje (Maastricht)
+    Mersch Dakbedekking (Schiedam)
+
+WAARSCHUWINGEN
+  ! dubbele bedrijfsnaam in reviews.json: "Dakwerken Coussée" — vestigingen worden niet samengevoegd en delen dezelfde beoordeling; controleer of dit klopt
+  ! geen beoordeling.json-entry voor "De Corte / Patrick" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken & Renovatie Gent - Nord Projects" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Boa-constructors" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Melle Simons Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "D & R Dak en Renovatiewerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "VERHOYE B.V." (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Eeckhout Yvan bvba" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Dakwerken Schiettecatte bv": slechts 100 van 154 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "Kijzer" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Beckers Didier" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Coussée" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Vanheirseele Pascal" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Fonteyne Albert" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dmg Construction Bvba" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Gent ◥" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Renocheck" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Vanzieleghem Kevin" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Uniek Dakdekkers" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Solitec": slechts 100 van 262 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "Ruebens / Rik" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Dak- en Gevelrenovatie DURIEUX": slechts 100 van 428 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "Dakdekker Den haag | Wellhuis Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Dakdekker Den haag | Wellhuis Dakwerken": slechts 100 van 291 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "Dak Pongrac" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Neumann - Dakwerken & Schrijnwerk" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Recotex": slechts 100 van 582 reviews met bruikbare datum/score — controleer de export
+  ! "Benex": slechts 100 van 130 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "Meesters Dakwerkers" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Krick Marc bvba" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "V.P. Construct BV | Dakwerken & Renovatie" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Blancquaert Steven" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Erdo Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Vlerick Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Wolf Solutions Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "FVR Construct | Dak- en Gevelwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Kevin Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dak Design" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Blomme Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Polydeck nv" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakmeester" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dc Dak" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Moyaert Construct" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "SP Dakreiniging" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakform" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Lagaert Steven" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Coussée" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "De Schuymer Lieven - Ontmossingswerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Naessens P bv" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "ZelfDakStore": slechts 100 van 251 reviews met bruikbare datum/score — controleer de export
+  ! geen beoordeling.json-entry voor "MYDAK" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Schellynck bv" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Van Der Elst" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "den dakdekker," (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Bonne Dakwerken Destelbergen": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! geen beoordeling.json-entry voor "Bonne Dakwerken Destelbergen" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "dakalex" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Vlamdak bv" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Mats dakwerken Gent" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Vandevyver" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Adam Algemene Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakdekker het dakje" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "Dakwerken Bjorn De Buck": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! geen beoordeling.json-entry voor "Dakwerken Bjorn De Buck" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "​Schrijn- en Dakwerken Nick De Smedt" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Mepa dakwerk - Frederik Meire" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Dakwerken Daeseleire" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Danny Dhondt" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! "ISO Dakwerken Evergem": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! geen beoordeling.json-entry voor "ISO Dakwerken Evergem" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "Mersch Dakbedekking" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "DDM Dakwerken" (reviewkwaliteit/vakfocus/synthese ontbreken)
+  ! geen beoordeling.json-entry voor "DAKWERKEN VDC AANNEMINGEN" (reviewkwaliteit/vakfocus/synthese ontbreken)

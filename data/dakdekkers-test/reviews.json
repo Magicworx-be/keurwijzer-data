@@ -1,0 +1,3492 @@
+[
+  {
+    "bedrijf": "Dakwerken Ivens & Zonen",
+    "gemeente": "Gent",
+    "website": "https://dakwerken-ivens.be",
+    "googleScore": 4.9,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2022-01-22",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2019-07-09",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2020-10-02",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2022-07-12",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 4,
+        "datum": "2026-02-18",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-24",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2021-01-29",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 5,
+        "datum": "2023-09-29",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2025-09-16",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2020-01-06",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2023-01-23",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 4,
+        "datum": "2020-01-29",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2020-08-27",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 4,
+        "datum": "2020-05-11",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-07",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-29",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2022-08-26",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2024-06-07",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2026-06-27",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2022-04-08",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2021-02-22",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 4,
+        "datum": "2020-04-19",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2020-02-14",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 4,
+        "datum": "2019-07-01",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2020-01-16",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-16",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 4,
+        "datum": "2026-04-24",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 4,
+        "datum": "2019-05-08",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2024-01-08",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 5,
+        "datum": "2020-11-27",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2020-05-05",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 4,
+        "datum": "2021-10-09",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 4,
+        "datum": "2024-06-13",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 5,
+        "datum": "2019-08-19",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2024-09-05",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-24",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2025-12-16",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-21",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-12",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-09",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 5,
+        "datum": "2023-10-18",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      },
+      {
+        "score": 4,
+        "datum": "2023-05-02",
+        "tekst": "Testreview 42",
+        "auteur": "Klant 42"
+      },
+      {
+        "score": 5,
+        "datum": "2020-09-21",
+        "tekst": "Testreview 43",
+        "auteur": "Klant 43"
+      },
+      {
+        "score": 4,
+        "datum": "2020-03-03",
+        "tekst": "Testreview 44",
+        "auteur": "Klant 44"
+      },
+      {
+        "score": 5,
+        "datum": "2021-04-18",
+        "tekst": "Testreview 45",
+        "auteur": "Klant 45"
+      },
+      {
+        "score": 5,
+        "datum": "2020-09-02",
+        "tekst": "Testreview 46",
+        "auteur": "Klant 46"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-17",
+        "tekst": "Testreview 47",
+        "auteur": "Klant 47"
+      },
+      {
+        "score": 4,
+        "datum": "2024-09-18",
+        "tekst": "Testreview 48",
+        "auteur": "Klant 48"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-29",
+        "tekst": "Testreview 49",
+        "auteur": "Klant 49"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-18",
+        "tekst": "Testreview 50",
+        "auteur": "Klant 50"
+      },
+      {
+        "score": 5,
+        "datum": "2020-03-19",
+        "tekst": "Testreview 51",
+        "auteur": "Klant 51"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-03",
+        "tekst": "Testreview 52",
+        "auteur": "Klant 52"
+      },
+      {
+        "score": 5,
+        "datum": "2022-01-15",
+        "tekst": "Testreview 53",
+        "auteur": "Klant 53"
+      },
+      {
+        "score": 4,
+        "datum": "2025-07-22",
+        "tekst": "Testreview 54",
+        "auteur": "Klant 54"
+      },
+      {
+        "score": 5,
+        "datum": "2020-02-27",
+        "tekst": "Testreview 55",
+        "auteur": "Klant 55"
+      },
+      {
+        "score": 5,
+        "datum": "2022-12-15",
+        "tekst": "Testreview 56",
+        "auteur": "Klant 56"
+      },
+      {
+        "score": 5,
+        "datum": "2021-08-04",
+        "tekst": "Testreview 57",
+        "auteur": "Klant 57"
+      },
+      {
+        "score": 4,
+        "datum": "2023-12-07",
+        "tekst": "Testreview 58",
+        "auteur": "Klant 58"
+      },
+      {
+        "score": 4,
+        "datum": "2023-01-06",
+        "tekst": "Testreview 59",
+        "auteur": "Klant 59"
+      },
+      {
+        "score": 5,
+        "datum": "2019-08-07",
+        "tekst": "Testreview 60",
+        "auteur": "Klant 60"
+      },
+      {
+        "score": 5,
+        "datum": "2021-02-05",
+        "tekst": "Testreview 61",
+        "auteur": "Klant 61"
+      },
+      {
+        "score": 4,
+        "datum": "2025-12-27",
+        "tekst": "Testreview 62",
+        "auteur": "Klant 62"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-24",
+        "tekst": "Testreview 63",
+        "auteur": "Klant 63"
+      },
+      {
+        "score": 4,
+        "datum": "2019-03-31",
+        "tekst": "Testreview 64",
+        "auteur": "Klant 64"
+      },
+      {
+        "score": 5,
+        "datum": "2019-04-06",
+        "tekst": "Testreview 65",
+        "auteur": "Klant 65"
+      },
+      {
+        "score": 5,
+        "datum": "2021-11-06",
+        "tekst": "Testreview 66",
+        "auteur": "Klant 66"
+      },
+      {
+        "score": 5,
+        "datum": "2022-07-05",
+        "tekst": "Testreview 67",
+        "auteur": "Klant 67"
+      },
+      {
+        "score": 4,
+        "datum": "2022-07-25",
+        "tekst": "Testreview 68",
+        "auteur": "Klant 68"
+      },
+      {
+        "score": 4,
+        "datum": "2024-10-30",
+        "tekst": "Testreview 69",
+        "auteur": "Klant 69"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-22",
+        "tekst": "Testreview 70",
+        "auteur": "Klant 70"
+      },
+      {
+        "score": 4,
+        "datum": "2021-08-30",
+        "tekst": "Testreview 71",
+        "auteur": "Klant 71"
+      },
+      {
+        "score": 5,
+        "datum": "2021-02-22",
+        "tekst": "Testreview 72",
+        "auteur": "Klant 72"
+      },
+      {
+        "score": 5,
+        "datum": "2021-02-07",
+        "tekst": "Testreview 73",
+        "auteur": "Klant 73"
+      },
+      {
+        "score": 4,
+        "datum": "2024-07-17",
+        "tekst": "Testreview 74",
+        "auteur": "Klant 74"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-03",
+        "tekst": "Testreview 75",
+        "auteur": "Klant 75"
+      },
+      {
+        "score": 4,
+        "datum": "2021-08-09",
+        "tekst": "Testreview 76",
+        "auteur": "Klant 76"
+      },
+      {
+        "score": 5,
+        "datum": "2020-09-02",
+        "tekst": "Testreview 77",
+        "auteur": "Klant 77"
+      },
+      {
+        "score": 4,
+        "datum": "2025-03-17",
+        "tekst": "Testreview 78",
+        "auteur": "Klant 78"
+      },
+      {
+        "score": 4,
+        "datum": "2024-08-25",
+        "tekst": "Testreview 79",
+        "auteur": "Klant 79"
+      },
+      {
+        "score": 4,
+        "datum": "2023-01-22",
+        "tekst": "Testreview 80",
+        "auteur": "Klant 80"
+      },
+      {
+        "score": 5,
+        "datum": "2020-08-17",
+        "tekst": "Testreview 81",
+        "auteur": "Klant 81"
+      },
+      {
+        "score": 4,
+        "datum": "2026-01-29",
+        "tekst": "Testreview 82",
+        "auteur": "Klant 82"
+      },
+      {
+        "score": 4,
+        "datum": "2023-11-23",
+        "tekst": "Testreview 83",
+        "auteur": "Klant 83"
+      },
+      {
+        "score": 4,
+        "datum": "2020-04-04",
+        "tekst": "Testreview 84",
+        "auteur": "Klant 84"
+      },
+      {
+        "score": 4,
+        "datum": "2019-10-31",
+        "tekst": "Testreview 85",
+        "auteur": "Klant 85"
+      },
+      {
+        "score": 4,
+        "datum": "2021-02-22",
+        "tekst": "Testreview 86",
+        "auteur": "Klant 86"
+      },
+      {
+        "score": 5,
+        "datum": "2020-07-23",
+        "tekst": "Testreview 87",
+        "auteur": "Klant 87"
+      }
+    ],
+    "googleReviews": 87,
+    "recent24": 19,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Verlinden Dakwerken",
+    "gemeente": "Merelbeke",
+    "website": "https://verlinden-dak.be",
+    "googleScore": 4.8,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2024-03-20",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-07",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2022-03-05",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2024-01-12",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2022-11-14",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2021-01-07",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 4,
+        "datum": "2026-02-26",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 5,
+        "datum": "2021-03-01",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2023-01-23",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2021-07-25",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2021-04-22",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2024-02-16",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-06",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2022-06-07",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2021-06-12",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2022-07-07",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2021-08-01",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 4,
+        "datum": "2024-08-24",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 4,
+        "datum": "2025-06-24",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-16",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 4,
+        "datum": "2026-01-09",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 4,
+        "datum": "2022-05-19",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 4,
+        "datum": "2025-06-09",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2025-08-11",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2022-01-07",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2024-03-17",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2024-03-16",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2021-07-22",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 4,
+        "datum": "2024-01-14",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2026-03-18",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2024-05-14",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-01",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-15",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 4,
+        "datum": "2025-12-02",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-22",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-04",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 5,
+        "datum": "2021-05-23",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 4,
+        "datum": "2021-03-26",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 4,
+        "datum": "2022-04-23",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2020-09-03",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 4,
+        "datum": "2022-01-18",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      },
+      {
+        "score": 5,
+        "datum": "2023-01-06",
+        "tekst": "Testreview 42",
+        "auteur": "Klant 42"
+      },
+      {
+        "score": 4,
+        "datum": "2020-10-01",
+        "tekst": "Testreview 43",
+        "auteur": "Klant 43"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-31",
+        "tekst": "Testreview 44",
+        "auteur": "Klant 44"
+      },
+      {
+        "score": 5,
+        "datum": "2024-09-06",
+        "tekst": "Testreview 45",
+        "auteur": "Klant 45"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-24",
+        "tekst": "Testreview 46",
+        "auteur": "Klant 46"
+      },
+      {
+        "score": 4,
+        "datum": "2025-06-07",
+        "tekst": "Testreview 47",
+        "auteur": "Klant 47"
+      },
+      {
+        "score": 5,
+        "datum": "2023-01-18",
+        "tekst": "Testreview 48",
+        "auteur": "Klant 48"
+      },
+      {
+        "score": 5,
+        "datum": "2025-01-20",
+        "tekst": "Testreview 49",
+        "auteur": "Klant 49"
+      },
+      {
+        "score": 4,
+        "datum": "2023-10-04",
+        "tekst": "Testreview 50",
+        "auteur": "Klant 50"
+      },
+      {
+        "score": 5,
+        "datum": "2022-08-14",
+        "tekst": "Testreview 51",
+        "auteur": "Klant 51"
+      },
+      {
+        "score": 4,
+        "datum": "2021-07-29",
+        "tekst": "Testreview 52",
+        "auteur": "Klant 52"
+      },
+      {
+        "score": 5,
+        "datum": "2021-05-05",
+        "tekst": "Testreview 53",
+        "auteur": "Klant 53"
+      },
+      {
+        "score": 5,
+        "datum": "2022-02-05",
+        "tekst": "Testreview 54",
+        "auteur": "Klant 54"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-17",
+        "tekst": "Testreview 55",
+        "auteur": "Klant 55"
+      },
+      {
+        "score": 5,
+        "datum": "2021-01-29",
+        "tekst": "Testreview 56",
+        "auteur": "Klant 56"
+      },
+      {
+        "score": 4,
+        "datum": "2020-08-30",
+        "tekst": "Testreview 57",
+        "auteur": "Klant 57"
+      },
+      {
+        "score": 5,
+        "datum": "2022-07-14",
+        "tekst": "Testreview 58",
+        "auteur": "Klant 58"
+      },
+      {
+        "score": 5,
+        "datum": "2020-11-03",
+        "tekst": "Testreview 59",
+        "auteur": "Klant 59"
+      },
+      {
+        "score": 4,
+        "datum": "2022-10-18",
+        "tekst": "Testreview 60",
+        "auteur": "Klant 60"
+      },
+      {
+        "score": 5,
+        "datum": "2022-08-30",
+        "tekst": "Testreview 61",
+        "auteur": "Klant 61"
+      },
+      {
+        "score": 4,
+        "datum": "2026-03-30",
+        "tekst": "Testreview 62",
+        "auteur": "Klant 62"
+      },
+      {
+        "score": 4,
+        "datum": "2022-09-14",
+        "tekst": "Testreview 63",
+        "auteur": "Klant 63"
+      },
+      {
+        "score": 4,
+        "datum": "2020-12-10",
+        "tekst": "Testreview 64",
+        "auteur": "Klant 64"
+      }
+    ],
+    "googleReviews": 64,
+    "recent24": 18,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Roofline Gent",
+    "gemeente": "Gent",
+    "website": "https://roofline.be",
+    "googleScore": 4.9,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2023-12-30",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-12",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 4,
+        "datum": "2025-10-01",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2024-02-11",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2024-02-26",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2023-10-01",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 4,
+        "datum": "2022-11-11",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2022-12-15",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2022-10-07",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-03",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2025-07-24",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-16",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2022-12-17",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-14",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2024-12-09",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-22",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-12",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2023-08-07",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-06",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 4,
+        "datum": "2025-06-14",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 4,
+        "datum": "2023-04-18",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-24",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-20",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2023-03-21",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2025-02-16",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 4,
+        "datum": "2022-11-19",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 4,
+        "datum": "2023-12-14",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2023-08-04",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2026-06-16",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2026-02-02",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2023-05-22",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-25",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-23",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 5,
+        "datum": "2024-03-22",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2025-02-23",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-12",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2023-06-07",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-23",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-11",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-31",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 5,
+        "datum": "2023-08-28",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      },
+      {
+        "score": 5,
+        "datum": "2024-02-06",
+        "tekst": "Testreview 42",
+        "auteur": "Klant 42"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-18",
+        "tekst": "Testreview 43",
+        "auteur": "Klant 43"
+      },
+      {
+        "score": 4,
+        "datum": "2023-02-20",
+        "tekst": "Testreview 44",
+        "auteur": "Klant 44"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-03",
+        "tekst": "Testreview 45",
+        "auteur": "Klant 45"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-16",
+        "tekst": "Testreview 46",
+        "auteur": "Klant 46"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-25",
+        "tekst": "Testreview 47",
+        "auteur": "Klant 47"
+      },
+      {
+        "score": 5,
+        "datum": "2024-09-21",
+        "tekst": "Testreview 48",
+        "auteur": "Klant 48"
+      },
+      {
+        "score": 5,
+        "datum": "2023-03-24",
+        "tekst": "Testreview 49",
+        "auteur": "Klant 49"
+      },
+      {
+        "score": 4,
+        "datum": "2023-02-26",
+        "tekst": "Testreview 50",
+        "auteur": "Klant 50"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-31",
+        "tekst": "Testreview 51",
+        "auteur": "Klant 51"
+      },
+      {
+        "score": 5,
+        "datum": "2023-07-14",
+        "tekst": "Testreview 52",
+        "auteur": "Klant 52"
+      }
+    ],
+    "googleReviews": 52,
+    "recent24": 25,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Dakwerken De Clercq",
+    "gemeente": "Deinze",
+    "website": "https://declercq-dak.be",
+    "googleScore": 4.7,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2020-03-21",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2023-03-27",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-19",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2021-05-30",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2021-09-04",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 4,
+        "datum": "2020-05-11",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2023-07-14",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2020-04-23",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2025-11-09",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2019-09-09",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2021-09-13",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 4,
+        "datum": "2023-11-19",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2020-01-08",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2019-09-03",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-02",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2024-01-24",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2022-03-28",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2019-06-13",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-03",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 4,
+        "datum": "2020-11-01",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2019-06-18",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2022-06-09",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 4,
+        "datum": "2022-11-23",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-12",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2024-05-29",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2024-06-10",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2019-10-14",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2022-02-02",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-07",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2023-12-12",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 4,
+        "datum": "2023-03-27",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 5,
+        "datum": "2023-03-08",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 4,
+        "datum": "2025-05-25",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 4,
+        "datum": "2023-12-15",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 4,
+        "datum": "2024-10-14",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 5,
+        "datum": "2025-02-08",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2026-06-09",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 5,
+        "datum": "2019-11-17",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 5,
+        "datum": "2020-07-23",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2021-02-24",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 5,
+        "datum": "2024-08-14",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      }
+    ],
+    "googleReviews": 41,
+    "recent24": 9,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Van Hecke Dak & Gevel",
+    "gemeente": "Lochristi",
+    "website": null,
+    "googleScore": 4.8,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2022-06-14",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2023-10-29",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2023-11-25",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-21",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 4,
+        "datum": "2022-06-21",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 4,
+        "datum": "2025-08-06",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2025-09-14",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2021-12-17",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2023-11-03",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 4,
+        "datum": "2024-03-28",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2023-03-03",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2022-09-26",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2026-04-22",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-15",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-20",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2021-12-14",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2023-09-23",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 4,
+        "datum": "2022-02-01",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2022-04-13",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2022-09-17",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2023-11-29",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2023-07-30",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-23",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2021-11-01",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2022-08-15",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 4,
+        "datum": "2022-05-26",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2023-05-18",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2021-10-13",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 4,
+        "datum": "2021-08-25",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-05",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2024-11-24",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 4,
+        "datum": "2026-05-16",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-03",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 5,
+        "datum": "2021-10-10",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-02",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-31",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2022-09-01",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 4,
+        "datum": "2024-05-20",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      }
+    ],
+    "googleReviews": 38,
+    "recent24": 9,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Platdak Pro",
+    "gemeente": "Evergem",
+    "website": "https://platdakpro.be",
+    "googleScore": 4.6,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2026-01-13",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2024-06-25",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2023-08-18",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2023-08-04",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-09",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2024-01-21",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2024-09-12",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 5,
+        "datum": "2024-08-23",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2023-11-26",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2024-06-27",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2025-02-03",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-31",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2024-12-13",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-29",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-31",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2026-03-10",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2024-03-05",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2025-01-02",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2026-07-01",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 4,
+        "datum": "2024-09-13",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2025-03-06",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-09",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 4,
+        "datum": "2023-07-24",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2024-11-01",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2024-07-29",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 4,
+        "datum": "2024-10-17",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-31",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-18",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2024-12-30",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      }
+    ],
+    "googleReviews": 29,
+    "recent24": 21,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Gents Dakhuis",
+    "gemeente": "Gent",
+    "website": "https://gentsdakhuis.be",
+    "googleScore": 4.5,
+    "reviews": [
+      {
+        "score": 4,
+        "datum": "2020-12-17",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 4,
+        "datum": "2023-06-14",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2022-01-15",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2019-03-15",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-13",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-13",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 4,
+        "datum": "2020-01-03",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2019-09-15",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2019-10-17",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-23",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2020-11-17",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 4,
+        "datum": "2025-10-20",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2020-11-27",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-20",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2026-03-13",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2021-11-28",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 4,
+        "datum": "2025-06-20",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2018-05-20",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2022-08-25",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 4,
+        "datum": "2019-12-09",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2024-05-03",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 4,
+        "datum": "2022-06-09",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 4,
+        "datum": "2018-06-19",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 4,
+        "datum": "2025-05-25",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 4,
+        "datum": "2021-07-09",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2024-07-14",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2023-09-22",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2019-03-19",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 4,
+        "datum": "2018-07-19",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2020-08-26",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 4,
+        "datum": "2022-11-14",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 4,
+        "datum": "2020-09-02",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 5,
+        "datum": "2019-02-07",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-24",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2022-11-19",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 4,
+        "datum": "2022-09-09",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2023-03-27",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 5,
+        "datum": "2019-01-15",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 5,
+        "datum": "2023-08-10",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2022-07-08",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 4,
+        "datum": "2024-12-29",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      },
+      {
+        "score": 4,
+        "datum": "2018-08-09",
+        "tekst": "Testreview 42",
+        "auteur": "Klant 42"
+      },
+      {
+        "score": 4,
+        "datum": "2023-07-06",
+        "tekst": "Testreview 43",
+        "auteur": "Klant 43"
+      },
+      {
+        "score": 4,
+        "datum": "2020-03-04",
+        "tekst": "Testreview 44",
+        "auteur": "Klant 44"
+      },
+      {
+        "score": 5,
+        "datum": "2021-06-13",
+        "tekst": "Testreview 45",
+        "auteur": "Klant 45"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-20",
+        "tekst": "Testreview 46",
+        "auteur": "Klant 46"
+      },
+      {
+        "score": 4,
+        "datum": "2019-04-09",
+        "tekst": "Testreview 47",
+        "auteur": "Klant 47"
+      },
+      {
+        "score": 4,
+        "datum": "2025-11-02",
+        "tekst": "Testreview 48",
+        "auteur": "Klant 48"
+      },
+      {
+        "score": 5,
+        "datum": "2023-02-01",
+        "tekst": "Testreview 49",
+        "auteur": "Klant 49"
+      },
+      {
+        "score": 5,
+        "datum": "2021-10-19",
+        "tekst": "Testreview 50",
+        "auteur": "Klant 50"
+      },
+      {
+        "score": 5,
+        "datum": "2023-10-23",
+        "tekst": "Testreview 51",
+        "auteur": "Klant 51"
+      },
+      {
+        "score": 4,
+        "datum": "2025-12-22",
+        "tekst": "Testreview 52",
+        "auteur": "Klant 52"
+      },
+      {
+        "score": 5,
+        "datum": "2025-11-12",
+        "tekst": "Testreview 53",
+        "auteur": "Klant 53"
+      },
+      {
+        "score": 5,
+        "datum": "2023-05-20",
+        "tekst": "Testreview 54",
+        "auteur": "Klant 54"
+      },
+      {
+        "score": 4,
+        "datum": "2026-05-15",
+        "tekst": "Testreview 55",
+        "auteur": "Klant 55"
+      }
+    ],
+    "googleReviews": 55,
+    "recent24": 13,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Dakteam Nova",
+    "gemeente": "Wetteren",
+    "website": "https://dakteamnova.be",
+    "googleScore": 4.2,
+    "reviews": [
+      {
+        "score": 3,
+        "datum": "2024-01-19",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 4,
+        "datum": "2021-08-07",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 4,
+        "datum": "2021-12-23",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2020-11-03",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 3,
+        "datum": "2022-01-11",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 3,
+        "datum": "2019-01-04",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 3,
+        "datum": "2021-07-07",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 3,
+        "datum": "2023-12-08",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2020-12-16",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 3,
+        "datum": "2023-08-17",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2023-06-19",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 4,
+        "datum": "2019-02-19",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2021-07-27",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 3,
+        "datum": "2018-11-11",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2019-04-20",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2023-01-29",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 4,
+        "datum": "2023-09-19",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 4,
+        "datum": "2019-01-07",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-16",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2025-01-27",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2024-09-12",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-16",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-07",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-18",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2024-12-23",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-26",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2025-12-22",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2026-01-23",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2024-11-19",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 4,
+        "datum": "2025-07-24",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2026-06-30",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 4,
+        "datum": "2024-12-30",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2024-10-10",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-15",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 4,
+        "datum": "2025-09-15",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-13",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2026-06-21",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-03",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-03",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-15",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      }
+    ],
+    "googleReviews": 40,
+    "recent24": 22,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Dakcentrale Oost",
+    "gemeente": "Melle",
+    "website": "https://dakcentrale.be",
+    "googleScore": 4.7,
+    "reviews": [
+      {
+        "score": 4,
+        "datum": "2020-05-31",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2020-07-25",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2018-08-01",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2019-09-17",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 4,
+        "datum": "2017-06-05",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 4,
+        "datum": "2018-07-25",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2017-07-25",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2021-03-06",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2023-05-26",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2019-09-27",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2023-01-23",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2022-06-25",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2017-12-14",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2018-05-29",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2020-01-13",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2022-05-26",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2017-08-06",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2020-01-20",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2018-04-22",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2017-04-17",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2023-02-06",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 4,
+        "datum": "2020-04-12",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2021-05-15",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2019-04-30",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 4,
+        "datum": "2020-11-05",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2021-10-03",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 4,
+        "datum": "2019-07-22",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 4,
+        "datum": "2018-09-13",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 4,
+        "datum": "2023-04-09",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2022-02-22",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 4,
+        "datum": "2021-01-22",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      }
+    ],
+    "googleReviews": 31,
+    "recent24": 0,
+    "rankbaar": false
+  },
+  {
+    "bedrijf": "Dakwerken Nieuwenhove",
+    "gemeente": "Gent",
+    "website": "https://dakwerken-nieuwenhove.be",
+    "googleScore": 5,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2026-06-27",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-05",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 4,
+        "datum": "2026-06-21",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2026-05-07",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-19",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-07",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-04",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      }
+    ],
+    "googleReviews": 7,
+    "recent24": 7,
+    "rankbaar": false
+  },
+  {
+    "bedrijf": "Top Dak Vlaanderen",
+    "gemeente": "Merelbeke",
+    "website": null,
+    "googleScore": 4.9,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2025-12-22",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 4,
+        "datum": "2026-05-05",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 4,
+        "datum": "2026-04-07",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-19",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-25",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-11",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-27",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-22",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      }
+    ],
+    "googleReviews": 8,
+    "recent24": 8,
+    "rankbaar": false
+  },
+  {
+    "bedrijf": "Dakwerken Kust",
+    "gemeente": "Oostende",
+    "website": "https://dakkust.be",
+    "googleScore": 4.8,
+    "reviews": [
+      {
+        "score": 4,
+        "datum": "2025-03-01",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2023-10-27",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2025-08-05",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2022-11-26",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2025-11-26",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-27",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-26",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2022-06-09",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 4,
+        "datum": "2023-06-18",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-12",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-10",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-28",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2023-03-05",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-20",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 5,
+        "datum": "2022-10-18",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2025-03-27",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 4,
+        "datum": "2025-08-09",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 4,
+        "datum": "2025-09-16",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-14",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2025-09-26",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2025-01-11",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-06",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2024-03-09",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-23",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 4,
+        "datum": "2023-02-18",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2022-12-31",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-12",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2023-06-18",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-22",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2023-05-13",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-20",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 4,
+        "datum": "2026-04-09",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 4,
+        "datum": "2024-09-20",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-17",
+        "tekst": "Testreview 34",
+        "auteur": "Klant 34"
+      },
+      {
+        "score": 5,
+        "datum": "2023-04-13",
+        "tekst": "Testreview 35",
+        "auteur": "Klant 35"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-01",
+        "tekst": "Testreview 36",
+        "auteur": "Klant 36"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-05",
+        "tekst": "Testreview 37",
+        "auteur": "Klant 37"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-02",
+        "tekst": "Testreview 38",
+        "auteur": "Klant 38"
+      },
+      {
+        "score": 4,
+        "datum": "2024-05-04",
+        "tekst": "Testreview 39",
+        "auteur": "Klant 39"
+      },
+      {
+        "score": 5,
+        "datum": "2025-08-06",
+        "tekst": "Testreview 40",
+        "auteur": "Klant 40"
+      },
+      {
+        "score": 5,
+        "datum": "2022-06-21",
+        "tekst": "Testreview 41",
+        "auteur": "Klant 41"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-14",
+        "tekst": "Testreview 42",
+        "auteur": "Klant 42"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-05",
+        "tekst": "Testreview 43",
+        "auteur": "Klant 43"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-26",
+        "tekst": "Testreview 44",
+        "auteur": "Klant 44"
+      },
+      {
+        "score": 4,
+        "datum": "2025-09-08",
+        "tekst": "Testreview 45",
+        "auteur": "Klant 45"
+      }
+    ],
+    "googleReviews": 45,
+    "recent24": 26,
+    "rankbaar": false
+  },
+  {
+    "bedrijf": "EPDM Express",
+    "gemeente": "Drongen",
+    "website": "https://epdm-express.be",
+    "googleScore": 4.4,
+    "reviews": [
+      {
+        "score": 4,
+        "datum": "2024-02-13",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 4,
+        "datum": "2022-05-31",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2024-11-29",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 5,
+        "datum": "2022-04-09",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2023-05-22",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 4,
+        "datum": "2026-06-30",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-09",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2026-02-17",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2025-11-28",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-03",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 5,
+        "datum": "2023-09-19",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2023-06-15",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 4,
+        "datum": "2023-10-12",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 4,
+        "datum": "2024-06-24",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2024-03-06",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 4,
+        "datum": "2024-11-13",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-01",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-26",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 4,
+        "datum": "2022-07-12",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 4,
+        "datum": "2022-03-12",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2024-07-29",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2022-03-27",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 4,
+        "datum": "2022-12-06",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 4,
+        "datum": "2024-12-17",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-09",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 5,
+        "datum": "2025-10-27",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      }
+    ],
+    "googleReviews": 26,
+    "recent24": 13,
+    "rankbaar": true
+  },
+  {
+    "bedrijf": "Zinkatelier Gent",
+    "gemeente": "Gent",
+    "website": "https://zinkatelier.be",
+    "googleScore": 4.9,
+    "reviews": [
+      {
+        "score": 5,
+        "datum": "2024-10-16",
+        "tekst": "Testreview 1",
+        "auteur": "Klant 1"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-15",
+        "tekst": "Testreview 2",
+        "auteur": "Klant 2"
+      },
+      {
+        "score": 5,
+        "datum": "2026-03-03",
+        "tekst": "Testreview 3",
+        "auteur": "Klant 3"
+      },
+      {
+        "score": 4,
+        "datum": "2025-04-10",
+        "tekst": "Testreview 4",
+        "auteur": "Klant 4"
+      },
+      {
+        "score": 5,
+        "datum": "2025-09-03",
+        "tekst": "Testreview 5",
+        "auteur": "Klant 5"
+      },
+      {
+        "score": 5,
+        "datum": "2024-06-17",
+        "tekst": "Testreview 6",
+        "auteur": "Klant 6"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-19",
+        "tekst": "Testreview 7",
+        "auteur": "Klant 7"
+      },
+      {
+        "score": 4,
+        "datum": "2024-05-23",
+        "tekst": "Testreview 8",
+        "auteur": "Klant 8"
+      },
+      {
+        "score": 5,
+        "datum": "2023-12-14",
+        "tekst": "Testreview 9",
+        "auteur": "Klant 9"
+      },
+      {
+        "score": 4,
+        "datum": "2025-04-26",
+        "tekst": "Testreview 10",
+        "auteur": "Klant 10"
+      },
+      {
+        "score": 4,
+        "datum": "2024-02-02",
+        "tekst": "Testreview 11",
+        "auteur": "Klant 11"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-21",
+        "tekst": "Testreview 12",
+        "auteur": "Klant 12"
+      },
+      {
+        "score": 5,
+        "datum": "2026-02-16",
+        "tekst": "Testreview 13",
+        "auteur": "Klant 13"
+      },
+      {
+        "score": 5,
+        "datum": "2024-10-28",
+        "tekst": "Testreview 14",
+        "auteur": "Klant 14"
+      },
+      {
+        "score": 4,
+        "datum": "2026-06-11",
+        "tekst": "Testreview 15",
+        "auteur": "Klant 15"
+      },
+      {
+        "score": 5,
+        "datum": "2025-07-26",
+        "tekst": "Testreview 16",
+        "auteur": "Klant 16"
+      },
+      {
+        "score": 5,
+        "datum": "2026-04-03",
+        "tekst": "Testreview 17",
+        "auteur": "Klant 17"
+      },
+      {
+        "score": 5,
+        "datum": "2024-05-19",
+        "tekst": "Testreview 18",
+        "auteur": "Klant 18"
+      },
+      {
+        "score": 5,
+        "datum": "2024-05-06",
+        "tekst": "Testreview 19",
+        "auteur": "Klant 19"
+      },
+      {
+        "score": 5,
+        "datum": "2024-08-21",
+        "tekst": "Testreview 20",
+        "auteur": "Klant 20"
+      },
+      {
+        "score": 5,
+        "datum": "2026-05-29",
+        "tekst": "Testreview 21",
+        "auteur": "Klant 21"
+      },
+      {
+        "score": 5,
+        "datum": "2024-02-07",
+        "tekst": "Testreview 22",
+        "auteur": "Klant 22"
+      },
+      {
+        "score": 5,
+        "datum": "2024-04-25",
+        "tekst": "Testreview 23",
+        "auteur": "Klant 23"
+      },
+      {
+        "score": 4,
+        "datum": "2025-01-08",
+        "tekst": "Testreview 24",
+        "auteur": "Klant 24"
+      },
+      {
+        "score": 5,
+        "datum": "2025-06-29",
+        "tekst": "Testreview 25",
+        "auteur": "Klant 25"
+      },
+      {
+        "score": 4,
+        "datum": "2026-02-27",
+        "tekst": "Testreview 26",
+        "auteur": "Klant 26"
+      },
+      {
+        "score": 4,
+        "datum": "2024-05-15",
+        "tekst": "Testreview 27",
+        "auteur": "Klant 27"
+      },
+      {
+        "score": 5,
+        "datum": "2025-04-03",
+        "tekst": "Testreview 28",
+        "auteur": "Klant 28"
+      },
+      {
+        "score": 5,
+        "datum": "2025-12-19",
+        "tekst": "Testreview 29",
+        "auteur": "Klant 29"
+      },
+      {
+        "score": 4,
+        "datum": "2026-03-12",
+        "tekst": "Testreview 30",
+        "auteur": "Klant 30"
+      },
+      {
+        "score": 5,
+        "datum": "2025-02-13",
+        "tekst": "Testreview 31",
+        "auteur": "Klant 31"
+      },
+      {
+        "score": 5,
+        "datum": "2026-06-14",
+        "tekst": "Testreview 32",
+        "auteur": "Klant 32"
+      },
+      {
+        "score": 5,
+        "datum": "2025-05-05",
+        "tekst": "Testreview 33",
+        "auteur": "Klant 33"
+      }
+    ],
+    "googleReviews": 33,
+    "recent24": 24,
+    "rankbaar": true
+  }
+]

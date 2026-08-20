@@ -1,0 +1,82 @@
+KEURWIJZER CONTROLERAPPORT — dakwerkers-meetjesland  (variant: Top 10-concept, geen zichtbare score)
+Peildatum: 2026-07-23 · Prior C (regiogemiddelde, tijdsgewogen): 4.436
+Methodiek-versie: 1 (vastgepind in config)  ·  vertrouwen-vloer 3.5→0, 5.0→1  ·  recentheid vol bij 6 reviews/24m  ·  publicatiedrempel ≥10 reviews
+Opnamecriteria: gemeente in lijst, ≥10 reviews, ≥3 in 24m
+Gewichten: 35% vertrouwen / 30% reviewkwaliteit / 15% recentheid / 20% vakfocus
+Eligible bedrijven: 9 (waarvan 9 publicabel, ≥10 reviews) → gepubliceerd: Top 5 (5 bedrijven)
+
+TOP 5  (dit staat op de site — zonder cijfer)
+pos  comp   trust  rq    rec   focus  bayes  Rw    v_w    n24  reviews  bedrijf
+ #1  0.816  0.725  0.88  1.00  0.75   4.59   4.88    8.3    7       15  Dakwerken Glenn Van Damme
+ #2  0.788  0.788  0.88  1.00  0.50   4.68   4.94   15.1    8       31  Algemene renovatiewerken (RDC)
+ #3  0.747  0.633  0.75  1.00  0.75   4.45   4.47   10.0   10       28  Dakwerken Schepens
+ #4  0.705  0.443  0.75  1.00  0.88   4.16   3.91   17.0   16       42  Dakwerken Boelaert
+ #5  0.686  0.639  0.63  0.67  0.88   4.46   4.54    4.5    4       13  VSB Dakwerken
+
+VAKFOCUS-AUDIT (bron van de specialiteitsdimensie, per gerankt bedrijf)
+    Dakwerken Glenn Van Damme — 4.0 via http://www.glennvandamme.be/
+    Algemene renovatiewerken (RDC) — 3.0 via https://www.renovatiewerkenrdc.be/
+    Dakwerken Schepens — 4.0 via http://www.dakwerkenschepens.be/
+    Dakwerken Boelaert — 4.5 via http://www.dakwerken-boelaert.be/
+    VSB Dakwerken — 4.5 via https://www.vsb-dakwerken.be/
+
+BREUKSIGNALEN (tijdspatroon gedetecteerd door de LLM)
+    Dakwerken Schepens — Reviews van vóór 2022 bevatten meerdere klachten over niet-nagekomen afspraken; de reviews van de laatste twee jaar tonen een duidelijk sterkere, consistente lijn.
+
+ROBUUSTHEID VAN DE SELECTIE (±0,5 op reviewkwaliteit + vakfocus, 5000 trials, vaste seed)
+  kans = P(blijft in Top 5)   ·   band = 5e–95e percentiel van de positie
+  #1  kans 100%   band #1–#2   vast          Dakwerken Glenn Van Damme
+  #2  kans 100%   band #1–#3   vast          Algemene renovatiewerken (RDC)
+  #3  kans 100%   band #2–#4   vast          Dakwerken Schepens
+  #4  kans 100%   band #3–#5   vast          Dakwerken Boelaert
+  #5  kans 100%   band #4–#5   vast          VSB Dakwerken
+  Samengevat: 5 vast, 0 waarschijnlijk, 0 wankel (van 5).
+  Marge #5 → eerstvolgende publicabele (Algemeen schrijnwerk & zonnewering rolluiken screens. Leverancier van zonwering, velux Rolluiken. Janzonwering.be): 0.090.
+
+BEDRIJVEN 6–9 — NIET OP DE SITE (zie prospectiedocument voor dasslim.be)
+    # 6  comp 0.597  Algemeen schrijnwerk & zonnewering rolluiken screens. Leverancier van zonwering, velux Rolluiken. Janzonwering.be
+    # 7  comp 0.584  Renovatiewerken Martlé BV
+    # 8  comp 0.568  De Roose BV
+    # 9  comp 0.558  Domecijn Jari
+
+NOG NIET ELIGIBLE — NIET OP DE SITE (wél in prospectiedocument, max 10)
+    Bv Mario Moens — Nog te weinig recente reviews (1 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Dakwerken Flement — Nog te weinig recente reviews (2 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Dsb Dakwerken Bvba — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Duratop — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Pauwels Dakwerken — Nog te weinig Google-reviews (8 van min. 10) om betrouwbaar te beoordelen.
+    Asseneedse Dakwerken — Nog te weinig Google-reviews (6 van min. 10) om betrouwbaar te beoordelen.
+    Dak -Gevel & Renovatiewerken Martlé BV — Nog te weinig Google-reviews (6 van min. 10) om betrouwbaar te beoordelen.
+    Daktimmerwerken.be - Persyn Aaron — Nog te weinig Google-reviews (4 van min. 10) om betrouwbaar te beoordelen.
+    Platte Daken I Van de Velde Darwin — Nog te weinig Google-reviews (4 van min. 10) om betrouwbaar te beoordelen.
+    RD Dakwerken — Nog te weinig Google-reviews (4 van min. 10) om betrouwbaar te beoordelen.
+
+GEEN LOCATIEDATA (geen gemeente → altijd weggelaten, niet geraden)
+    Bvba Van Audenaerde R. — https://dakwerkenvanaudenaerde.be/
+    Dakwerken Vanden Bossche Quinten — https://www.vdbq.be/
+    MJ-Roofs — https://www.mj-roofs.be/
+    Avrs-team — https://www.avrs-team.be/
+    Dakwerken Dirk Standaert — http://www.dakwerken-standaert.be/
+    Dakwerken Thorben — http://www.thorben-dakwerken.be/
+    ISO Dakwerken Evergem — https://iso-dakwerken-evergem.be/
+    Algemene Dakwerken Baele BV — https://www.facebook.com/profile.php?id=100054269241737
+    Dakwerken Vanhooren — https://www.dakwerkenvanhooren.be/
+
+BUITEN DE GEMEENTELIJST (volledig weggelaten)
+    Dakwerken Roels (Deinze)
+    Adam Algemene Dakwerken (Lochristi)
+    Dakwerken Schellynck bv (Lochristi)
+    Dakwerken GDB (Evergem)
+    Dakwerken Moentjens (Evergem)
+
+WAARSCHUWINGEN
+  ! dubbele bedrijfsnaam in reviews.json: "Dakwerken Thorben" — vestigingen worden niet samengevoegd en delen dezelfde beoordeling; controleer of dit klopt
+  ! "Bvba Van Audenaerde R.": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Dakwerken Vanden Bossche Quinten": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "MJ-Roofs": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Avrs-team": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Dakwerken Dirk Standaert": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Dakwerken Thorben": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "ISO Dakwerken Evergem": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Algemene Dakwerken Baele BV": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)
+  ! "Dakwerken Vanhooren": geen gemeente in de data — weggelaten (geen locatiedata → altijd weglaten)

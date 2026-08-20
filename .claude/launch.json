@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "keurwijzer-local",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "output", "-l", "3456", "--no-clipboard"],
+      "port": 3456
+    }
+  ]
+}

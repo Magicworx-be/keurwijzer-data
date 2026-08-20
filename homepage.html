@@ -1,0 +1,1066 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keurwijzer.be — de best beoordeelde vakspecialisten per regio in België</title>
+<meta name="description" content="Keurwijzer selecteert lokale vakspecialisten per niche en regio op basis van publieke Google-reviews, reviewkwaliteit, recentheid en vakfocus. Geen advertenties, geen betaalde plaatsen — enkel een transparante selectie per regio.">
+<meta name="theme-color" content="#619870">
+
+<link rel="canonical" href="https://keurwijzer.be/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="Keurwijzer">
+<meta name="publisher" content="Keurwijzer">
+<meta name="geo.region" content="BE-VLG">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="nl_BE">
+<meta property="og:site_name" content="Keurwijzer">
+<meta property="og:url" content="https://keurwijzer.be">
+<meta property="og:title" content="Keurwijzer.be — de best beoordeelde vakspecialisten per regio">
+<meta property="og:description" content="Een onafhankelijke kwaliteitsselectie van lokale vakspecialisten, berekend uit publieke reviewdata. Geen betaalde plaatsen.">
+<meta property="og:image" content="https://assets.cdn.filesafe.space/fgbjON9EFqwVMZW3nImb/media/6a56552b524a3ec4c67a7cac.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://assets.cdn.filesafe.space/fgbjON9EFqwVMZW3nImb/media/6a56552b524a3ec4c67a7cac.png">
+<meta name="twitter:title" content="Keurwijzer.be — de best beoordeelde vakspecialisten per regio">
+<meta name="twitter:description" content="Een onafhankelijke kwaliteitsselectie van lokale vakspecialisten, berekend uit publieke reviewdata.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- =====================================================================
+  KEURWIJZER — HOMEPAGINA
+  Volledig congruent met template.html (directorypagina's):
+  identieke design tokens, nav, container (--maxw 1200px), hero-systeem,
+  methodiek-kaarten, FAQ-stijl, footer en scripts.
+
+  ONDERHOUD — 3 plekken om aan te passen bij een nieuwe niche/regio:
+    1. <nav class="nav-mid">  ......  sectorlinks bovenaan
+    2. <section id="niches">  ......  het vakgebiedenraster (data-status="live|soon")
+    3. <footer>               ......  sectorkolom
+  ===================================================================== -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://keurwijzer.be/#organization",
+      "name": "Keurwijzer",
+      "url": "https://keurwijzer.be",
+      "email": "info@keurwijzer.be",
+      "description": "Keurwijzer is een onafhankelijke kwaliteitsselectie van lokale vakspecialisten per niche en regio in België, berekend uit publieke reviewdata.",
+      "parentOrganization": { "@type": "Organization", "name": "Magicworx bv" },
+      "areaServed": { "@type": "Country", "name": "België" }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://keurwijzer.be/#website",
+      "url": "https://keurwijzer.be/",
+      "name": "Keurwijzer.be",
+      "inLanguage": "nl-BE",
+      "publisher": { "@id": "https://keurwijzer.be/#organization" }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://keurwijzer.be/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hoe bepaalt Keurwijzer welke bedrijven geselecteerd worden?",
+          "acceptedAnswer": { "@type": "Answer", "text": "De selectie wordt bepaald op basis van vier criteria: vertrouwen (35%), reviewkwaliteit (30%), recentheid (15%) en specialiteit (20%). De bedrijven met de hoogste gecombineerde beoordeling vormen samen de selectie van een regio. Alle gegevens waarop we ons baseren zijn publiek: Google-reviews en de eigen website van het bedrijf. Dezelfde methode geldt voor elk bedrijf in elke regio. Onze methodologie en de AI-prompt die gebruikt wordt om bedrijven te beoordelen kunnen op eenvoudig verzoek opgevraagd worden." }
+        },
+        {
+          "@type": "Question",
+          "name": "Kan een bedrijf betalend opgenomen worden op Keurwijzer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nee. Een betaalde opname bestaat niet." }
+        },
+        {
+          "@type": "Question",
+          "name": "Hoe vaak wordt de lijst met bedrijven geüpdatet?",
+          "acceptedAnswer": { "@type": "Answer", "text": "We herberekenen jaarlijks alles opnieuw met verse data. Een plaats in de selectie is dus nooit verworven." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Keurwijzer gratis?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Ja. Keurwijzer is en blijft een gratis initiatief, dat bezoekers wil helpen een geschikte vakspecialist in hun buurt te vinden. Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau dasslim.be uitbaat. Bedrijven kunnen ervoor kiezen om, los van hun opname, met ons samen te werken voor hun marketing; zo'n samenwerking heeft geen enkele invloed op hun opname." }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+/* ===================== DESIGN TOKENS (identiek aan template.html) ===================== */
+:root {
+  --primary:       #619870;
+  --primary-d:     #005C2B;
+  --primary-bg:    #E8F6EE;
+  --primary-ring:  #C0E8D0;
+  --secondary:     #191919;
+  --bg:            #FFFFFF;
+  --bg-soft:       #F4F7F5;
+  --card:          #FFFFFF;
+  --ink:           #26382E;
+  --muted:         #4A5E54;
+  --faint:         #8A9E94;
+  --amber-bg:      #FBF1DD;
+  --amber-d:       #8A5A0F;
+  --slate-bg:      #EEF2F4;
+  --slate-d:       #41606C;
+  --dark:          #26382E;
+  --line:          #E4EBE7;
+  --line-2:        #D4DDD8;
+  --gold:          #D9A33A;
+  --display:       'Plus Jakarta Sans', system-ui, sans-serif;
+  --sans:          'Manrope', system-ui, -apple-system, sans-serif;
+  --r:             16px;
+  --r-sm:          10px;
+  --pill:          999px;
+  --maxw:          1200px;
+  --shadow:        0 1px 3px rgba(38,56,46,.05), 0 8px 24px rgba(38,56,46,.06);
+  --shadow-hover:  0 2px 6px rgba(38,56,46,.07), 0 18px 40px rgba(38,56,46,.11);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 17px; line-height: 1.65; }
+.container { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+a { color: inherit; }
+h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.1; letter-spacing: -0.025em; margin: 0; }
+p { margin: 0; }
+img { display: block; max-width: 100%; }
+.eyebrow { font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--primary); }
+.svgsym { position: absolute; width: 0; height: 0; overflow: hidden; }
+.ico use { stroke: currentColor; fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ===================== BUTTONS ===================== */
+.btn { display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-weight: 600; font-size: 15px; text-decoration: none; border-radius: var(--pill); padding: 13px 24px; cursor: pointer; border: 1.5px solid transparent; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease, transform .12s ease; white-space: nowrap; }
+.btn:active { transform: translateY(1px); }
+.btn-primary { background: var(--primary); color: #fff; box-shadow: 0 4px 14px rgba(0,160,77,.28); }
+.btn-primary:hover { background: var(--primary-d); box-shadow: 0 6px 20px rgba(0,160,77,.34); }
+.btn-ghost { background: transparent; color: var(--ink); border-color: var(--line-2); }
+.btn-ghost:hover { border-color: var(--primary); color: var(--primary-d); }
+.btn-sm { padding: 10px 18px; font-size: 14px; }
+
+/* ===================== TOPBAR ===================== */
+.nav { position: absolute; top: 0; left: 0; right: 0; z-index: 30; background: transparent; }
+.nav-in { display: flex; align-items: center; justify-content: space-between; gap: 14px; height: 76px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.brand .name { font-family: var(--display); font-weight: 700; font-size: 21px; letter-spacing: -0.03em; color: #fff; }
+.brand-tag { font-family: var(--sans); font-size: 11px; font-weight: 600; letter-spacing: 0.03em; color: var(--primary); background: rgba(0,160,77,.16); border: 1px solid rgba(0,160,77,.3); border-radius: var(--pill); padding: 3px 10px; }
+.nav-mid { display: flex; align-items: center; gap: 24px; font-size: 14px; font-weight: 500; }
+.nav-mid a { text-decoration: none; color: rgba(255,255,255,.75); transition: color .15s; }
+.nav-mid a:hover { color: #fff; }
+.nav-cta { display: flex; align-items: center; gap: 10px; }
+.nav-cta .btn-ghost { color: #fff; border-color: rgba(255,255,255,.25); }
+.nav-cta .btn-ghost:hover { border-color: #fff; background: rgba(255,255,255,.07); }
+.nav.scrolled { position: fixed; background: rgba(38,56,46,.94); backdrop-filter: saturate(160%) blur(14px); border-bottom: 1px solid rgba(255,255,255,.08); }
+
+/* ===================== HERO (identiek systeem aan template.html) ===================== */
+.hero {
+  --hero-pt: clamp(90px, 10vw, 110px);
+  --hero-pb: clamp(60px, 8vw, 88px);
+  --hero-bleed: max(24px, calc((100vw - var(--maxw)) / 2));
+  --hero-img-radius: 44px;
+  --hero-img-top: clamp(70px, 8vw, 120px);
+  --hero-skew: -5deg;
+  --hero-tint: var(--primary);
+  --hero-tint-op: 0.20;
+  --hero-tint-blend: soft-light;
+  --hero-img-sat: 0.88;
+  --hero-img-contrast: 1.04;
+  --hero-img-bright: 0.94;
+  --hero-fade-op: 0.85;
+  position: relative; overflow: hidden; background: var(--secondary); display: flex; align-items: stretch;
+}
+.hero-bg { position: absolute; inset: 0; pointer-events: none; }
+.hero-bg::before { content: ""; position: absolute; top: -15%; left: -8%; width: 55%; height: 75%; border-radius: 50%; background: radial-gradient(ellipse, rgba(0,160,77,.18) 0%, transparent 65%); animation: glow 9s ease-in-out infinite; }
+.hero-bg::after { content: ""; position: absolute; bottom: -15%; right: 0; width: 45%; height: 65%; border-radius: 50%; background: radial-gradient(ellipse, rgba(0,160,77,.09) 0%, transparent 65%); animation: glow 11s ease-in-out infinite reverse; }
+@keyframes glow { 0%,100% { opacity: .75; transform: scale(1); } 50% { opacity: 1; transform: scale(1.07); } }
+.hero-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; width: 100%; padding: var(--hero-pt) 0 var(--hero-pb); }
+.hero-left { position: relative; z-index: 2; }
+.hero h1 { font-size: clamp(34px,5vw,60px); letter-spacing: -0.03em; margin-bottom: 22px; color: #fff; line-height: 1.1; }
+.hero h1 .hl { color: var(--primary); }
+.hero .lede { font-size: clamp(15.5px,1.5vw,18px); color: rgba(255,255,255,.58); max-width: 46ch; margin-bottom: 34px; line-height: 1.7; }
+.hero-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 0; }
+.stats { display: flex; flex-wrap: wrap; gap: 14px 44px; border-top: 1px solid rgba(255,255,255,.1); padding-top: 26px; margin-top: 48px; }
+.stat .num { font-family: var(--display); font-weight: 700; font-size: clamp(26px,3.2vw,38px); letter-spacing: -0.03em; line-height: 1; color: #fff; }
+.stat .lab { font-size: 12.5px; color: rgba(255,255,255,.45); margin-top: 6px; max-width: 18ch; font-family: var(--sans); }
+
+/* ---------- HERO VISUAL ---------- */
+.hero-right {
+  position: relative; z-index: 2;
+  align-self: stretch;
+  margin-right: calc(-1 * var(--hero-bleed));
+  margin-bottom: calc(-1 * var(--hero-pb));
+}
+.hero-photo {
+  position: absolute;
+  top: var(--hero-img-top);
+  bottom: 0; left: 0; right: -80px;
+  border-radius: var(--hero-img-radius) 0 0 var(--hero-img-radius);
+  overflow: hidden;
+  isolation: isolate;
+  box-shadow: 0 30px 80px rgba(0,0,0,.45);
+  background: #101a13;
+  transform: skewX(var(--hero-skew));
+}
+.hero-photo-inner { position: absolute; inset: 0 -80px; transform: skewX(calc(-1 * var(--hero-skew))); overflow: hidden; }
+.hero-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; filter: saturate(var(--hero-img-sat)) contrast(var(--hero-img-contrast)) brightness(var(--hero-img-bright)); }
+.hero-photo::before { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none; background: var(--hero-tint); opacity: var(--hero-tint-op); mix-blend-mode: var(--hero-tint-blend); }
+.hero-photo::after {
+  content: ""; position: absolute; inset: 0 -80px; z-index: 2; pointer-events: none;
+  transform: skewX(calc(-1 * var(--hero-skew)));
+  background:
+    linear-gradient(90deg, var(--secondary) 0%, rgba(25,25,25,0) 34%),
+    linear-gradient(0deg, rgba(25,25,25,.55) 0%, rgba(25,25,25,0) 30%);
+  opacity: var(--hero-fade-op);
+}
+
+/* ---------- ZWEVEND SCOREKAARTJE OVER DE FOTO ---------- */
+.score-card {
+  position: absolute; z-index: 5;
+  left: -26px; bottom: clamp(34px, 6vw, 64px);
+  width: 286px; max-width: 82%;
+  background: rgba(255,255,255,.96);
+  backdrop-filter: saturate(150%) blur(8px);
+  border: 1px solid rgba(255,255,255,.7);
+  border-radius: 18px;
+  padding: 16px 18px;
+  box-shadow: 0 24px 60px rgba(0,0,0,.45);
+  animation: floaty 6.5s ease-in-out infinite;
+}
+@keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+.score-card .sc-top { display: flex; align-items: center; gap: 13px; }
+.score-card .sc-name { font-family: var(--display); font-weight: 700; font-size: 15px; letter-spacing: -0.02em; line-height: 1.2; }
+.score-card .sc-sub { font-size: 12px; color: var(--faint); margin-top: 3px; }
+.score-card .sc-rank { display: inline-flex; align-items: baseline; gap: 3px; font-family: var(--display); font-weight: 800; font-size: 11px; color: var(--primary-d); background: var(--primary-bg); border-radius: var(--pill); padding: 3px 9px; margin-bottom: 8px; }
+.score-card .sc-bars { margin-top: 13px; padding-top: 12px; border-top: 1px solid var(--line); display: grid; gap: 7px; }
+.sc-row { display: grid; grid-template-columns: 92px 1fr; align-items: center; gap: 10px; font-size: 11px; color: var(--muted); font-weight: 600; }
+.sc-track { height: 5px; border-radius: 3px; background: var(--primary-ring); overflow: hidden; }
+.sc-fill { height: 100%; width: 0; border-radius: 3px; background: var(--primary); transition: width 1.1s cubic-bezier(.2,.7,.2,1); }
+.sc-fill.f2 { background: #7B9E8A; } .sc-fill.f3 { background: var(--slate-d); } .sc-fill.f4 { background: var(--gold); }
+.ring { width: 64px; height: 64px; border-radius: 50%; flex: none; display: grid; place-items: center; background: conic-gradient(var(--primary) calc(var(--p, 0)*1%), var(--primary-ring) 0); transition: background .4s ease; }
+.ring .rin { width: 50px; height: 50px; border-radius: 50%; background: var(--card); display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.ring .rin .kw-score { font-family: var(--display); font-weight: 700; font-size: 16px; letter-spacing: -0.02em; color: var(--ink); line-height: 1; }
+.ring .rin .kw-unit { font-family: var(--sans); font-weight: 600; font-size: 9px; color: var(--faint); line-height: 1; margin-top: 1px; }
+
+@media (max-width: 1000px) { .hero { --hero-img-radius: 34px; } }
+@media (max-width: 860px) {
+  .hero { --hero-skew: -3deg; }
+  .hero-layout { grid-template-columns: 1fr; gap: 40px; }
+  .hero-right { align-self: auto; height: clamp(300px, 62vw, 400px); margin-bottom: calc(-1 * var(--hero-pb)); }
+  .hero-photo { top: 0; }
+  .hero-photo::after { background: linear-gradient(0deg, rgba(25,25,25,.55) 0%, rgba(25,25,25,0) 38%); }
+  .score-card { left: 0; bottom: 22px; }
+  .nav-mid { display: none; }
+}
+
+/* ===================== SECTIONS ===================== */
+.section { padding: clamp(52px, 7vw, 88px) 0; }
+.section.soft { background: var(--bg-soft); }
+.sec-head { max-width: 60rem; margin-bottom: 38px; }
+.sec-head h2 { font-size: clamp(26px, 4vw, 42px); letter-spacing: -0.03em; }
+.sec-head p { color: var(--muted); margin-top: 14px; font-size: 17px; line-height: 1.65; }
+
+/* ===================== HOE HET WERKT ===================== */
+.steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.step { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 26px 24px 28px; box-shadow: var(--shadow); position: relative; transition: transform .18s ease, box-shadow .18s ease; }
+.step:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+.step .snum { font-family: var(--display); font-weight: 800; font-size: 13px; color: var(--primary-d); background: var(--primary-bg); border-radius: var(--pill); padding: 4px 11px; display: inline-block; margin-bottom: 14px; }
+.step h3 { font-size: 19px; letter-spacing: -0.02em; }
+.step p { color: var(--muted); font-size: 15px; line-height: 1.6; margin-top: 9px; }
+
+/* ===================== METHODIEK ===================== */
+.crit-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.crit { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 24px 22px 26px; box-shadow: var(--shadow); transition: transform .18s ease, box-shadow .18s ease; }
+.crit:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+.crit .cico { width: 44px; height: 44px; border-radius: 12px; background: var(--primary-bg); display: grid; place-items: center; margin-bottom: 16px; color: var(--primary-d); }
+.crit .cico svg { width: 22px; height: 22px; }
+.crit .ct { font-weight: 700; font-size: 16px; letter-spacing: -0.01em; font-family: var(--display); }
+.crit .cs { color: var(--muted); font-size: 14px; margin-top: 7px; line-height: 1.55; }
+.method-formula { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 20px 24px; margin-top: 24px; font-size: 14px; color: var(--muted); line-height: 1.7; }
+.method-formula strong { color: var(--ink); }
+.method-weights { display: flex; gap: 0; margin-top: 14px; border-radius: var(--r-sm); overflow: hidden; height: 8px; }
+.mw-seg { height: 100%; }
+
+/* ===================== NICHES ===================== */
+.niche-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.niche {
+  position: relative; overflow: hidden; border-radius: var(--r);
+  border: 1px solid var(--line); background: var(--card);
+  box-shadow: var(--shadow); text-decoration: none; display: block;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+a.niche:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); border-color: var(--primary-ring); }
+.niche-photo {
+  position: relative; aspect-ratio: 4 / 3; overflow: hidden;
+  /* TIJDELIJKE VISUAL — vervang de gradient door: <img src="..." alt="..." loading="lazy"> */
+  background: linear-gradient(150deg, #2E4A3A 0%, #1C2C23 100%);
+  display: grid; place-items: center;
+}
+.niche-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(.9) brightness(.9); transition: transform .5s cubic-bezier(.2,.7,.2,1); }
+a.niche:hover .niche-photo img { transform: scale(1.05); }
+.niche-photo::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(25,25,25,0) 30%, rgba(25,25,25,.55) 100%); }
+.niche-photo .nico { position: relative; z-index: 1; width: 46px; height: 46px; color: rgba(255,255,255,.5); }
+.niche-photo .nico svg { width: 100%; height: 100%; stroke: currentColor; fill: none; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+.niche-body { padding: 16px 18px 18px; display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.niche-name { font-family: var(--display); font-weight: 700; font-size: 16px; letter-spacing: -0.02em; color: var(--ink); }
+.niche-note { font-size: 12px; color: var(--faint); margin-top: 3px; }
+.niche-flag { font-size: 11px; font-weight: 700; letter-spacing: .02em; border-radius: var(--pill); padding: 4px 10px; white-space: nowrap; font-family: var(--sans); }
+.niche-flag.live { color: var(--primary-d); background: var(--primary-bg); }
+.niche-flag.soon { color: var(--faint); background: var(--slate-bg); }
+.niche[data-status="soon"] .niche-photo { filter: grayscale(.55); }
+.niche[data-status="soon"] { box-shadow: none; }
+.niche-arrow { color: var(--primary-d); font-weight: 700; font-size: 15px; transition: transform .15s ease; display: inline-block; }
+a.niche:hover .niche-arrow { transform: translateX(4px); }
+
+/* ===================== VOOR VAKSPECIALISTEN (donker blok) ===================== */
+.pro { background: var(--secondary); color: #fff; position: relative; overflow: hidden; }
+.pro::before { content: ""; position: absolute; top: -30%; right: -5%; width: 45%; height: 90%; border-radius: 50%; background: radial-gradient(ellipse, rgba(0,160,77,.16) 0%, transparent 65%); pointer-events: none; }
+.pro .sec-head h2 { color: #fff; }
+.pro .sec-head p { color: rgba(255,255,255,.55); }
+.pro-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; position: relative; z-index: 2; }
+.pro-item { background: rgba(255,255,255,.04); border: 1px solid rgba(255,255,255,.09); border-radius: var(--r); padding: 24px 22px 26px; }
+.pro-item .pico { width: 40px; height: 40px; border-radius: 11px; background: rgba(0,160,77,.16); display: grid; place-items: center; color: var(--primary); margin-bottom: 15px; }
+.pro-item .pico svg { width: 20px; height: 20px; }
+.pro-item h3 { font-size: 17px; color: #fff; letter-spacing: -0.02em; }
+.pro-item p { color: rgba(255,255,255,.5); font-size: 14.5px; line-height: 1.6; margin-top: 8px; }
+.pro-note { margin-top: 26px; font-size: 13.5px; color: rgba(255,255,255,.4); position: relative; z-index: 2; }
+.pro-note a { color: var(--primary); font-weight: 600; text-decoration: none; }
+.pro-note a:hover { text-decoration: underline; }
+
+/* ===================== FAQ ===================== */
+.faq { max-width: 800px; margin: 0 auto; }
+.faq-item { border-bottom: 1px solid var(--line); padding: 22px 0; }
+.faq-item:first-child { border-top: 1px solid var(--line); }
+.faq-item h3 { font-size: 18px; margin-bottom: 8px; letter-spacing: -0.015em; }
+.faq-item p { color: var(--muted); font-size: 16px; line-height: 1.65; max-width: 76ch; }
+
+/* ===================== FOOTER (identiek) ===================== */
+.foot { border-top: 1px solid var(--line); padding: 46px 0 58px; }
+.foot-in { display: flex; justify-content: space-between; gap: 36px; flex-wrap: wrap; }
+.foot .brand { margin-bottom: 14px; }
+.foot .disc { max-width: 44ch; font-size: 14px; color: var(--faint); line-height: 1.6; }
+.foot-links { display: flex; gap: 56px; flex-wrap: wrap; }
+.foot-col h3.foot-h { font-family: var(--sans); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--faint); margin-bottom: 14px; }
+.foot-col a, .foot-col span { display: block; font-size: 14px; color: var(--muted); text-decoration: none; margin-bottom: 9px; }
+.foot-col a:hover { color: var(--primary-d); }
+.foot .copy { border-top: 1px solid var(--line); margin-top: 38px; padding-top: 20px; font-size: 13px; color: var(--faint); }
+
+/* ===================== FOCUS / MOTION ===================== */
+:focus-visible { outline: 2.5px solid var(--primary); outline-offset: 3px; border-radius: 6px; }
+.rise { animation: rise .72s cubic-bezier(.2,.7,.2,1) both; }
+.d1{animation-delay:.04s}.d2{animation-delay:.12s}.d3{animation-delay:.20s}.d4{animation-delay:.28s}.d5{animation-delay:.36s}
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+.pre { opacity: 0; transform: translateY(20px); }
+.pre.in { opacity: 1; transform: none; transition: opacity .6s ease, transform .6s cubic-bezier(.2,.7,.2,1); }
+
+/* ===================== RESPONSIVE ===================== */
+@media (max-width: 1000px) {
+  .niche-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 900px) {
+  .crit-grid { grid-template-columns: 1fr !important; }
+  .steps, .pro-grid { grid-template-columns: 1fr; }
+  .nav-mid { display: none; }
+}
+@media (max-width: 700px) {
+  .niche-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+}
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  .brand-tag { display: none; }
+  .stats { gap: 20px 28px; }
+  .score-card { width: 250px; padding: 14px 15px; }
+  .ring { width: 54px; height: 54px; } .ring .rin { width: 42px; height: 42px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .pre { opacity: 1; transform: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- SVG-symbolen (superset van template.html) -->
+<svg class="svgsym" aria-hidden="true">
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.2l2.55 5.45 6 .72-4.43 4.18 1.16 5.95L12 18.7 6.72 19.5l1.16-5.95-4.43-4.18 6-.72z"/></symbol>
+  <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3.5" y="5.2" width="17" height="15" rx="2"/><path d="M3.5 9.4h17M8.2 3.2v3.6M15.8 3.2v3.6"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></symbol>
+  <symbol id="i-response" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.6"/><path d="M15.8 15.8L21 21"/></symbol>
+  <symbol id="i-scale" viewBox="0 0 24 24"><path d="M12 4v16M5 8h14M7.5 8l-3 6h6zM16.5 8l-3 6h6z"/></symbol>
+  <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 4.5h8a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-12a2 2 0 0 1 2-2z"/><path d="M9.4 11.6l1.6 1.6 3.4-3.6"/></symbol>
+  <symbol id="i-badge" viewBox="0 0 24 24"><path d="M12 2l2.4 4.8 5.3.8-3.85 3.7.9 5.2L12 14l-4.75 2.5.9-5.2L4.3 7.6l5.3-.8z"/></symbol>
+  <symbol id="i-lead" viewBox="0 0 24 24"><path d="M3 20v-1.5a4.5 4.5 0 0 1 4.5-4.5h3A4.5 4.5 0 0 1 15 18.5V20"/><circle cx="9" cy="8" r="3.4"/><path d="M17.5 11.5h4M19.5 9.5v4"/></symbol>
+  <symbol id="i-free" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.6"/><path d="M9.4 9.2h4.2M9.4 12.2h4.2M11.4 9.2v6.6"/></symbol>
+  <!-- niche-iconen -->
+  <symbol id="n-dak" viewBox="0 0 24 24"><path d="M3 11.5L12 4l9 7.5"/><path d="M5.5 10.2V20h13v-9.8"/><path d="M9.5 20v-5h5v5"/></symbol>
+  <symbol id="n-gevel" viewBox="0 0 24 24"><rect x="4" y="3.5" width="16" height="17" rx="1.5"/><path d="M4 9h16M4 14.5h16M9.5 3.5V9M14.5 9v5.5M9.5 14.5V20.5"/></symbol>
+  <symbol id="n-vocht" viewBox="0 0 24 24"><path d="M12 3.5s5.5 6 5.5 9.6A5.5 5.5 0 0 1 12 18.6a5.5 5.5 0 0 1-5.5-5.5C6.5 9.5 12 3.5 12 3.5z"/><path d="M4 21h16"/></symbol>
+  <symbol id="n-elek" viewBox="0 0 24 24"><path d="M13.5 2.5L5 13.5h6L10.5 21.5 19 10.5h-6z"/></symbol>
+  <symbol id="n-wp" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.5v3.4M12 18.1v3.4M2.5 12h3.4M18.1 12h3.4M5.2 5.2l2.4 2.4M16.4 16.4l2.4 2.4M18.8 5.2l-2.4 2.4M7.6 16.4l-2.4 2.4"/></symbol>
+  <symbol id="n-zon" viewBox="0 0 24 24"><path d="M6 5h12l2.5 11H3.5z"/><path d="M4.6 10.5h14.8M9.6 5l-1.2 11M14.4 5l1.2 11"/><path d="M8 19.5h8"/></symbol>
+  <symbol id="n-iso" viewBox="0 0 24 24"><path d="M3 7.5h18M3 12h18M3 16.5h18"/><path d="M7 5.5v13M12 5.5v13M17 5.5v13"/></symbol>
+  <symbol id="n-raam" viewBox="0 0 24 24"><rect x="4" y="3.5" width="16" height="17" rx="1.5"/><path d="M12 3.5v17M4 12h16"/></symbol>
+  <symbol id="n-sanit" viewBox="0 0 24 24"><path d="M7 3.5v5.5a5 5 0 0 0 5 5 5 5 0 0 0 5-5V3.5"/><path d="M12 14v6.5"/><path d="M4.5 3.5h5M14.5 3.5h5"/></symbol>
+  <symbol id="n-verf" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="12" height="6" rx="1.5"/><path d="M15.5 6.5h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H12"/><rect x="10" y="13.5" width="4" height="7" rx="1.5"/></symbol>
+  <symbol id="n-tuin" viewBox="0 0 24 24"><path d="M12 20.5V11"/><path d="M12 13c-4.5 0-6.5-2.5-6.5-6.5C10 6.5 12 9 12 13z"/><path d="M12 13c4.5 0 6.5-2.5 6.5-6.5C14 6.5 12 9 12 13z"/><path d="M6 20.5h12"/></symbol>
+  <symbol id="n-oprit" viewBox="0 0 24 24"><path d="M9 3.5L6 20.5M15 3.5l3 17"/><path d="M4 9.5h16M3 15.5h18"/></symbol>
+</svg>
+
+<!-- ===== TOPBAR ===== -->
+<header class="nav" id="topbar">
+  <div class="container nav-in">
+    <a class="brand" href="https://keurwijzer.be" aria-label="Keurwijzer.be — startpagina">
+      <span class="name">Keurwijzer.be</span>
+    <!--  <span class="brand-tag">Onafhankelijke selectie</span> -->
+    </a>
+
+    <nav class="nav-mid" id="nav-sectoren" aria-label="Sectoren">
+      <a href="/dakwerkers/">Dakwerken</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="container" style="display:flex;align-items:stretch;width:100%">
+    <div class="hero-layout">
+
+      <div class="hero-left">
+    <!--    <span class="eyebrow rise d1">Onafhankelijke kwaliteitsselectie</span> -->
+        <h1 class="rise d2" style="margin-top:14px">De beste vakspecialisten in jouw regio, <span class="hl">gewikt en gewogen</span></h1>
+        <p class="lede rise d3">Op zoek naar een dakdekker, elektricien of vochtbestrijder? Wij pluizen de publieke Google-reviews van alle bedrijven in jouw regio grondig uit. We tellen niet enkel de sterren, maar ook wat klanten écht schrijven, hoe recent die ervaringen zijn en waarin elk bedrijf uitblinkt.</p>
+        <div class="hero-cta rise d4">
+          <a class="btn btn-primary" href="#niches">Vind een vakspecialist</a>
+          <a class="btn btn-ghost" href="#methodiek" style="color:#fff;border-color:rgba(255,255,255,.25)">Zo berekenen we de score</a>
+        </div>
+<!--
+        <div class="stats rise d5">
+          <div class="stat">
+            <div class="num">4</div>
+            <div class="lab">criteria per bedrijf, publiek en controleerbaar</div>
+          </div>
+          <div class="stat">
+            <div class="num">1×</div>
+            <div class="lab">per jaar herberekend</div>
+          </div>
+          <div class="stat">
+            <div class="num">0</div>
+            <div class="lab">betaalde plaatsen of advertenties</div>
+          </div>
+
+
+        </div>
+-->
+      </div>
+
+      <div class="hero-right rise d3">
+        <figure class="hero-photo">
+          <div class="hero-photo-inner">
+            <img src="https://assets.cdn.filesafe.space/fgbjON9EFqwVMZW3nImb/media/6a56552b524a3ec4c67a7cac.png" alt="Vakspecialist aan het werk op een dak" loading="eager" decoding="async">
+          </div>
+        </figure>
+
+        <!-- Zwevend voorbeeldkaartje: toont in één oogopslag hoe een ranking eruitziet 
+        <aside class="score-card" aria-label="Voorbeeld van een Keurwijzer-notering">
+          <span class="sc-rank">#1 <span style="font-weight:600;color:var(--faint);font-size:10px">van 10</span></span>
+          <div class="sc-top">
+            <div class="ring" data-p="95" aria-hidden="true">
+              <div class="rin">
+                <span class="kw-score">9,5</span>
+                <span class="kw-unit">/10</span>
+              </div>
+            </div>
+            <div>
+              <div class="sc-name">Zinkwerken Van Impe</div>
+              <div class="sc-sub">Dakdekker · voorbeeldweergave</div>
+            </div>
+          </div>
+          <div class="sc-bars">
+            <div class="sc-row"><span>Vertrouwen</span><span class="sc-track"><span class="sc-fill f1" data-w="96"></span></span></div>
+            <div class="sc-row"><span>Reviewkwaliteit</span><span class="sc-track"><span class="sc-fill f2" data-w="92"></span></span></div>
+            <div class="sc-row"><span>Recentheid</span><span class="sc-track"><span class="sc-fill f3" data-w="88"></span></span></div>
+            <div class="sc-row"><span>Specialiteit</span><span class="sc-track"><span class="sc-fill f4" data-w="80"></span></span></div>
+          </div>
+        </aside>
+      </div>
+-->
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== HOE HET WERKT ===== -->
+<section class="section" id="hoe-het-werkt">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Hoe het werkt</span>
+      <h2 class="pre" style="margin-top:14px">Geen bedrijvengids. Een selectie.</h2>
+      <p class="pre">Een klassieke gids toont iedereen die betaalt om vermeld te worden. Keurwijzer doet het omgekeerde: we vertrekken van álle vakspecialisten in een regio, laten enkel de bedrijven met voldoende recente reviews toe, controleren hun specialiteit, en selecteren daaruit de belangrijkste. Wat je overhoudt, is een selectie van de beste bedrijven.</p>
+    </div>
+
+    <div class="steps">
+      <div class="step pre">
+        <span class="snum">01</span>
+        <h3>We verzamelen publieke data</h3>
+        <p>Per vakgebied en per regio halen we de publieke Google-reviews op van alle actieve bedrijven, samen met hun website en specialisatie. Enkel bedrijven met minstens 10 reviews én minstens 3 recente reviews komen in aanmerking.</p>
+      </div>
+      <div class="step pre">
+        <span class="snum">02</span>
+        <h3>We wegen vier criteria</h3>
+        <p>Sterren alleen zeggen te weinig. We wegen ook de inhoud van de reviews, hoe recent ze zijn en hoe gespecialiseerd het bedrijf is. Die vier criteria bepalen samen welke bedrijven de top van een regio vormen.</p>
+      </div>
+      <div class="step pre">
+        <span class="snum">03</span>
+        <h3>Je krijgt een selectie met uitleg</h3>
+        <p>Het resultaat is een zorgvuldige selectie per niche en regio, met bij elk bedrijf een korte beschrijving. Elk jaar herberekenen we alles opnieuw op basis van nieuwe data.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== METHODIEK (identiek aan de directorypagina's) ===== -->
+<section class="section soft" id="methodiek">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Onze methode</span>
+      <h2 class="pre" style="margin-top:14px">Hoe de selectie tot stand komt</h2>
+      <p class="pre">De selectie en volgorde worden automatisch bepaald op basis van 4 criteria en publieke informatie zoals Google-reviews en de website van het bedrijf. Een AI leest en beoordeelt alleen de reviewteksten en de website; het rekenwerk, de selectie en de volgorde gebeuren daarna in vaste, controleerbare code. Dezelfde methode geldt voor elk vakgebied en elke regio.</p>
+    </div>
+
+    <div class="crit-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-star"/></svg></span>
+        <div class="ct">Vertrouwen</div>
+        <div class="cs">Tijdsgewogen, Bayesiaans gecorrigeerde Google-score. Recente reviews wegen zwaarder en bedrijven met weinig reviewgewicht worden naar het regiogemiddelde getrokken.</div>
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-response"/></svg></span>
+        <div class="ct">Reviewkwaliteit</div>
+        <div class="cs">Wat klanten daadwerkelijk schrijven: vakkundige diagnose, eerlijk advies, nagekomen afspraken en opgeloste problemen wegen zwaarder dan 'zeer tevreden' of sterren.</div>
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-cal"/></svg></span>
+        <div class="ct">Recentheid</div>
+        <div class="cs">Het aantal reviews uit de laatste 24 maanden. Een sterk reviewprofiel van jaren geleden zegt minder over de kwaliteit van vandaag dan recente reviews.</div>
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-shield"/></svg></span>
+        <div class="ct">Specialiteit</div>
+        <div class="cs">Vakspecialiteit en aantoonbare erkenningen, certificaten of garanties, beoordeeld op basis van de eigen website.</div>
+      </div>
+    </div>
+
+    <div class="method-formula pre">
+      <strong>Gecombineerde beoordeling</strong> = 35% × Vertrouwen + 30% × Reviewkwaliteit + 15% × Recentheid + 20% × Specialiteit<br>
+      <span style="font-size:13px;color:var(--muted)">Deze gecombineerde beoordeling bepaalt welke bedrijven samen de top van een regio vormen. </span><br>
+      <div class="method-weights" style="margin-top:14px" aria-hidden="true">
+        <div class="mw-seg" style="flex:35;background:var(--primary);"></div>
+        <div class="mw-seg" style="flex:30;background:#7B9E8A;margin-left:2px"></div>
+        <div class="mw-seg" style="flex:15;background:var(--slate-d);margin-left:2px"></div>
+        <div class="mw-seg" style="flex:20;background:var(--gold);margin-left:2px"></div>
+      </div>
+      <div style="display:flex;gap:16px;margin-top:8px;font-size:12px;color:var(--faint);flex-wrap:wrap">
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--primary);display:inline-block"></span>Vertrouwen 35%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:#7B9E8A;display:inline-block"></span>Reviewkwaliteit 30%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--slate-d);display:inline-block"></span>Recentheid 15%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--gold);display:inline-block"></span>Vakfocus 20%</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =====================================================================
+     NICHES
+     Onderhoud: zet een niche live door
+       (a) <div class="niche" data-status="soon"> te vervangen door
+           <a class="niche" data-status="live" href="/<niche>/">
+       (b) de flag "Binnenkort" te vervangen door "Online"
+     Foto's: vervang het <span class="nico"> icoonblok door
+       <img src="/img/niches/<naam>.jpg" alt="..." loading="lazy">
+     ===================================================================== -->
+<section class="section" id="niches">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Vakgebieden</span>
+
+
+
+
+
+<h2 class="pre" style="margin-top:14px">Alles wat met de woning te maken heeft</h2>
+      <p class="pre">We beoordelen vakspecialisten die aan of in het huis werken. Per vakgebied bouwen we regio per regio een Top 5 of 10 op. We starten met de niche dakwerken, de andere vakgebieden volgen de komende maanden.</p>
+    </div>
+
+    <div class="niche-grid">
+      <a class="niche pre" data-status="live" data-niche="dakwerkers" href="/dakwerkers/">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-dak"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Dakwerken</div>
+            <div class="niche-note">Dakdekkers, zinkwerk, platte daken</div>
+          </div>
+          <span class="niche-flag live">Online →</span>
+        </div>
+      </a>
+
+      <div class="niche pre" data-status="soon" data-niche="zonnepanelen">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-zon"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Zonnepanelen</div>
+            <div class="niche-note">PV-installatie, thuisbatterij</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+
+
+      <div class="niche pre" data-status="soon" data-niche="vochtbestrijding">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-vocht"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Vochtbestrijding</div>
+            <div class="niche-note">Opstijgend vocht, kelderdichting</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+
+      <div class="niche pre" data-status="soon" data-niche="warmtepompen">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-wp"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Warmtepompen</div>
+            <div class="niche-note">Lucht/water, geothermie, advies</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+
+<!--
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-gevel"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Gevelwerken</div>
+            <div class="niche-note">Gevelreiniging, bepleistering, crepi</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-elek"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Elektriciteit</div>
+            <div class="niche-note">Renovatie, keuring, laadpalen</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+
+
+
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-iso"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Isolatie</div>
+            <div class="niche-note">Dak-, muur- en vloerisolatie</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-raam"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Ramen &amp; deuren</div>
+            <div class="niche-note">Schrijnwerk, beglazing, veranda's</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-sanit"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Sanitair &amp; verwarming</div>
+            <div class="niche-note">Loodgieters, cv-ketels, badkamers</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-verf"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Schilderwerken</div>
+            <div class="niche-note">Binnen, buiten, behang</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-tuin"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Tuinaanleg</div>
+            <div class="niche-note">Tuinaanleg en -onderhoud, terras</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+      <div class="niche pre" data-status="soon">
+        <div class="niche-photo">
+          <span class="nico"><svg viewBox="0 0 24 24"><use href="#n-oprit"/></svg></span>
+        </div>
+        <div class="niche-body">
+          <div>
+            <div class="niche-name">Oprit &amp; betonwerken</div>
+            <div class="niche-note">Klinkers, gepolierd beton, afwatering</div>
+          </div>
+          <span class="niche-flag soon">Binnenkort</span>
+        </div>
+      </div>
+
+-->
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== KIES JE REGIO =====
+     De regio-chips worden door build-site.js uit de registry gevuld via de
+     REGIO_INDEX-token verderop. Zo blijft dit overzicht automatisch synchroon. -->
+<style>
+.regio-sec { background: var(--bg-soft); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.regio-prov { margin-top: 22px; }
+.regio-prov-h { display: block; font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--faint); margin-bottom: 12px; }
+.regio-chips { display: flex; flex-wrap: wrap; gap: 10px; }
+.regio-chip { display: inline-flex; align-items: center; font-size: 14.5px; font-weight: 600; color: var(--ink); background: var(--card); border: 1px solid var(--line-2); border-radius: var(--pill); padding: 9px 18px; text-decoration: none; transition: border-color .15s, color .15s, transform .12s; }
+.regio-chip:hover { border-color: var(--primary); color: var(--primary-d); transform: translateY(-2px); }
+</style>
+<section class="section regio-sec" id="regios">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Kies je regio</span>
+      <h2 class="pre" style="margin-top:14px">Meteen naar jouw regio</h2>
+      <p class="pre" style="margin-top:12px;max-width:60ch">Weet je al waar je woont, maar nog niet welk vakgebied je zoekt? Kies je regio en zie alle vakspecialisten die we er al beoordeeld hebben.</p>
+    </div>
+    <div id="regio-index">
+      <p style="color:var(--muted);font-size:15px">Regio's worden geladen…</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== VOOR VAKSPECIALISTEN ===== -->
+<section class="section pro" id="voor-vakspecialisten">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Voor vakspecialisten</span>
+      <h2 class="pre" style="margin-top:14px">Kwaliteit die eindelijk zichtbaar wordt</h2>
+      <p class="pre">Wie al jaren degelijk werk levert en daar mooie reviews voor krijgt, verdwijnt vandaag tussen de advertenties van wie het meest betaalt. Op Keurwijzer bepaalt je reviewprofiel en vakspecialiteit je plaats.</p>
+    </div>
+
+    <div class="pro-grid">
+      <div class="pro-item pre">
+        <span class="pico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-badge"/></svg></span>
+        <h3>Een kwaliteitslabel dat je verdient</h3>
+        <p>De selectie is een onafhankelijke vaststelling. Je kan er op je eigen website en in offertes naar verwijzen: derde partij, publieke methodiek, geen aankoop mogelijk.</p>
+      </div>
+      <div class="pro-item pre">
+        <span class="pico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-lead"/></svg></span>
+        <h3>Klanten die al beslist hebben</h3>
+        <p>Bezoekers van Keurwijzer.be zitten in de laatste fase van hun zoektocht: ze vergelijken nog twee of drie namen. In de selectie staan betekent gekozen worden door mensen die twijfelen.</p>
+      </div>
+      <div class="pro-item pre">
+        <span class="pico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-free"/></svg></span>
+        <h3>Gratis, zonder aankoop</h3>
+        <p>Opname is gratis en gebeurt automatisch op basis van publieke data. Je kan je plaats niet kopen — en je concurrent evenmin. Wat wél werkt: goed werk leveren en klanten om een eerlijke review vragen.</p>
+      </div>
+    </div>
+
+    <p class="pro-note pre">Klopt er iets niet aan je vermelding, of wil je er liever niet in staan? Laat het weten via <a href="mailto:info@keurwijzer.be?subject=Vermelding%20controleren">info@keurwijzer.be</a>.</p>
+  </div>
+</section>
+
+
+
+
+
+
+
+<!-- ===== FAQ ===== -->
+<section class="section soft" id="veelgestelde-vragen">
+  <div class="container">
+    <div class="sec-head" style="margin-bottom:30px">
+      <span class="eyebrow pre">Veelgestelde vragen</span>
+      <h2 class="pre" style="margin-top:14px">Over Keurwijzer</h2>
+    </div>
+    <div class="faq">
+
+      <div class="faq-item pre">
+        <h3>Hoe bepaalt Keurwijzer welke bedrijven geselecteerd worden?</h3>
+        <p>De selectie wordt bepaald op basis van vier criteria: vertrouwen (35%), reviewkwaliteit (30%), recentheid (15%) en specialiteit (20%). De bedrijven met de hoogste gecombineerde beoordeling vormen samen de selectie van een regio. Alle gegevens waarop we ons baseren zijn publiek: Google-reviews en de eigen website van het bedrijf. Dezelfde methode geldt voor elk bedrijf in elke regio. Onze methodologie en de AI-prompt die gebruikt wordt om bedrijven te beoordelen kunnen op eenvoudig verzoek opgevraagd worden.</p>
+
+      </div>
+
+      <div class="faq-item pre">
+        <h3>Kan een bedrijf betalend opgenomen worden op Keurwijzer?</h3>
+        <p>Nee. Een betaalde opname bestaat niet. </p>
+      </div>
+
+      <div class="faq-item pre">
+        <h3>Hoe vaak wordt de lijst met bedrijven geüpdatet?</h3>
+        <p>We herberekenen jaarlijks alles opnieuw met verse data. Een plaats in de selectie is dus nooit verworven.</p>
+      </div>
+
+      <div class="faq-item pre">
+        <h3>Is Keurwijzer gratis?</h3>
+        <p>Ja. Keurwijzer is en blijft een gratis initiatief, dat bezoekers wil helpen een geschikte vakspecialist in hun buurt te vinden. Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau dasslim.be uitbaat. Bedrijven kunnen ervoor kiezen om, los van hun opname, met ons samen te werken voor hun marketing; zo'n samenwerking heeft geen enkele invloed op hun opname.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+</main>
+
+
+
+
+
+
+
+
+<footer class="foot">
+  <div class="container">
+    <div class="foot-in">
+      <div>
+        <a class="brand" href="/" aria-label="Keurwijzer.be — startpagina" style="display:flex;align-items:center;gap:9px;text-decoration:none;margin-bottom:14px">
+
+          <span style="font-family:var(--display);font-weight:700;font-size:19px;letter-spacing:-0.03em;color:var(--ink)">Keurwijzer.be</span>
+        </a>
+        <p class="disc">Keurwijzer is een onafhankelijke kwaliteitsselectie van vakspecialisten per regio, die bezoekers helpt de juiste vakspecialist in hun buurt te vinden.</p>
+      </div>
+      <div class="foot-links">
+        <div class="foot-col" id="foot-sectoren">
+          <h3 class="foot-h">Sectoren</h3>
+          <a href="/dakwerkers/">Dakwerken</a>
+        </div>
+        <div class="foot-col">
+          <h3 class="foot-h">Over ons</h3>
+          <a href="#methodiek">Hoe we selecteren</a>
+          <a href="mailto:info@keurwijzer.be">Contact</a>
+<a href="https://www.dasslim.be">Dasslim.be</a>
+
+        </div>
+      </div>
+    </div>
+ <div class="disc" style="margin-top:22px;padding-top:18px;border-top:1px solid rgba(0,0,0,.08);font-size:13px;line-height:1.6;color:var(--faint);max-width:none;width:100%"><strong style="color:var(--ink)">Transparantie en onafhankelijkheid.</strong> Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau <a href="https://www.dasslim.be" style="color:var(--primary-d)">dasslim.be</a> runt. Bedrijven kunnen, los van hun opname, met ons samenwerken voor marketing; dat heeft <strong style="color:var(--ink)">geen enkele invloed</strong> op hun selectie.</div>
+
+
+ <p class="copy">© Keurwijzer.be · Onafhankelijke kwaliteitsselectie · Een initiatief van Magicworx bv · +32 (0)470 12 44 61 · <a href="mailto:info@keurwijzer.be" style="color:var(--primary-d)">info@keurwijzer.be</a> · <a href="mailto:info@keurwijzer.be?subject=Verwijdering%20uit%20overzicht">Verwijder mijn bedrijf uit overzicht</a>   </p >  
+  </div>
+</footer>
+
+<script>
+// =====================================================================
+// DYNAMISCHE NAVIGATIE — haalt regio-/nichelijst op uit registry.json
+// zodat de homepage niet meer in GHL bijgewerkt hoeft te worden wanneer
+// een nieuwe regio of niche wordt toegevoegd.
+// =====================================================================
+(function(){
+  var REGISTRY_URL = 'https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/registry.json';
+  var FALLBACK_URL = 'https://raw.githubusercontent.com/Magicworx-be/keurwijzer-data/main/registry.json';
+
+  function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+  function render(data) {
+    // --- Regio-chips per provincie ---
+    var regioEl = document.getElementById('regio-index');
+    if (regioEl && data.regios) {
+      var perProv = {};
+      data.regios.forEach(function(r){
+        var prov = r.provincie || 'Overig';
+        if (!perProv[prov]) perProv[prov] = [];
+        perProv[prov].push(r);
+      });
+      var html = '';
+      Object.keys(perProv).sort().forEach(function(prov){
+        var chips = perProv[prov].map(function(r){
+          return '<a class="regio-chip" href="' + esc(r.url) + '">Regio ' + esc(r.regioKern) + '</a>';
+        }).join('\n');
+        html += '<div class="regio-prov"><span class="regio-prov-h">' + esc(prov) +
+          '</span><div class="regio-chips">' + chips + '</div></div>\n';
+      });
+      regioEl.innerHTML = html;
+    }
+
+    // --- Niche-kaarten: "soon" → "live" als de niche in de registry staat ---
+    if (data.niches) {
+      var nicheSet = {};
+      data.niches.forEach(function(n){ nicheSet[n.niche] = n; });
+      document.querySelectorAll('.niche[data-status]').forEach(function(el){
+        var nicheKey = el.getAttribute('data-niche');
+        if (!nicheKey || !nicheSet[nicheKey]) return;
+        if (el.getAttribute('data-status') === 'soon') {
+          // Upgrade: div → a, status → live
+          var a = document.createElement('a');
+          a.className = el.className.replace('pre', 'pre ');
+          a.setAttribute('data-status', 'live');
+          a.setAttribute('data-niche', nicheKey);
+          a.href = nicheSet[nicheKey].url;
+          a.innerHTML = el.innerHTML;
+          var flag = a.querySelector('.niche-flag');
+          if (flag) { flag.className = 'niche-flag live'; flag.textContent = 'Online →'; }
+          el.parentNode.replaceChild(a, el);
+        }
+      });
+    }
+
+    // --- Nav-mid sectoren ---
+    var navEl = document.getElementById('nav-sectoren');
+    if (navEl && data.niches) {
+      navEl.innerHTML = data.niches.map(function(n){
+        return '<a href="' + esc(n.url) + '">' + esc(n.vakMvCap) + '</a>';
+      }).join('\n');
+    }
+
+    // --- Footer sectoren ---
+    var footEl = document.getElementById('foot-sectoren');
+    if (footEl && data.niches) {
+      footEl.innerHTML = '<h3 class="foot-h">Sectoren</h3>' +
+        data.niches.map(function(n){
+          return '<a href="' + esc(n.url) + '">' + esc(n.vakMvCap) + '</a>';
+        }).join('\n');
+    }
+  }
+
+  fetch(REGISTRY_URL, { cache: 'no-cache' })
+    .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(render)
+    .catch(function(){
+      fetch(FALLBACK_URL, { cache: 'no-cache' })
+        .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(render)
+        .catch(function(){
+          // Fallback: hardcoded links blijven staan, niets doen
+        });
+    });
+})();
+</script>
+
+<script>
+// =====================================================================
+// RING-ANIMATIE — scores zijn statisch gebakken door build.js;
+// dit script animeert enkel de ringen naar hun doelwaarde (data-p).
+// =====================================================================
+(function(){
+  var rings = document.querySelectorAll('.ring[data-p]');
+  function fill(ring){
+    var target = parseInt(ring.getAttribute('data-p'), 10) || 0;
+    var start = null;
+    function step(ts){
+      if (!start) start = ts;
+      var t = Math.min((ts - start) / 700, 1);
+      var eased = 1 - Math.pow(1 - t, 3);
+      ring.style.setProperty('--p', Math.round(target * eased));
+      if (t < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+  if (!('IntersectionObserver' in window)) {
+    rings.forEach(function(r){ r.style.setProperty('--p', r.getAttribute('data-p')); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { fill(e.target); obs.unobserve(e.target); }
+    });
+  }, { threshold: 0.4 });
+  rings.forEach(function(r){ obs.observe(r); });
+})();
+
+// =====================================================================
+// SCROLL STICKY NAV
+// =====================================================================
+(function(){
+  var nav = document.getElementById('topbar');
+  window.addEventListener('scroll', function(){
+    nav.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+})();
+
+// =====================================================================
+// SCROLL REVEAL
+// =====================================================================
+(function(){
+  var els = document.querySelectorAll('.pre');
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(function(el){ el.classList.add('in'); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { e.target.classList.add('in'); obs.unobserve(e.target); }
+    });
+  }, { threshold: 0.12 });
+  els.forEach(function(el){ obs.observe(el); });
+})();
+</script>
+</body>
+</html>
+

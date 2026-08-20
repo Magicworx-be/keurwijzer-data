@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Tijdelijke push-mappen
+.registry-push-tmp/
+.badges-push-tmp/
+
+# Build output (niet in de bronrepo — wordt apart gepubliceerd)
+output/
+ghl/
+badges/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Claude Code — lokale, persoonlijke instellingen (permissies e.d.)
+.claude/settings.local.json

@@ -1,0 +1,42 @@
+{
+  "slug": "dakdekkers-test",
+  "vak": {
+    "mv": "dakdekkers",
+    "mvCap": "Dakdekkers",
+    "ev": "dakdekker",
+    "kort": "dakwerken"
+  },
+  "regio": {
+    "naam": "regio Gent",
+    "kern": "Gent",
+    "provincie": "Oost-Vlaanderen"
+  },
+  "gemeenten": [
+    "Gent",
+    "Merelbeke",
+    "Deinze",
+    "Lochristi",
+    "Destelbergen",
+    "Evergem",
+    "Melle",
+    "De Pinte",
+    "Sint-Martens-Latem",
+    "Wondelgem",
+    "Gentbrugge",
+    "Ledeberg",
+    "Mariakerke",
+    "Drongen",
+    "Zwijnaarde",
+    "Oostakker",
+    "Sint-Amandsberg",
+    "Wetteren",
+    "Laarne",
+    "Lovendegem"
+  ],
+  "zoektermen": [
+    "dakdekker Gent",
+    "dakwerken Gent"
+  ],
+  "peildatum": "2026-07-14",
+  "updateDatum": "juli 2026"
+}

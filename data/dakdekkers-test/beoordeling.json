@@ -1,0 +1,301 @@
+{
+  "bedrijven": [
+    {
+      "bedrijf": "Dakwerken Ivens & Zonen",
+      "reviewkwaliteit": 4.5,
+      "vakfocus": 4.5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://dakwerken-ivens.be",
+      "actiefSinds": 2000,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakwerken Ivens & Zonen: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Verlinden Dakwerken",
+      "reviewkwaliteit": 4,
+      "vakfocus": 4,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://verlinden-dak.be",
+      "actiefSinds": 2001,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Verlinden Dakwerken: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Roofline Gent",
+      "reviewkwaliteit": 4.5,
+      "vakfocus": 5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://roofline.be",
+      "actiefSinds": 2002,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Roofline Gent: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Dakwerken De Clercq",
+      "reviewkwaliteit": 3.5,
+      "vakfocus": 3.5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://declercq-dak.be",
+      "actiefSinds": 2003,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakwerken De Clercq: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Van Hecke Dak & Gevel",
+      "reviewkwaliteit": 4,
+      "vakfocus": null,
+      "vakfocusBron": "geen-website",
+      "websiteBezocht": null,
+      "actiefSinds": 2004,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Van Hecke Dak & Gevel: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Platdak Pro",
+      "reviewkwaliteit": 3.5,
+      "vakfocus": 4,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://platdakpro.be",
+      "actiefSinds": 2005,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Platdak Pro: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Gents Dakhuis",
+      "reviewkwaliteit": 3,
+      "vakfocus": 3,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://gentsdakhuis.be",
+      "actiefSinds": 2006,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Gents Dakhuis: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Dakteam Nova",
+      "reviewkwaliteit": 4,
+      "vakfocus": 4,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://dakteamnova.be",
+      "actiefSinds": 2007,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakteam Nova: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": "Reviews vóór 2024 waren gemengd; de laatste twee jaar tonen een duidelijk sterkere lijn."
+    },
+    {
+      "bedrijf": "Dakcentrale Oost",
+      "reviewkwaliteit": 3.5,
+      "vakfocus": 3.5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://dakcentrale.be",
+      "actiefSinds": 2008,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakcentrale Oost: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Dakwerken Nieuwenhove",
+      "reviewkwaliteit": 4.5,
+      "vakfocus": 4.5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://dakwerken-nieuwenhove.be",
+      "actiefSinds": 2009,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakwerken Nieuwenhove: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Top Dak Vlaanderen",
+      "reviewkwaliteit": 4,
+      "vakfocus": null,
+      "vakfocusBron": "geen-website",
+      "websiteBezocht": null,
+      "actiefSinds": 2010,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Top Dak Vlaanderen: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Dakwerken Kust",
+      "reviewkwaliteit": 4,
+      "vakfocus": 4.5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://dakkust.be",
+      "actiefSinds": 2011,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Dakwerken Kust: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "EPDM Express",
+      "reviewkwaliteit": 3,
+      "vakfocus": 4,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://epdm-express.be",
+      "actiefSinds": 2012,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor EPDM Express: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    },
+    {
+      "bedrijf": "Zinkatelier Gent",
+      "reviewkwaliteit": 4.5,
+      "vakfocus": 5,
+      "vakfocusBron": "website",
+      "websiteBezocht": "https://zinkatelier.be",
+      "actiefSinds": 2013,
+      "specialties": [
+        "hellende-daken",
+        "platte-daken",
+        "dakrenovatie"
+      ],
+      "chipsSite": [
+        "Erkend aannemer"
+      ],
+      "chipsReview": [
+        "Stipt nagekomen",
+        "Nette werf"
+      ],
+      "synthese": "Testsynthese voor Zinkatelier Gent: klanten vermelden consequent vakkundig werk en duidelijke communicatie.",
+      "breuk": null
+    }
+  ]
+}

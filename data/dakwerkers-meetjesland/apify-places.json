@@ -1,0 +1,5426 @@
+[
+  {
+    "title": "Bvba Van Audenaerde R.",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://dakwerkenvanaudenaerde.be/",
+    "phone": "+32 475 46 97 45",
+    "phoneUnformatted": "+32475469745",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0493323,
+      "lng": 3.9202171
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlVatb5CDw0cRaYGJDHsTupE",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x47c383906fad5695:0x91ba137b0c898169",
+    "cid": "10500726900379976041",
+    "reviewsCount": 10,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:01:42.010Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zondag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "maandag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "woensdag",
+        "hours": "24 uur geopend"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bvba%20Van%20Audenaerde%20R.&query_place_id=ChIJlVatb5CDw0cRaYGJDHsTupE",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Wachtebeke?hl=nl",
+    "searchString": "dakwerker Wachtebeke",
+    "language": "nl",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktKdoIf5InSGuYe1xMa2R62eI4R_4qKLlhRoHTa9ybuEruyXLWtIHf7kx4bbnZl8G9XS-4AUuZgfmMnayclIbpTjGn0r_NG7BQWtxeJlGvoSFpziP1EnrWhS8IDBIYlrmLASoe=w408-h271-k-no",
+    "kgmid": "/g/11gnj7smws",
+    "emails": [
+      "dakwerkenschellynck@gmail.com"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0474 17 62 65"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenvanaudenaerde.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Adam Algemene Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Molenhoek 32, 9185 Lochristi, België",
+    "neighborhood": null,
+    "street": "Molenhoek 32",
+    "city": "Lochristi",
+    "postalCode": "9185",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerkenadam.be/",
+    "phone": "+32 483 36 59 41",
+    "phoneUnformatted": "+32483365941",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1715107,
+      "lng": 3.8649352
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGSEGp3GCw0cR6JTBb2Sy5GI",
+    "categories": [
+      "Dakdekker",
+      "Timmerman",
+      "Installatiebedrijf",
+      "Aannemer voor isolatie"
+    ],
+    "fid": "0x47c38271a7062119:0x62e4b2646fc194e8",
+    "cid": "7126016654848398568",
+    "reviewsCount": 5,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:01:42.010Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        }
+      ],
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adam%20Algemene%20Dakwerken&query_place_id=ChIJGSEGp3GCw0cR6JTBb2Sy5GI",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Wachtebeke?hl=nl",
+    "searchString": "dakwerker Wachtebeke",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkcbs4UrUggQgVsUnS2ZYutobgL33ubRy9QTauI-IH3sYN8LEfAF8WaD2qUyaJTaPAFjaJXNbKEZlFK2oHWpP__e10eL_W4pR53zAo-iNIlQBuRERb1-Fc4qyjNtVCWCf-aYFuN=w408-h306-k-no",
+    "kgmid": "/g/11bzx2r7kc",
+    "emails": [
+      "info@dakwerkenadam.be"
+    ],
+    "phones": [
+      "092799637",
+      "0483365941"
+    ],
+    "phonesUncertain": [
+      "+3292799637",
+      "0823924631",
+      "092 79 96 37092",
+      "0483 36 59 410483"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenadam.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Vanhooren",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.dakwerkenvanhooren.be/",
+    "phone": "+32 472 83 41 08",
+    "phoneUnformatted": "+32472834108",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0407338,
+      "lng": 3.4493224
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgTF05NG0gyQR5_a2KvD2bEg",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x2483b4d1e4743181:0x486cf6f02ab6f6e7",
+    "cid": "5218817579584780007",
+    "reviewsCount": 12,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:30 to 17:30"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:30 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Vanhooren&query_place_id=ChIJgTF05NG0gyQR5_a2KvD2bEg",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkc7fTRwwdTXIhq2tVSsfaKaDHJ1YYdrjXkqWPzD8aKYCgwZEb6YTyjMD9rqic-2Qi-x2tS1SyprJFOKHn5dkuQurtK1tvHt3U012wThRPTsFM4rhKnCSmKPvXEKgNmwKEAftQjIWSfLPA=w426-h240-k-no",
+    "kgmid": "/g/11n99spkl1",
+    "emails": [
+      "nico@dakwerkenvanhooren.be"
+    ],
+    "phones": [
+      "0472834108"
+    ],
+    "phonesUncertain": [
+      "0472834108",
+      "0822 644 231"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenvanhooren.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Daktimmerwerken.be - Persyn Aaron",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Krommewege 38, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Krommewege 38",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.daktimmerwerken.be/",
+    "phone": "+32 485 27 16 03",
+    "phoneUnformatted": "+32485271603",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1957685,
+      "lng": 3.4657894
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqx8AOXlBw0cRLSE1ydO0t1I",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c3417939001fab:0x52b7b4d3c935212d",
+    "cid": "5960431453554942253",
+    "reviewsCount": 4,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Daktimmerwerken.be%20-%20Persyn%20Aaron&query_place_id=ChIJqx8AOXlBw0cRLSE1ydO0t1I",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmH1c7zZ9-MJwG74Sk7gvEhTMtifM21wgEBnXtq83mn5k2KNHiPa62m3UI5G9iFJqiZAEsN_ERN0XNWqduWxXW1tzRqKe-HZqS_8RA3ZvU64ZWuCGzezOQnjjYR_SvhrnvY8VKlkXDwFFq=w408-h271-k-no",
+    "kgmid": "/g/1td4nv_c",
+    "emails": [
+      "info@dakwerkenmeeus.be",
+      "info@bertmeeus.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0436.060.035",
+      "485.73.33"
+    ],
+    "linkedIns": [
+      "https://www.linkedin.com/company/dakwerken-bert-meeus-nv"
+    ],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/dakwerkenmeeus"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/dakwerkenmeeus"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "daktimmerwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Schellynck bv",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Kalve 39A, 9185 Lochristi, België",
+    "neighborhood": null,
+    "street": "Kalve 39A",
+    "city": "Lochristi",
+    "postalCode": "9185",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://dakwerkenschellynck.be/",
+    "phone": "+32 474 17 62 65",
+    "phoneUnformatted": "+32474176265",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1716768,
+      "lng": 3.8769994
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsUz7GgLEgocRoIb1sY8CKmQ",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x8782c4021afb4cb1:0x642a028fb1f586a0",
+    "cid": "7217584169003878048",
+    "reviewsCount": 1,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:01:42.010Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 19:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Schellynck%20bv&query_place_id=ChIJsUz7GgLEgocRoIb1sY8CKmQ",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Wachtebeke?hl=nl",
+    "searchString": "dakwerker Wachtebeke",
+    "language": "nl",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkhU9ukOfg5LDwwOgn5aB2YtehiXSN6JegBd2du4eDklbQsUl4v3ld_BwKhucHKot_hxk8XTcV29L89S_7piqDDGmWTs7al7on75GTfRFv8yrM6-wpK4jrtPe0Dgl63A2t3cM=w408-h544-k-no",
+    "kgmid": "/g/11vl1rhyvs",
+    "emails": [
+      "dakwerkenschellynck@gmail.com"
+    ],
+    "phones": [
+      "0474 17 62 65"
+    ],
+    "phonesUncertain": [
+      "0474 17 62 65"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenschellynck.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Coppens Van Vooren bvba",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Mispelare 15, 9930 Lievegem, België",
+    "neighborhood": null,
+    "street": "Mispelare 15",
+    "city": "Lievegem",
+    "postalCode": "9930",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://nl-nl.facebook.com/pages/category/Roofing-Service/BVBA-Dakwerken-Coppens-Van-Vooren-454592991365114/",
+    "phone": "+32 479 25 06 57",
+    "phoneUnformatted": "+32479250657",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 51.1100468,
+      "lng": 3.5806532
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFb8mfBNvw0cRBV8bIf9q3Ik",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c36f137c26bf15:0x89dc6aff211b5f05",
+    "cid": "9933932522077118213",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Coppens%20Van%20Vooren%20bvba&query_place_id=ChIJFb8mfBNvw0cRBV8bIf9q3Ik",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZlQBx27NOuN-ks4ECNJ-xA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=236.42844&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lkj1vyqc",
+    "emails": [
+      "info@vanvoorenniels.be"
+    ],
+    "phones": [
+      "+32 478 62 30 79"
+    ],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://nl-nl.facebook.com/pages/category/Roofing-Service/BVBA-Dakwerken-Coppens-Van-Vooren-454592991365114/"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "facebook.com",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "RENOHOMES Algemene dak & gevelwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Warmestraat 23, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Warmestraat 23",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.renohomes.be/",
+    "phone": "+32 471 72 02 20",
+    "phoneUnformatted": "+32471720220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2151488,
+      "lng": 3.470108
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcTDymMdnw0cRwpI1Of49xsY",
+    "categories": [
+      "Dakdekker",
+      "Bouwbedrijf",
+      "Aannemer voor gevelbeplating"
+    ],
+    "fid": "0x47c367c798f23071:0xc6c63dfe393592c2",
+    "cid": "14323203826989241026",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RENOHOMES%20Algemene%20dak%20%26%20gevelwerken&query_place_id=ChIJcTDymMdnw0cRwpI1Of49xsY",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yYfw-7gtEG-8KxQpMGSa0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.38469&pitch=0&thumbfov=100",
+    "kgmid": "/g/11s1y36mwg",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [
+      "0728.548.291",
+      "050 39 25 34",
+      "0478 545 662"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/Renohomes-109848380877678",
+      "https://www.facebook.com/RenohomesBVBA"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "renohomes.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Algemene Dakwerken Baele BV",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.facebook.com/profile.php?id=100054269241737",
+    "phone": "+32 478 74 16 52",
+    "phoneUnformatted": "+32478741652",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 50.501038,
+      "lng": 4.4661
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3bptkY1x_YwRNUlqKXHNFw8",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x8cfd718d916dbadd:0xf17cd71296a4935",
+    "cid": "1087563720943094069",
+    "reviewsCount": 2,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.407Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 19:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 19:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 19:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 19:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 19:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 19:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Algemene%20Dakwerken%20Baele%20BV&query_place_id=ChIJ3bptkY1x_YwRNUlqKXHNFw8",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksn30vu_VCFZTZt-GSiHS4dOEBTpK0F3Llq5YfAlxriseO5eYzEGdZB53fVrPMG-V0-S04bcaNc0wdehYrCsZA33ZifuQbC4ubPeseRWlVhPoirWn4FIUADGFycoskvpp28cLw=w408-h306-k-no",
+    "kgmid": "/g/11kb58lx76",
+    "emails": [
+      "dakwerkenbt@gmail.com"
+    ],
+    "phones": [
+      "+32 478 74 16 52"
+    ],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/profile.php?id=100054269241737"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "facebook.com",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Renovatiewerken Martlé BV",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Bouwbedrijf",
+    "address": "Steenhouwerslaan 3, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Steenhouwerslaan 3",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.bouwen-met-martle.be/",
+    "phone": "+32 471 24 62 59",
+    "phoneUnformatted": "+32471246259",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1949045,
+      "lng": 3.4712406
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ52EprHZjw0cRw5Z5T3-9uxU",
+    "categories": [
+      "Bouwbedrijf"
+    ],
+    "fid": "0x47c36376ac2961e7:0x15bbbd7f4f7996c3",
+    "cid": "1566053649933244099",
+    "reviewsCount": 34,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.407Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke ingang": true
+        },
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Renovatiewerken%20Martl%C3%A9%20BV&query_place_id=ChIJ52EprHZjw0cRw5Z5T3-9uxU",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmL3T6Bb5UFIlJRSukmAHj4KN2wHBycB2Xta_8CUe1ZRtLBRUVBaQK8WSPeZUtfI1UQf4-p3fMLq1AeFaaywGNePVySSOeZx8UC4FJ4jpI3sHEZ-x4__w-63E1wHAKFgfnCx9U=w408-h408-k-no",
+    "kgmid": "/g/1tr8kr0t",
+    "emails": [
+      "info@martle-bouw.be"
+    ],
+    "phones": [
+      "+32 491 271 796",
+      "+3250738713",
+      "+32491271796"
+    ],
+    "phonesUncertain": [
+      "+32 491 271 796",
+      "+32 50 73 87",
+      "0715.648.578"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/stefaanmartle"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/profile.php?id=100089437236950"
+    ],
+    "youtubes": [
+      "https://www.youtube.com/@dak-en-gevelwerken-martle"
+    ],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "bouwen-met-martle.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken David",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://dakwerken-david.be/",
+    "phone": "+32 479 64 61 56",
+    "phoneUnformatted": "+32479646156",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0963082,
+      "lng": 4.2262283
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFTSO4TLrhoURx-PDAA_aKvs",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x8586eb32e18e3415:0xfb2ada0f00c3e3c7",
+    "cid": "18098517810513961927",
+    "reviewsCount": null,
+    "imagesCount": 60,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 19:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20David&query_place_id=ChIJFTSO4TLrhoURx-PDAA_aKvs",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUS8rxnydjAnWIkHMH1cCHpm582T7CPzuaXHMvKVpNpGPzLYi9x0Q_LrB_HZF7qi_Yp0kxnnIOb2APfaNHtKwlHNiUPtN0YRMtuH4joCqVtb8yLj3ufaDGGbMlo80tpAZCrfGx0S9BRBOY=w408-h508-k-no",
+    "kgmid": "/g/11zjbszggd",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerken-david.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "VSB Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "http://vsb-dakwerken.be/",
+    "phone": "+32 486 84 35 67",
+    "phoneUnformatted": "+32486843567",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 50.861645,
+      "lng": 4.0002155
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsbyR-11vw0cRhnQPF9ZVt8o",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x47c36f5dfb91bcb1:0xcab755d6170f7486",
+    "cid": "14607238294397744262",
+    "reviewsCount": 13,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zondag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=VSB%20Dakwerken&query_place_id=ChIJsbyR-11vw0cRhnQPF9ZVt8o",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlB98OPYGz3AIbgxMJcyt4PZVONhL57TVyENkeA16dI3U3GAIYndngupcAVGRVMZhsTGUTOumlnvay_3-VijhuK5DSCJ50Ju39oEinHU0233SOAWM_JHNbXCF9Qch197O3dSRrf4loMQX_H=w426-h240-k-no",
+    "kgmid": "/g/11btxkqpgf",
+    "emails": [],
+    "phones": [
+      "0486843567"
+    ],
+    "phonesUncertain": [
+      "0486 84 35 67",
+      "0891.590.544"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "vsb-dakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "MJ-Roofs",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.mj-roofs.be/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2448912,
+      "lng": 3.4493224
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlQ3-5Qhew0cRZA2KZXxgxm4",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x47c35e08e5fe0d95:0x6ec6607c658a0d64",
+    "cid": "7982173476956540260",
+    "reviewsCount": 4,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.407Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:30 to 17:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:30 to 17:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:30 to 17:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:30 to 17:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:30 to 17:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MJ-Roofs&query_place_id=ChIJlQ3-5Qhew0cRZA2KZXxgxm4",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfirGx0HqMEGoWz1u7x53ozgV73VsoZYFR0ve3jczjknxXCrbYTnoQUGByMDnVKTzAhfwbiAfxjTatNJH5DJj-Ycv2OrISmLeABeUO9MiZZiSe_H4vJQWm3Olo0OqmrMf8SA_V=w408-h272-k-no",
+    "kgmid": "/g/1tkc185f",
+    "emails": [
+      "michael@mj-roofs.be"
+    ],
+    "phones": [
+      "+32477618714"
+    ],
+    "phonesUncertain": [
+      "+32 477 618 714",
+      "0807.741.863",
+      "0477 61 87 14"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/mjroofs",
+      "https://www.facebook.com/michael.vankerschaver"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "mj-roofs.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Boelaert",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Kunstberg 1, 9900 Eeklo, België",
+    "neighborhood": null,
+    "street": "Kunstberg 1",
+    "city": "Eeklo",
+    "postalCode": "9900",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerken-boelaert.be/",
+    "phone": "+32 9 372 94 56",
+    "phoneUnformatted": "+3293729456",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1928244,
+      "lng": 3.5283862
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKWG37dtvw0cRArugVfa0ZBk",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c36fdbedb76129:0x1964b4f655a0bb02",
+    "cid": "1829786318710815490",
+    "reviewsCount": 42,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke ingang": true
+        },
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Boelaert&query_place_id=ChIJKWG37dtvw0cRArugVfa0ZBk",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4mvSYEIN4YPaVIUKBlBv4hu4O8Pr3rLl5cAoC9MjbSEG0rUT3Pdsz6nRA5flsZjg2HQZiUbVX6Q8QFrJmqcAcNVCCdQDAXPRWLEISGICeTkBwriur9I0xQcuzw6bdr_VgrKkWWw=w408-h306-k-no",
+    "kgmid": "/g/1vspqnrh",
+    "emails": [
+      "info@dakwerken-boelaert.be",
+      "stelling@boelaert-buildup.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "372.94.56",
+      "0476.836.855"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerken-boelaert.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Algemene renovatiewerken (RDC)",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Peperstraat 101, 9900 Eeklo, België",
+    "neighborhood": null,
+    "street": "Peperstraat 101",
+    "city": "Eeklo",
+    "postalCode": "9900",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.renovatiewerkenrdc.be/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2097188,
+      "lng": 3.5719739
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDd1h2ph_w0cRpyXcuLKHyi4",
+    "categories": [
+      "Dakdekker",
+      "Bouwbedrijf"
+    ],
+    "fid": "0x47c37f98da61dd0d:0x2eca87b2b8dc25a7",
+    "cid": "3371656472715601319",
+    "reviewsCount": 31,
+    "imagesCount": 180,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 21:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 21:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:00 to 17:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "07:00 to 12:00"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 21:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 21:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 21:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Algemene%20renovatiewerken%20(RDC)&query_place_id=ChIJDd1h2ph_w0cRpyXcuLKHyi4",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1z_V_WH2KRVrrVEIQ2LprxFU9NHkEExKwyfieCQanJWGFmxTanseNKgu-iHo6adtTX-ZB6XWtKiBQA6CxBDRPw0uM6LemyY-bEHGj51i3dCHwgOlWCSTUgA7NxLZnL8MLFckn=w408-h544-k-no",
+    "kgmid": "/g/11r_mdnp5d",
+    "emails": [
+      "dwayne@renovatiewerkenrdc.be"
+    ],
+    "phones": [
+      "0471636103"
+    ],
+    "phonesUncertain": [
+      "+32471636103",
+      "1013324554",
+      "0471 63 61 03",
+      "0471 63 61 030471",
+      "1013 324 554"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/RdcRogiestDwayneConstruct"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "renovatiewerkenrdc.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Flement",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Koning Albertstraat 18B, 9968 Assenede, België",
+    "neighborhood": null,
+    "street": "Koning Albertstraat 18B",
+    "city": "Assenede",
+    "postalCode": "9968",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerkenflement.be/",
+    "phone": "+32 468 34 48 70",
+    "phoneUnformatted": "+32468344870",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1922474,
+      "lng": 3.685854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu8KQTFBvw0cR_z1-mh1ghHY",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c36f504c90c2bb:0x7684601d9a7e3dff",
+    "cid": "8540056473663585791",
+    "reviewsCount": 10,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Flement&query_place_id=ChIJu8KQTFBvw0cR_z1-mh1ghHY",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk92pLMZH5HwkOhfU3-HmSoG1QNX1nx_fST-zrE2eTentf9wwDCoriTfZCVmTzy4FTnTnnwTlaccVaPIhzI81lKpKBZC5nEKr_i6O3Gv33a_vyDnousYYKI4ElXUesvpgG5P0OB=w408-h544-k-no",
+    "kgmid": "/g/1pxw2d0gb",
+    "emails": [
+      "jimmy@dakwerkenflement.be",
+      "info@dakwerkenflement.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0468.34.48.70",
+      "468.34.48.70",
+      "0754.540.729"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenflement.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Delguir",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Timmerman",
+    "address": "Kunstdal 1/A, 9900 Eeklo, België",
+    "neighborhood": null,
+    "street": "Kunstdal 1/A",
+    "city": "Eeklo",
+    "postalCode": "9900",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.inforegio.be/bouwbedrijf-delguir-eeklo",
+    "phone": "+32 475 68 52 13",
+    "phoneUnformatted": "+32475685213",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1960103,
+      "lng": 3.5278499
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmwv1N8Zmw0cRusT5UfN5pYQ",
+    "categories": [
+      "Timmerman"
+    ],
+    "fid": "0x47c366c637f50b9b:0x84a579f351f9c4ba",
+    "cid": "9558179870123082938",
+    "reviewsCount": 1,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Delguir&query_place_id=ChIJmwv1N8Zmw0cRusT5UfN5pYQ",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmg0gN-TfRtimeRm5sZDuTgc4JM_DN8tyjCGli0OBfi4nhz0hlj66FeO6_Wu3LUvIGUPgAN4-fi_9zDMunwjUX2rgFxBcc-6zFO_CzyqudMrdWLV_nxN3lR6pJp1_LyTRLZi7jg7w=w408-h544-k-no",
+    "kgmid": "/g/1pxwptx22",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [
+      "51.196020",
+      "52783130",
+      "0821.323.645",
+      "0475 68 52 13"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "inforegio.be",
+    "leadsEnrichment": [
+      {
+        "personId": "66fb9028cdf51100011faf8e",
+        "firstName": "Jari",
+        "lastName": "Elsen",
+        "fullName": "Jari Elsen",
+        "linkedinProfile": "http://www.linkedin.com/in/jari-elsen-665276180",
+        "email": "jari@inforegio.be",
+        "mobileNumber": null,
+        "jobTitle": "Sales Representative",
+        "industry": null,
+        "city": "Ghent",
+        "state": "Flanders",
+        "country": "Belgium",
+        "companyId": "5d0a652980f93e367b986f08",
+        "companyName": "Inforegio",
+        "companyWebsite": "inforegio.be",
+        "companySize": null,
+        "companyLinkedin": "http://www.linkedin.com/company/inforegio",
+        "companyCity": null,
+        "companyState": null,
+        "companyCountry": null,
+        "companyPhoneNumber": null,
+        "headline": "Sales Representative",
+        "departments": [
+          "sales"
+        ],
+        "seniority": "entry",
+        "photoUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFS7fKnS_RlTA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1550610967225?e=2147483647&v=beta&t=3MR21GhgJg3upHwTDYeVvkslmk3SFzaipaJ08Td4UyQ",
+        "twitter": null
+      },
+      {
+        "personId": "5ddd38dffb76f70001d42d5b",
+        "firstName": "Kenneth",
+        "lastName": "Ramaekers",
+        "fullName": "Kenneth Ramaekers",
+        "linkedinProfile": "http://www.linkedin.com/in/kenneth-ramaekers-03a377140",
+        "email": "kenneth@inforegio.be",
+        "mobileNumber": null,
+        "jobTitle": "Marketing bij inforegio",
+        "industry": null,
+        "city": null,
+        "state": "Flanders",
+        "country": "Belgium",
+        "companyId": "5d0a652980f93e367b986f08",
+        "companyName": "Inforegio",
+        "companyWebsite": "inforegio.be",
+        "companySize": null,
+        "companyLinkedin": "http://www.linkedin.com/company/inforegio",
+        "companyCity": null,
+        "companyState": null,
+        "companyCountry": null,
+        "companyPhoneNumber": null,
+        "headline": "Marketing bij inforegio",
+        "departments": [
+          "marketing"
+        ],
+        "seniority": "entry",
+        "photoUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGjB5MsGXIM_w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1606064162618?e=2147483647&v=beta&t=snqjORJWayGOQTjU3-XxW-LSYaGkiN7aTT8UwUUN_pY",
+        "twitter": null
+      }
+    ]
+  },
+  {
+    "title": "Platte Daken I Van de Velde Darwin",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Paterstraat 26, 9930 Lievegem, België",
+    "neighborhood": null,
+    "street": "Paterstraat 26",
+    "city": "Lievegem",
+    "postalCode": "9930",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.darwinvdv.be/",
+    "phone": "+32 487 69 10 96",
+    "phoneUnformatted": "+32487691096",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1281301,
+      "lng": 3.602794
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf557NWusPGgR0_A6JPZAwzM",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x683cac6b357b9e7f:0x33c340f6243af0d3",
+    "cid": "3729896342306877651",
+    "reviewsCount": 4,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Platte%20Daken%20I%20Van%20de%20Velde%20Darwin&query_place_id=ChIJf557NWusPGgR0_A6JPZAwzM",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AVBnxKboFXnOBoe-hVd-aQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=71.64336&pitch=0&thumbfov=100",
+    "kgmid": "/g/11z0vclchy",
+    "emails": [],
+    "phones": [
+      "+32487691096",
+      "0487691096"
+    ],
+    "phonesUncertain": [
+      "+32 487 69 10",
+      "0780.769.727",
+      "0487 69 10 96"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "darwinvdv.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "M.M Montage - Agro - en Industriële dakrenovaties",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Bouwbedrijf",
+    "address": "Kruispolderstraat 9, 9981 Sint-Laureins, België",
+    "neighborhood": null,
+    "street": "Kruispolderstraat 9",
+    "city": "Sint-Laureins",
+    "postalCode": "9981",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.mm-montage.be/",
+    "phone": "+32 467 00 52 03",
+    "phoneUnformatted": "+32467005203",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2835504,
+      "lng": 3.5215493
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ41CWrB9hw0cR_7-Xak4pIVg",
+    "categories": [
+      "Bouwbedrijf"
+    ],
+    "fid": "0x47c3611fac9650e3:0x5821294e6a97bfff",
+    "cid": "6350402366341627903",
+    "reviewsCount": null,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "woensdag",
+        "hours": "24 uur geopend"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=M.M%20Montage%20-%20Agro%20-%20en%20Industri%C3%ABle%20dakrenovaties&query_place_id=ChIJ41CWrB9hw0cR_7-Xak4pIVg",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmfxvoxQAbZ08Morcg2R-Z2Og3aL08rQdYtzWZL3BHWNgetJvQVoBv4NW6FVrDXRIYM3RfsNFT1ZAig69Mff4w3aSTYHDuNNJOdjr2wUfTlrGaZwGLWCLrKuEkvld7bN4bqWQFv=w408-h305-k-no",
+    "kgmid": "/g/11swrvpv_w",
+    "emails": [
+      "info@mm-montage.be"
+    ],
+    "phones": [
+      "+32467005203",
+      "+3293984119"
+    ],
+    "phonesUncertain": [
+      "398 41 19"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/middendorpmontagebelgie"
+    ],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "mm-montage.be",
+    "leadsEnrichment": [
+      {
+        "personId": "5ef50e2f35e1180001925e9b",
+        "firstName": "Ann",
+        "lastName": "Buysse",
+        "fullName": "Ann Buysse",
+        "linkedinProfile": "http://www.linkedin.com/in/annbuysse",
+        "email": "ann@mm-montage.be",
+        "mobileNumber": null,
+        "jobTitle": "Entrepreneur and Managing Director",
+        "industry": "Construction",
+        "city": "Assenede",
+        "state": "Flanders",
+        "country": "Belgium",
+        "companyId": "650656632ae12f0001eb2d5c",
+        "companyName": "M.M Montage België",
+        "companyWebsite": "mm-montage.be",
+        "companySize": null,
+        "companyLinkedin": "http://www.linkedin.com/company/middendorpmontagebelgie",
+        "companyCity": "Sint-Laureins",
+        "companyState": "Flanders",
+        "companyCountry": "Belgium",
+        "companyPhoneNumber": "+32467005203",
+        "headline": "Managing Director M.M Montage - Agro and Industrial Roofing Systems",
+        "departments": [
+          "c_suite"
+        ],
+        "seniority": "director",
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQFhAVl_YlGEqA/profile-displayphoto-shrink_200_200/0/1618845557009?e=2147483647&v=beta&t=n3Z6piPCQJdj_kZvyltU_3wXE4iZ7UGh-IKMjwRIvwU",
+        "twitter": null
+      },
+      {
+        "personId": "66f983a496f1ce0001f9a04e",
+        "firstName": "Vicky",
+        "lastName": "Switzynck",
+        "fullName": "Vicky Switzynck",
+        "linkedinProfile": "http://www.linkedin.com/in/vickyswitzynck",
+        "email": "vicky@mm-montage.be",
+        "mobileNumber": null,
+        "jobTitle": "Bediende Sales & Marketing",
+        "industry": null,
+        "city": "Dilbeek",
+        "state": "Vlaams Gewest",
+        "country": "Belgium",
+        "companyId": "650656632ae12f0001eb2d5c",
+        "companyName": "M.M Montage België",
+        "companyWebsite": "mm-montage.be",
+        "companySize": null,
+        "companyLinkedin": "http://www.linkedin.com/company/middendorpmontagebelgie",
+        "companyCity": null,
+        "companyState": null,
+        "companyCountry": null,
+        "companyPhoneNumber": "+32467005203",
+        "headline": "Bediende Sales & Marketing bij M.M Montage België",
+        "departments": [
+          "marketing",
+          "sales"
+        ],
+        "seniority": "entry",
+        "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQGJSEH2jYWdzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716294228248?e=2147483647&v=beta&t=QQkcZcjBjNSg9K7hIPZLcf5p-HiFONJsahW_pqfOtP4",
+        "twitter": null
+      }
+    ]
+  },
+  {
+    "title": "Domecijn Jari",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Loodgieter",
+    "address": "Bogaard 22, 9980 Sint-Laureins, België",
+    "neighborhood": null,
+    "street": "Bogaard 22",
+    "city": "Sint-Laureins",
+    "postalCode": "9980",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://domecijnjari.be/",
+    "phone": "+32 476 66 38 47",
+    "phoneUnformatted": "+32476663847",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2426864,
+      "lng": 3.5257196
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnxbL6qFhw0cR4SFPHCQbhis",
+    "categories": [
+      "Loodgieter"
+    ],
+    "fid": "0x47c361a1eacb169f:0x2b861b241c4f21e1",
+    "cid": "3136224032417849825",
+    "reviewsCount": 20,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zondag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "maandag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "woensdag",
+        "hours": "24 uur geopend"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Aanbod": [
+        {
+          "Reparatieservice": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Domecijn%20Jari&query_place_id=ChIJnxbL6qFhw0cR4SFPHCQbhis",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwJ9DPauNw6rCF2vT6KQ3MARSE2hW1HiERBTS5bSK5La-G2UNhXKjXWj1HpVVfLSxhKVi9kSMuny9ugxBsbhdoDckx5uA76-S7uE0Bp5j_3HhmNXue5Sj_HW6zC3isYBwoF-_wA6b2BNGq=w426-h240-k-no",
+    "kgmid": "/g/11shklz1y8",
+    "emails": [
+      "info@domecijnjari.be"
+    ],
+    "phones": [
+      "+32476663847"
+    ],
+    "phonesUncertain": [
+      "+32 476 66 38",
+      "1015.716.791"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/loodgieter_domecijn"
+    ],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "domecijnjari.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dak -Gevel & Renovatiewerken Martlé BV",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Steenhouwerslaan 3, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Steenhouwerslaan 3",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.bouwen-met-martle.be/",
+    "phone": "+32 491 27 17 96",
+    "phoneUnformatted": "+32491271796",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1949045,
+      "lng": 3.4712406
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz0ipLDZnw0cRfM2Ln24VtK0",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c367362ca948cf:0xadb4156e9f8bcd7c",
+    "cid": "12516652829236776316",
+    "reviewsCount": 6,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.407Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 17:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 17:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 17:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 17:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 17:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dak%20-Gevel%20%26%20Renovatiewerken%20Martl%C3%A9%20BV&query_place_id=ChIJz0ipLDZnw0cRfM2Ln24VtK0",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbCGuXhnyM32Ty7yKjRlQ2Z8RPTBMC0uHGShO9_PLUNeT7-cHYGU2I0Mmw4AtkIfD8rEbjIF62bvdjJqyL2T7v4XZHJ546LRIUWApKPVthb6uwR16Ig3KY4EbouCCe9SuymhBr=w408-h306-k-no",
+    "kgmid": "/g/11l1yfsmm8",
+    "emails": [
+      "info@martle-bouw.be"
+    ],
+    "phones": [
+      "+32 491 271 796",
+      "+3250738713",
+      "+32491271796"
+    ],
+    "phonesUncertain": [
+      "+32 491 271 796",
+      "+32 50 73 87",
+      "0715.648.578"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/stefaanmartle"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/profile.php?id=100089437236950"
+    ],
+    "youtubes": [
+      "https://www.youtube.com/@dak-en-gevelwerken-martle"
+    ],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "bouwen-met-martle.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "JVH Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Heirweg 60, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Heirweg 60",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.jvhdakwerken.be/",
+    "phone": "+32 498 48 74 73",
+    "phoneUnformatted": "+32498487473",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2137066,
+      "lng": 3.3886301
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeXFE-EFdw0cRe-yEzbPqebg",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c35d41f8447179:0xb879eab3cd84ec7b",
+    "cid": "13292913833128815739",
+    "reviewsCount": 1,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.407Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JVH%20Dakwerken&query_place_id=ChIJeXFE-EFdw0cRe-yEzbPqebg",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQBP8X_PhUS6PB_-OK9cT9tZ1dqgV8tliYwHeEFXN_tLqLBEkjqyranE7JVy2XCTFv0ahQ_MtfwbGoVr7m1SDSpJ8iQLIfgAZT8rIHSZwga3e2PGJGCOfhD9QPwv94Z9PHYg_D9g=w426-h240-k-no",
+    "kgmid": "/g/11jcg15y_h",
+    "emails": [
+      "info@jvhdakwerken.be"
+    ],
+    "phones": [
+      "0498 48 74 73",
+      "0498487473"
+    ],
+    "phonesUncertain": [
+      "0498 48 74 73",
+      "0727.915.615"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/JVHdakwerken"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "jvhdakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Scalle Construct",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Kraaigemstraat 38, 9968 Assenede, België",
+    "neighborhood": null,
+    "street": "Kraaigemstraat 38",
+    "city": "Assenede",
+    "postalCode": "9968",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.scalleconstruct.be/",
+    "phone": "+32 472 85 53 59",
+    "phoneUnformatted": "+32472855359",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2260594,
+      "lng": 3.6754433
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8V3JE7p8w0cRYMy7ndgjCLg",
+    "categories": [
+      "Dakdekker",
+      "Timmerman"
+    ],
+    "fid": "0x47c37cba13c95df1:0xb80823d89dbbcc60",
+    "cid": "13260888516058664032",
+    "reviewsCount": null,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.504Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 12:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scalle%20Construct&query_place_id=ChIJ8V3JE7p8w0cRYMy7ndgjCLg",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQ53r2SdhQLMVrj7K9UXRlLG6xSRr-O-muBH1ZSbJLUEjS_cHuGg10V27BxHML0nKxfSuGBoVmGcIGfpGKk4B4K6mk5_uY4zNmIEfOeqjqls6q7wP6WMbo-W35UPhiulmz7OuS=w408-h306-k-no",
+    "kgmid": "/g/1pzrg95k5",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "scalleconstruct.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Dirk Standaert",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "http://www.dakwerken-standaert.be/",
+    "phone": "+32 497 37 30 52",
+    "phoneUnformatted": "+32497373052",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2344037,
+      "lng": 4.3038638
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn8u80m95w0cRb2tCA7PSH8s",
+    "categories": [
+      "Dakdekker",
+      "Bouwbedrijf",
+      "Service establishment",
+      "Aannemer",
+      "Dakgotenreinigingsservice",
+      "Aannemer voor isolatie"
+    ],
+    "fid": "0x47c3796fd2bccb9f:0xcb1fd2b303426b6f",
+    "cid": "14636648980273064815",
+    "reviewsCount": 4,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.503Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "woensdag",
+        "hours": "24 uur geopend"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Dirk%20Standaert&query_place_id=ChIJn8u80m95w0cRb2tCA7PSH8s",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYap8d2WNeIRB-0foZFSZaL7hC9XzEoQiReHHBFlKSxXYa71GVZfI5nCBxEQ_HFgaavz5jl58Z6v4UPfqpgsvTYFPdzKoe6RGx7zHY9N4Gh-lSQzQA9DxvKMbGNhmYY572AGfC8A=w426-h240-k-no",
+    "kgmid": "/g/11fyx4z85q",
+    "emails": [
+      "standaert.d@hotmail.be",
+      "standaert.d@hotmail.com",
+      "info@dakwerken-standaert.be"
+    ],
+    "phones": [
+      "0497373052"
+    ],
+    "phonesUncertain": [
+      "0497 373 052",
+      "0479.882.655"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerken-standaert.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken GDB",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Ridderzaalstraat 16, 9940 Evergem, België",
+    "neighborhood": null,
+    "street": "Ridderzaalstraat 16",
+    "city": "Evergem",
+    "postalCode": "9940",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://dakwerkengdb.be/",
+    "phone": "+32 492 92 73 81",
+    "phoneUnformatted": "+32492927381",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1708958,
+      "lng": 3.7361315
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKZdvARd7w0cRL-GOoeip7ZQ",
+    "categories": [
+      "Dakdekker",
+      "Bouwbedrijf"
+    ],
+    "fid": "0x47c37b17016f9729:0x94eda9e8a18ee12f",
+    "cid": "10731420303701762351",
+    "reviewsCount": 60,
+    "imagesCount": 378,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "maandag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "06:00 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "06:00 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Noodhulp": [
+        {
+          "Neemt ontheemden in dienst": true
+        }
+      ],
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        },
+        {
+          "Services op bedrijfslocatie": true
+        }
+      ],
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20GDB&query_place_id=ChIJKZdvARd7w0cRL-GOoeip7ZQ",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGRLTagtGVS5gEDaB94V8bVZ1Vs-X8xSnLo2Q477wVOMMiG2pNnNhP2hx29kNUpnwQQrSSUMsYeBu2gh1F309phzAmk7F5hd0kQoI33WoE4t422uJ0GCYNMJsB2c0cBfJ8fz12=w408-h306-k-no",
+    "kgmid": "/g/11py0f4pfz",
+    "emails": [
+      "info@dakwerkengdb.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "+32 492 92 73",
+      "0794.617.268"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/dakwerken_gdb",
+      "https://instagram.com/dakwerken_gdb"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/DakwerkenGDB"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkengdb.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Algemeen schrijnwerk & zonnewering rolluiken screens. Leverancier van zonwering, velux Rolluiken. Janzonwering.be",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Timmerman",
+    "address": "Westeindestraat 81, 9990 Maldegem, België",
+    "neighborhood": null,
+    "street": "Westeindestraat 81",
+    "city": "Maldegem",
+    "postalCode": "9990",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://janzonwering.be/",
+    "phone": "+32 497 84 45 20",
+    "phoneUnformatted": "+32497844520",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2087007,
+      "lng": 3.4401771
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ68pp1ktdw0cRMRBHS5IOExU",
+    "categories": [
+      "Timmerman",
+      "Aannemer voor dakramen",
+      "Leverancier van zonwering",
+      "Vensterinstallateur"
+    ],
+    "fid": "0x47c35d4bd669caeb:0x15130e924b471031",
+    "cid": "1518573520844951601",
+    "reviewsCount": 53,
+    "imagesCount": 204,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:07.408Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:30 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:30 to 21:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:30 to 21:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:30 to 21:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:30 to 21:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:30 to 21:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Betalen": [
+        {
+          "Creditcards": true
+        },
+        {
+          "Pinpassen": true
+        },
+        {
+          "Creditcards": true
+        }
+      ],
+      "Parkeren": [
+        {
+          "Gratis parkeergarage": true
+        },
+        {
+          "Gratis parkeerplaats": true
+        },
+        {
+          "Gratis parkeren op straat": true
+        },
+        {
+          "Parkeren op het terrein": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Algemeen%20schrijnwerk%20%26%20zonnewering%20rolluiken%20screens.%20Leverancier%20van%20zonwering%2C%20velux%20Rolluiken.%20Janzonwering.be&query_place_id=ChIJ68pp1ktdw0cRMRBHS5IOExU",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Maldegem?hl=nl",
+    "searchString": "dakwerker Maldegem",
+    "language": "nl",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLW4aKHLHedVQcmbdKroiFAnSQkaBZvUeCYTjD6sDl-kM2G0sfYeo3dvGkETPmboYApOC9pdr2Uoz5AELl-72sBJRJa9HmD01yF7hLddBxtUBmRrimmdjzBhzCKVoBYnFCILY1o6_byaI=w408-h544-k-no",
+    "kgmid": "/g/11q_cvnwf8",
+    "emails": [
+      "info@schrijnwerk-vandewall.be"
+    ],
+    "phones": [
+      "+32497844520"
+    ],
+    "phonesUncertain": [
+      "+32 497 84 45"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "janzonwering.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "SCHRIJNWERKEN ASSENEDE",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Nieuwburgstraat, 9960 Assenede, België",
+    "neighborhood": null,
+    "street": "Nieuwburgstraat",
+    "city": "Assenede",
+    "postalCode": "9960",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://schrijnwerken-vernaeve.be/contact.php",
+    "phone": "+32 499 75 79 81",
+    "phoneUnformatted": "+32499757981",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 51.2038308,
+      "lng": 3.7274236
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLe3IZnp8w0cR2AlMcA3JQsE",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c37c7a66c8ed2d:0xc142c90d704c09d8",
+    "cid": "13925914057338784216",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.503Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SCHRIJNWERKEN%20ASSENEDE&query_place_id=ChIJLe3IZnp8w0cR2AlMcA3JQsE",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yNFxemge2OfF1c271aifhQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.26584&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h7pbkscf",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "schrijnwerken-vernaeve.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "De Roose BV",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Korteboeken 26, 9930 Lievegem, België",
+    "neighborhood": null,
+    "street": "Korteboeken 26",
+    "city": "Lievegem",
+    "postalCode": "9930",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerkenderoose.be/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1175577,
+      "lng": 3.5779722
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTyQyI6dvw0cRvdUwtiefM4o",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c36fa72332244f:0x8a339f27b630d5bd",
+    "cid": "9958478193955493309",
+    "reviewsCount": 13,
+    "imagesCount": 92,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=De%20Roose%20BV&query_place_id=ChIJTyQyI6dvw0cRvdUwtiefM4o",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgSmMFewrvrPwTipm9bHqsMOlN0SkS2QEd69Y3BekyxqAJRP4bgKOF2LrXOZTmYKo77qxig33mljzcm_NVyk85gUwW-vZzNtTx_WZDjeBfjOsxkdnhOC9F5Kq2NJubiaeuOtf6=w408-h272-k-no",
+    "kgmid": "/g/11jwknnznt",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenderoose.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "VSB Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Bus 27, 9900 Eeklo, België",
+    "neighborhood": null,
+    "street": "Bus 27",
+    "city": "Eeklo",
+    "postalCode": "9900",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.vsb-dakwerken.be/",
+    "phone": "+32 486 84 35 67",
+    "phoneUnformatted": "+32486843567",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.2034115,
+      "lng": 3.5924739
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoQRHgwplw0cRDKEj_N1-EwY",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c3650a834704a1:0x6137eddfc23a10c",
+    "cid": "437833080668135692",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:40.187Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=VSB%20Dakwerken&query_place_id=ChIJoQRHgwplw0cRDKEj_N1-EwY",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Eeklo?hl=nl",
+    "searchString": "dakwerker Eeklo",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aikC8eNXQ4a67baAjHeHsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=347.75644&pitch=0&thumbfov=100",
+    "kgmid": "/g/11mdp4f6k_",
+    "emails": [],
+    "phones": [
+      "0486843567"
+    ],
+    "phonesUncertain": [
+      "0486 84 35 67",
+      "0891.590.544"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "vsb-dakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Vanden Bossche Quinten",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.vdbq.be/",
+    "phone": "+32 478 37 21 72",
+    "phoneUnformatted": "+32478372172",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.142933,
+      "lng": 3.7158379
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR35lVWOrCSsR8aqBUsfDZDM",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x2b09ab6355657e47:0x3364c3c75281aaf1",
+    "cid": "3703300054455528177",
+    "reviewsCount": 70,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:30 to 17:30"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:30 to 17:30"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:30 to 12:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:30 to 17:30"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:30 to 17:30"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:30 to 17:30"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Vanden%20Bossche%20Quinten&query_place_id=ChIJR35lVWOrCSsR8aqBUsfDZDM",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsKPpK6CVOsx6a8rKIi426MuivPLWvXZZu31T-NEVbnxhBfn_WgBf0g00MQhZtKrdv-LSw_f6hzhM3JMRiHOnvEZW-Jv_WbGho_SZIs_CzHNgiV0ZRApQ6dt8MTviDo2tBQLzB=w408-h293-k-no",
+    "kgmid": "/g/11y3x120gq",
+    "emails": [
+      "info@vdbq.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0767 725 306"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/vdbq.be"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/profile.php?id=61551896106961"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "vdbq.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Bruggeman",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Leest, 9950 Lievegem, België",
+    "neighborhood": null,
+    "street": "Leest",
+    "city": "Lievegem",
+    "postalCode": "9950",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.dakwerkenbruggeman.be/",
+    "phone": "+32 472 45 20 53",
+    "phoneUnformatted": "+32472452053",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1439279,
+      "lng": 3.6035907
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSwPDnVSpYocRxwYCNu3uExo",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x8762a9549dc3034b:0x1a13eeed360206c7",
+    "cid": "1879108172124391111",
+    "reviewsCount": null,
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Bruggeman&query_place_id=ChIJSwPDnVSpYocRxwYCNu3uExo",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11x_c1zkjz",
+    "emails": [
+      "info@dakwerkenbruggeman.be"
+    ],
+    "phones": [
+      "+32472452053"
+    ],
+    "phonesUncertain": [
+      "+32 472 45 20",
+      "1007560576"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/dakwerken_bruggeman"
+    ],
+    "facebooks": [
+      "https://www.facebook.com/DakwerkenBruggeman"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenbruggeman.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Vande Velde Wim",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Ververij 4, 9950 Lievegem, België",
+    "neighborhood": null,
+    "street": "Ververij 4",
+    "city": "Lievegem",
+    "postalCode": "9950",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerkenvandevelde.be/",
+    "phone": "+32 474 62 34 45",
+    "phoneUnformatted": "+32474623445",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1544809,
+      "lng": 3.6199101
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8xauexplw0cREq_xAVyfrvM",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c3651a7bae16f3:0xf3ae9f5c01f1af12",
+    "cid": "17559147214682566418",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.854Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "09:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "09:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "09:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "09:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "09:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Vande%20Velde%20Wim&query_place_id=ChIJ8xauexplw0cREq_xAVyfrvM",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=taqFUWJs5yR5njVimNaFlw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=238.35835&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cm034nnl",
+    "emails": [
+      "dakwerken_vandeveldewim@hotmail.com"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0474 62 34 459950"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenvandevelde.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Fordeyn",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Bedrijf",
+    "address": "Landsdijk 48, 9968 Assenede, België",
+    "neighborhood": null,
+    "street": "Landsdijk 48",
+    "city": "Assenede",
+    "postalCode": "9968",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.fordeynschrijnwerk.be/",
+    "phone": "+32 476 45 02 12",
+    "phoneUnformatted": "+32476450212",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 51.253299,
+      "lng": 3.6543486
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7UDhKtdiw0cRpHBSbjmio-M",
+    "categories": [
+      "Bedrijf"
+    ],
+    "fid": "0x47c362d72ae140ed:0xe3a3a2396e5270a4",
+    "cid": "16403132635361210532",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.504Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fordeyn&query_place_id=ChIJ7UDhKtdiw0cRpHBSbjmio-M",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sWcH5NM5czOsqkej4J-T2Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.75772&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdfxwnq",
+    "emails": [
+      "info@fordeynschrijnwerk.be"
+    ],
+    "phones": [
+      "+32476450212",
+      "+3293736797"
+    ],
+    "phonesUncertain": [
+      "0476 45 02 12",
+      "0463751456",
+      "0476 450212",
+      "0476450212"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "fordeynschrijnwerk.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "ISO Dakwerken Evergem",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://iso-dakwerken-evergem.be/",
+    "phone": "+32 460 23 52 69",
+    "phoneUnformatted": "+32460235269",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0374895,
+      "lng": 3.8443284
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmRFC_KqgMosR1lc-AUNEzBs",
+    "categories": [
+      "Dakdekker",
+      "Service establishment"
+    ],
+    "fid": "0x8b32a0aafc421199:0x1bcc4443013e57d6",
+    "cid": "2003050988847388630",
+    "reviewsCount": 5,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.504Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:00 to 20:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "09:00 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ISO%20Dakwerken%20Evergem&query_place_id=ChIJmRFC_KqgMosR1lc-AUNEzBs",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmspHzyxGnrfEikMBZRhRQR8XKL3ndwFc-HYCDC6dcLxZ7Lz4V6yJbm5jDZLOyCzcKSleyZF8pBlKK1xh6ezwsrIHk7_P_qUaojs9BOAPPwxjVA3eWwyz_Vfhtv8P-A19ZnPc5s=w408-h271-k-no",
+    "kgmid": "/g/11k9p08tls",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "iso-dakwerken-evergem.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Schepens",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Oostveld Kouter 224, 9920 Lievegem, België",
+    "neighborhood": null,
+    "street": "Oostveld Kouter 224",
+    "city": "Lievegem",
+    "postalCode": "9920",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dakwerkenschepens.be/",
+    "phone": "+32 477 70 84 63",
+    "phoneUnformatted": "+32477708463",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1068999,
+      "lng": 3.6402106
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCRFKSANxw0cRUUjKC_6z1kQ",
+    "categories": [
+      "Dakdekker",
+      "Klusbedrijf"
+    ],
+    "fid": "0x47c37103484a1109:0x44d6b3fe0bca4851",
+    "cid": "4960349943296051281",
+    "reviewsCount": 28,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "06:00 to 22:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "06:00 to 22:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "06:00 to 22:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "06:00 to 22:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "06:00 to 22:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "06:00 to 22:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        },
+        {
+          "Services op bedrijfslocatie": false
+        }
+      ],
+      "Publiek": [
+        {
+          "LGBTQ+ vriendelijk": true
+        },
+        {
+          "Veilige omgeving voor transgenders": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Schepens&query_place_id=ChIJCRFKSANxw0cRUUjKC_6z1kQ",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLk1pRreSMNO-oWuz5AuXsWYJT8UtI0XaLvf2OdjemEa-at4-20AZ0rd27dqu1WzPgNcRsXIUZ3dsxhM4ZVqlmFkkEPgPL63kIc00gLR2T1f_KXZOM-0iuqon4Jtm1jHUpUmEVww=w408-h306-k-no",
+    "kgmid": "/g/1pxwkzqm_",
+    "emails": [
+      "fo@dakwerkenschepens.be"
+    ],
+    "phones": [
+      "0477708463"
+    ],
+    "phonesUncertain": [
+      "0824.790.307",
+      "800-123-456",
+      "800-123-45624"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenschepens.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Roels",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Lostraat 80, 9850 Deinze, België",
+    "neighborhood": null,
+    "street": "Lostraat 80",
+    "city": "Deinze",
+    "postalCode": "9850",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.dakwerkenroels.be/",
+    "phone": "+32 469 18 52 61",
+    "phoneUnformatted": "+32469185261",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0888514,
+      "lng": 3.5934303
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH5Syiu9vw0cR1qg93tPcIxY",
+    "categories": [
+      "Dakdekker",
+      "Aannemer voor isolatie",
+      "Aannemer voor dakramen"
+    ],
+    "fid": "0x47c36fef8ab2941f:0x1623dcd3de3da8d6",
+    "cid": "1595361495544080598",
+    "reviewsCount": 18,
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:30 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:30 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Roels&query_place_id=ChIJH5Syiu9vw0cR1qg93tPcIxY",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnoaZ2pqscdM3Der_eTSCQn15nPfIWg_XPvdY8DqvR1aaB1byRt9Bx-UE5_eRdlM7kzyKKNOAGF6kh7lrnoCX3IKX-shUwxdPr1JKyb48gE0DOl0Y7LVXtHJ1ODmYlP-aeAUv5e=w408-h306-k-no",
+    "kgmid": "/g/11n69qbmgx",
+    "emails": [
+      "info@dakwerkenroels.be",
+      "facturatie@dakwerkenroels.be"
+    ],
+    "phones": [
+      "0032469746878"
+    ],
+    "phonesUncertain": [
+      "0469 74 68 78",
+      "1010.143.845"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenroels.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Bv Mario Moens",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Ledestraat 41, 9968 Assenede, België",
+    "neighborhood": null,
+    "street": "Ledestraat 41",
+    "city": "Assenede",
+    "postalCode": "9968",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.bouwwerken-mario.eu/",
+    "phone": "+32 479 23 45 45",
+    "phoneUnformatted": "+32479234545",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1878555,
+      "lng": 3.6743031
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLWHq78Zkw0cRum-y-n_7x5s",
+    "categories": [
+      "Dakdekker",
+      "Vloerafwerkingsbedrijf",
+      "Dakgotenreinigingsservice",
+      "Dakgotenbedrijf",
+      "Klusbedrijf",
+      "Aannemer voor isolatie",
+      "Renovatieservice voor kantoren",
+      "Aannemer",
+      "Aannemer voor dakramen"
+    ],
+    "fid": "0x47c364c6efea612d:0x9bc7fb7ffab26fba",
+    "cid": "11225217123329667002",
+    "reviewsCount": 20,
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.503Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 12:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        },
+        {
+          "Services op bedrijfslocatie": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bv%20Mario%20Moens&query_place_id=ChIJLWHq78Zkw0cRum-y-n_7x5s",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmo53eWWLLk_ukVkSLCNnKymz93xw5WkdqNUJCQL2AIwv6QT-Zj_ollLZPip2sdbhMGbdGZTin77--8N65_oKQcxP_UzG0mPo6gWnW4UUBkmCpPzpu3-_FPqUzOuqQ3NUPrysjEUQ=w408-h306-k-no",
+    "kgmid": "/g/11cjkqchgg",
+    "emails": [
+      "bvbamariomoens@gmail.com"
+    ],
+    "phones": [
+      "0479234545"
+    ],
+    "phonesUncertain": [
+      "+32479234545",
+      "0828087515",
+      "0479 23 45 45"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/dakwerken.be",
+      "https://www.facebook.com/bvba.m.moens"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "bouwwerken-mario.eu",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dsb Dakwerken Bvba",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Notelaarstraat 15, 9950 Lievegem, België",
+    "neighborhood": null,
+    "street": "Notelaarstraat 15",
+    "city": "Lievegem",
+    "postalCode": "9950",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.dsbdakwerken.be/",
+    "phone": "+32 473 94 24 75",
+    "phoneUnformatted": "+32473942475",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1455714,
+      "lng": 3.6025782
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo0OEOxhww0cRGH_2APb1Pys",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c370183b8443a3:0x2b3ff5f600f67f18",
+    "cid": "3116479904090586904",
+    "reviewsCount": 9,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.854Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 15:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 20:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 20:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        },
+        {
+          "Services op bedrijfslocatie": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dsb%20Dakwerken%20Bvba&query_place_id=ChIJo0OEOxhww0cRGH_2APb1Pys",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2ikoL9P4t4FmosCSx2BFrOjlTU2Zk1XDmb94eYvQL7PVLpcTVh4KpGXPhGCmOb382QIqnZyAQi7R-0mkEISKQMXHkx4KlUoXTZhFARzh3GxctIsYe3n__ynnt6ZswwHxzDWQh=w408-h306-k-no",
+    "kgmid": "/g/11bzx3k4sy",
+    "emails": [
+      "info@dsbdakwerken.be"
+    ],
+    "phones": [
+      "0473942475"
+    ],
+    "phonesUncertain": [
+      "+32473942475",
+      "0888924133",
+      "0473 94 24 75"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/dsbdakwerken"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dsbdakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Duratop",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Bilksken 4, 9920 Lievegem, België",
+    "neighborhood": null,
+    "street": "Bilksken 4",
+    "city": "Lievegem",
+    "postalCode": "9920",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.duratop.be/",
+    "phone": "+32 477 22 44 44",
+    "phoneUnformatted": "+32477224444",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0931685,
+      "lng": 3.6382865
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ10iIGOuRrGgRoVqMSTCkV00",
+    "categories": [
+      "Dakdekker",
+      "Bouwbedrijf",
+      "Aannemer voor isolatie",
+      "Zonne-energiebedrijf"
+    ],
+    "fid": "0x68ac91eb188848d7:0x4d57a430498c5aa1",
+    "cid": "5573103591193598625",
+    "reviewsCount": 9,
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Duratop&query_place_id=ChIJ10iIGOuRrGgRoVqMSTCkV00",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAo_ijcPS_x-4N_It0o3tBVCkAgBvpbctw1mTeGssb8Tj8B5ux53E2KvtT5rNG4Mvsq9fAxNE9k9cBTi8RH_uVBnWGGTDE0yZ8ZezHmKpE7NAPARRIca-jd-yQs_NmgZHmdLJ4p1HeEHKO=w426-h240-k-no",
+    "kgmid": "/g/11z5qgjvmg",
+    "emails": [
+      "info@duratop.be",
+      "Info@Duratop.be"
+    ],
+    "phones": [
+      "0477224444"
+    ],
+    "phonesUncertain": [
+      "+32477224444",
+      "6515903",
+      "1035697110",
+      "0477 22 44 44",
+      "1035.697.110"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "duratop.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Asseneedse Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Asbestonderzoek",
+    "address": "Waalpoelstraat 36, 9960 Assenede, België",
+    "neighborhood": null,
+    "street": "Waalpoelstraat 36",
+    "city": "Assenede",
+    "postalCode": "9960",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.asseneedsedakwerken.be/",
+    "phone": "+32 9 344 88 16",
+    "phoneUnformatted": "+3293448816",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 51.2196375,
+      "lng": 3.7388976
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoUObnBR8w0cREtZ8-wVOJwY",
+    "categories": [
+      "Asbestonderzoek",
+      "Winkel voor dakdekkersbenodigdheden"
+    ],
+    "fid": "0x47c37c149c9b43a1:0x6274e05fb7cd612",
+    "cid": "443408875920348690",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.503Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asseneedse%20Dakwerken&query_place_id=ChIJoUObnBR8w0cREtZ8-wVOJwY",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4w_s5vb-tGGQliq6NsB2lQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=253.4216&pitch=0&thumbfov=100",
+    "kgmid": "/g/1pxwpfcdd",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [
+      "09 344 88 16",
+      "09 344 37 21"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "asseneedsedakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken AFJ",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Dreef 7, 9930 Lievegem, België",
+    "neighborhood": null,
+    "street": "Dreef 7",
+    "city": "Lievegem",
+    "postalCode": "9930",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.dakwerkenafj.be/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7259912242665893864",
+    "phone": "+32 477 06 60 59",
+    "phoneUnformatted": "+32477066059",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1186078,
+      "lng": 3.5613071
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTz9K4fpmW40RGii2ZtBOaCA",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x8d5b66fae14a3f4f:0x20684ed066b6281a",
+    "cid": "2335203063774980122",
+    "reviewsCount": 1,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 17:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 17:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 17:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 17:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 17:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20AFJ&query_place_id=ChIJTz9K4fpmW40RGii2ZtBOaCA",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2rVdGnbT-66lcnWrPi0nqjJEvcUKAf5llo0XEZoNPKTcwEZqzWLHQSyBZNX2HsLGGhDz8JRU0iidh3yjIm5FSwCt_gfTcDoG48ZANsvE-FC35h4TcPDe5MsfosQFuKYK1ezMQ=w408-h544-k-no",
+    "kgmid": "/g/11txxc885q",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenafj.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Pauwels Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Sportstraat 14, 9920 Lievegem, België",
+    "neighborhood": null,
+    "street": "Sportstraat 14",
+    "city": "Lievegem",
+    "postalCode": "9920",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.pauwels-dakwerken.be/",
+    "phone": "+32 478 54 78 18",
+    "phoneUnformatted": "+32478547818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0993642,
+      "lng": 3.6093786
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJecUd71dww0cRDuX3W1U5O4k",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c37057ef1dc579:0x893b39555bf7e50e",
+    "cid": "9888560445600032014",
+    "reviewsCount": 8,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.854Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "24 uur geopend"
+      },
+      {
+        "day": "woensdag",
+        "hours": "24 uur geopend"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pauwels%20Dakwerken&query_place_id=ChIJecUd71dww0cRDuX3W1U5O4k",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxxkDvejp07jMoqCpaEHHq-uP0o-z05gyNmlflgqrnYSVs4OOPf7eLzOd0XezYYlwN-SWFoReSbru07_YXjX-GmJZvQckE79pExzCPWLW7nIP5IKbc61BnWFXE2T0OyrGD02M-=w408-h306-k-no",
+    "kgmid": "/g/1ygvszmpm",
+    "emails": [
+      "info@pauwels-dakwerken.be"
+    ],
+    "phones": [
+      "+32478547818"
+    ],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "pauwels-dakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "RD Dakwerken",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Timmerman",
+    "address": "Paul Christiaenstraat 9, 9960 Assenede, België",
+    "neighborhood": null,
+    "street": "Paul Christiaenstraat 9",
+    "city": "Assenede",
+    "postalCode": "9960",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.rdschrijnwerken.be/",
+    "phone": "+32 472 25 29 80",
+    "phoneUnformatted": "+32472252980",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1983765,
+      "lng": 3.7655375
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP13aohl8w0cRW4L0R-QG_WQ",
+    "categories": [
+      "Timmerman"
+    ],
+    "fid": "0x47c37c19a2da5d3f:0x64fd06e447f4825b",
+    "cid": "7276980150430106203",
+    "reviewsCount": 4,
+    "imagesCount": 152,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:00.503Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "09:00 to 17:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RD%20Dakwerken&query_place_id=ChIJP13aohl8w0cRW4L0R-QG_WQ",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Assenede?hl=nl",
+    "searchString": "dakwerker Assenede",
+    "language": "nl",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknJ6_Zc1mGiV5qHxbJJ-JdmbTiChbCN63iflTNUC9s-vS-CPbg0BZwPqqtiQ5v5uSozE6MnklEMJzxNXcdWA9AIUiFu3vWZzYedr57glJCPNdI9L3hoeXLhCn1WlpllM7lJ4YW-w=w408-h544-k-no",
+    "kgmid": "/g/11h3tjltyg",
+    "emails": [
+      "info@rddakwerken.be",
+      "info@rdschrijnwerken.be"
+    ],
+    "phones": [
+      "+32472252980"
+    ],
+    "phonesUncertain": [
+      "1739021242380",
+      "2472 25 29 80",
+      "0893794622"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "rdschrijnwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken TDB",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Schoolstraat 8, 9950 Lievegem, België",
+    "neighborhood": null,
+    "street": "Schoolstraat 8",
+    "city": "Lievegem",
+    "postalCode": "9950",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.dakwerkentdb.be/",
+    "phone": "+32 474 25 45 16",
+    "phoneUnformatted": "+32474254516",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1524096,
+      "lng": 3.6049188
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyRhMpMtlw0cRbqhRZhVwCcg",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c365cba44c18c9:0xc80970156651a86e",
+    "cid": "14414175319589234798",
+    "reviewsCount": 1,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 14:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 19:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20TDB&query_place_id=ChIJyRhMpMtlw0cRbqhRZhVwCcg",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjWgZ9L1bek6qaAUA_77PwYfmaV_Xh3HAffbp2iRPpR8cl4DME9A0a1Oq3lCe5wRt3FRqIPaBavc_Ld3lM8go0yr_mnXqXmFy60iloHkR4LZ-lwlicY3NBCnmw4xYrTsq2Zavw=w408-h306-k-no",
+    "kgmid": "/g/11ssznkd8g",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkentdb.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Avrs-team",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.avrs-team.be/",
+    "phone": "+32 493 62 12 20",
+    "phoneUnformatted": "+32493621220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 50.501038,
+      "lng": 4.4747236
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWyudx65Wz0cR044ACkR2Q-g",
+    "categories": [
+      "Dakdekker",
+      "Service establishment",
+      "Meubelmakerij"
+    ],
+    "fid": "0x47cf56aec79d2b5b:0xe84376440a008ed3",
+    "cid": "16736350674836557523",
+    "reviewsCount": 16,
+    "imagesCount": 51,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 21:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 19:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 19:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": true
+        }
+      ],
+      "Publiek": [
+        {
+          "LGBTQ+ vriendelijk": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avrs-team&query_place_id=ChIJWyudx65Wz0cR044ACkR2Q-g",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm-E4YrSTqYgmR5DMgiTZsKYt_hb1eL6hjYSsAw5Ey3u9o76kupo6guSo2qJYIBwUaT9DHbQpGTfM6ZXv9qCTauN3_PvuCimekCyZwniRZDCW9SOC4jXOSGMjTglmVcl6XOMcjTgjZfxBKD=w426-h240-k-no",
+    "kgmid": "/g/11z7h00q_l",
+    "emails": [
+      "info@avrs-team.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "493 62 12 20",
+      "470 37 04 31"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/avrs.team"
+    ],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "avrs-team.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Glenn Van Damme",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Hendrik Claeysstraat 1a, 9930 Lievegem, België",
+    "neighborhood": null,
+    "street": "Hendrik Claeysstraat 1a",
+    "city": "Lievegem",
+    "postalCode": "9930",
+    "state": null,
+    "countryCode": "BE",
+    "website": "http://www.glennvandamme.be/",
+    "phone": "+32 478 06 77 83",
+    "phoneUnformatted": "+32478067783",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1155512,
+      "lng": 3.5614373
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_fEChyZvw0cRvzQ_6ryPuR8",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x47c36f268702f1fd:0x1fb98fbcea3f34bf",
+    "cid": "2286016327413871807",
+    "reviewsCount": 15,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.854Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Glenn%20Van%20Damme&query_place_id=ChIJ_fEChyZvw0cRvzQ_6ryPuR8",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=INBsPjdFwpHZOY-Nh9lPPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=9.102441&pitch=0&thumbfov=100",
+    "kgmid": "/g/11mvsmhvfk",
+    "emails": [
+      "glennvandamme7@gmail.com"
+    ],
+    "phones": [
+      "+32478067783"
+    ],
+    "phonesUncertain": [
+      "0542.521.988"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "glennvandamme.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Thorben",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Veldeken 2, 9950 Lievegem, België",
+    "neighborhood": null,
+    "street": "Veldeken 2",
+    "city": "Lievegem",
+    "postalCode": "9950",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://www.thorben-dakwerken.be/",
+    "phone": "+32 498 46 54 49",
+    "phoneUnformatted": "+32498465449",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1270815,
+      "lng": 3.6122492
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy4htdA8ArIYRtTgNUA9whAE",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x86ac000f746d88cb:0x184700f500d38b5",
+    "cid": "109335502033598645",
+    "reviewsCount": 3,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "08:00 to 16:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "08:00 to 18:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "08:00 to 18:00"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Online prijsopgaven": false
+        },
+        {
+          "Services op bedrijfslocatie": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Thorben&query_place_id=ChIJy4htdA8ArIYRtTgNUA9whAE",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmMYSgDRNBzuRPKSLp3222N9UmxMLchneJB4NoOw7vxpNwjkiAJmM9TmZzcwoLFL210omy1ffSYdJwqFMzrJ7h32tucqO6cmCoXyBpPDSHnUtOY5S3q_kSYcKCXAjrJfSAx9Blu6QU8LiL3=w408-h544-k-no",
+    "kgmid": "/g/11rtf0l9mm",
+    "emails": [
+      "info@thorben-dakwerken.be"
+    ],
+    "phones": [],
+    "phonesUncertain": [
+      "0498.46.54.49"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [
+      "https://www.facebook.com/Thorben-103848111671093"
+    ],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "thorben-dakwerken.be",
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Thorben",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "http://www.thorben-dakwerken.be/",
+    "phone": "+32 498 46 54 49",
+    "phoneUnformatted": "+32498465449",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.0374895,
+      "lng": 3.8443284
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0-pgGkk7x0cRheWhwq6os6w",
+    "categories": [
+      "Dakdekker",
+      "Service establishment",
+      "Aannemer voor isolatie",
+      "Aannemer voor gevelbeplating"
+    ],
+    "fid": "0x47c73b491a60ead3:0xacb3a8aec2a1e585",
+    "cid": "12444475663897978245",
+    "reviewsCount": 1,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:02:38.696Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Thorben&query_place_id=ChIJ0-pgGkk7x0cRheWhwq6os6w",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Sint-Laureins?hl=nl",
+    "searchString": "dakwerker Sint-Laureins",
+    "language": "nl",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQ82kGNF6S6v5xNQne6UNLUAnXRck_DAO-plIIvHtWOS6iH9nGGcaXxX-JybAsB3QHtIfv3ZhrK0Pi_JL6kskOwCW-_TS3cP9loPAtK2NPnCtDF9_r_zorH_fkKjVPrDW1Nkk=w408-h544-k-no",
+    "kgmid": "/g/11t0vs9x82",
+    "emails": [],
+    "phones": [],
+    "phonesUncertain": [],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "leadsEnrichment": []
+  },
+  {
+    "title": "Dakwerken Moentjens",
+    "subTitle": null,
+    "description": null,
+    "price": null,
+    "categoryName": "Dakdekker",
+    "address": "Akkerken 22b, 9940 Evergem, België",
+    "neighborhood": null,
+    "street": "Akkerken 22b",
+    "city": "Evergem",
+    "postalCode": "9940",
+    "state": null,
+    "countryCode": "BE",
+    "website": "https://dakwerkenmoentjens.be/",
+    "phone": "+32 471 86 75 04",
+    "phoneUnformatted": "+32471867504",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 51.1334204,
+      "lng": 3.6757326
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYVddBecs3koRdVsVZgWp1pM",
+    "categories": [
+      "Dakdekker"
+    ],
+    "fid": "0x4ade2ce7055d5761:0x93d6a90566155b75",
+    "cid": "10652887809244093301",
+    "reviewsCount": 54,
+    "imagesCount": 80,
+    "imageCategories": [],
+    "scrapedAt": "2026-07-23T12:03:10.855Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "donderdag",
+        "hours": "07:00 to 22:00"
+      },
+      {
+        "day": "vrijdag",
+        "hours": "07:00 to 22:00"
+      },
+      {
+        "day": "zaterdag",
+        "hours": "09:00 to 17:00"
+      },
+      {
+        "day": "zondag",
+        "hours": "Gesloten"
+      },
+      {
+        "day": "maandag",
+        "hours": "07:00 to 22:00"
+      },
+      {
+        "day": "dinsdag",
+        "hours": "07:00 to 22:00"
+      },
+      {
+        "day": "woensdag",
+        "hours": "07:00 to 22:00"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Toegang": [
+        {
+          "day": "donderdag",
+          "hours": "07:00–22:00"
+        },
+        {
+          "day": "vrijdag",
+          "hours": "07:00–22:00"
+        },
+        {
+          "day": "zaterdag",
+          "hours": "07:00–22:00"
+        },
+        {
+          "day": "zondag",
+          "hours": "Gesloten"
+        },
+        {
+          "day": "maandag",
+          "hours": "07:00–22:00"
+        },
+        {
+          "day": "dinsdag",
+          "hours": "07:00–22:00"
+        },
+        {
+          "day": "woensdag",
+          "hours": "07:00–22:00"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Serviceopties": [
+        {
+          "Services op bedrijfslocatie": true
+        },
+        {
+          "Online prijsopgaven": false
+        }
+      ],
+      "Toegankelijkheid": [
+        {
+          "Rolstoeltoegankelijke parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakwerken%20Moentjens&query_place_id=ChIJYVddBecs3koRdVsVZgWp1pM",
+    "searchPageUrl": "https://www.google.com/maps/search/dakwerker%20Lievegem?hl=nl",
+    "searchString": "dakwerker Lievegem",
+    "language": "nl",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfvck62mu0ttKTzJ7rsDabuJUjixIO-o3aWfMPW9jW42ji585SRdOyBL_pQdHpx8K0v7lngfQLaFRHYy-kj9m0noG6BzpJC0vuM2-kPK2D1GRUJD-XUs12eLTBS6Z-tPlvqoQ9mA=w408-h306-k-no",
+    "kgmid": "/g/11rwpnpb6h",
+    "emails": [
+      "info@dakwerkenmoentjens.be"
+    ],
+    "phones": [
+      "+32471867504"
+    ],
+    "phonesUncertain": [
+      "+32 471 86 75",
+      "0755.805.984"
+    ],
+    "linkedIns": [],
+    "twitters": [],
+    "instagrams": [
+      "https://www.instagram.com/dakwerkenmoentjens"
+    ],
+    "facebooks": [],
+    "youtubes": [],
+    "tiktoks": [],
+    "pinterests": [],
+    "discords": [],
+    "domain": "dakwerkenmoentjens.be",
+    "leadsEnrichment": []
+  }
+]

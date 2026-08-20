@@ -1,0 +1,779 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>De best beoordeelde {{VAK_MV}} in {{REGIO}} — Keurwijzer</title>
+<meta name="description" content="{{META_DESC}}">
+<meta name="theme-color" content="#619870">
+
+<link rel="canonical" href="{{CANONICAL}}">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="Keurwijzer">
+<meta name="publisher" content="Keurwijzer">
+<meta name="geo.region" content="{{GEO_REGION}}">
+<meta name="geo.placename" content="{{REGIO_KERN}}">
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="nl_BE">
+<meta property="og:site_name" content="Keurwijzer">
+<meta property="og:url" content="{{CANONICAL}}">
+<meta property="og:title" content="{{VAK_MV_CAP}} in {{REGIO}} — Keurwijzer kwaliteitsselectie">
+<meta property="og:description" content="{{META_DESC}}">
+<meta property="article:published_time" content="{{ISO_DATUM}}">
+<meta property="article:modified_time" content="{{ISO_DATUM}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
+<meta name="twitter:title" content="{{VAK_MV_CAP}} in {{REGIO}} — Keurwijzer">
+<meta name="twitter:description" content="{{META_DESC}}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- =====================================================================
+  KEURWIJZER — GEGENEREERDE PAGINA
+  Deze pagina wordt volledig gegenereerd door build.js uit:
+    config/{{SLUG}}.json  +  data/{{SLUG}}/reviews.json  +  data/{{SLUG}}/beoordeling.json
+  NIET handmatig bewerken — wijzigingen gaan verloren bij de volgende build.
+  Methodiek (gecombineerde beoordeling → Top N-selectie, geen cijfer op 10; 4 dimensies):
+    35%  VERTROUWEN       tijdsgewogen Bayesiaanse Google-score (halveringstijd 2 jaar)
+    30%  REVIEWKWALITEIT  substantie in reviewteksten (LLM, 1-5)
+    15%  RECENTHEID       aantal reviews in de laatste 24 maanden
+    20%  VAKFOCUS         nichefocus + credentials via homepagina (LLM, 1-5)
+  Gegenereerd: {{BUILD_TIMESTAMP}}
+  ===================================================================== -->
+
+<script type="application/ld+json">
+{{JSONLD}}
+</script>
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://keurwijzer.be/#website",
+   "url": "https://keurwijzer.be/",
+   "name": "Keurwijzer",
+   "description": "Onafhankelijke kwaliteitsselectie van vakspecialisten per regio in België.",
+   "inLanguage": "nl-BE",
+   "publisher": { "@type": "Organization", "name": "Magicworx bv" }
+  },
+  {
+   "@type": "WebPage",
+   "@id": "{{CANONICAL}}#webpage",
+   "url": "{{CANONICAL}}",
+   "name": "De best beoordeelde {{VAK_MV}} in {{REGIO}} — Keurwijzer",
+   "description": "{{META_DESC}}",
+   "isPartOf": { "@id": "https://keurwijzer.be/#website" },
+   "inLanguage": "nl-BE",
+   "datePublished": "{{ISO_DATUM}}",
+   "dateModified": "{{ISO_DATUM}}"
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": {{BREADCRUMB_ITEMS}}
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Hoe bepaalt Keurwijzer welke bedrijven geselecteerd worden?",
+     "acceptedAnswer": { "@type": "Answer", "text": "De selectie wordt bepaald op basis van vier criteria: vertrouwen (35%), reviewkwaliteit (30%), recentheid (15%) en specialiteit (20%). De bedrijven met de hoogste gecombineerde beoordeling vormen samen de selectie van een regio. Alle gegevens waarop we ons baseren zijn publiek: Google-reviews en de eigen website van het bedrijf. Dezelfde methode geldt voor elk bedrijf in elke regio. Onze methodologie en de AI-prompt die gebruikt wordt om bedrijven te beoordelen kunnen op eenvoudig verzoek opgevraagd worden." }
+    },
+    {
+     "@type": "Question",
+     "name": "Kan een bedrijf betalend opgenomen worden op Keurwijzer?",
+     "acceptedAnswer": { "@type": "Answer", "text": "Nee. Een betaalde opname bestaat niet." }
+    },
+    {
+     "@type": "Question",
+     "name": "Hoe vaak wordt de lijst met bedrijven geüpdatet?",
+     "acceptedAnswer": { "@type": "Answer", "text": "We herberekenen jaarlijks alles opnieuw met verse data. Een plaats in de selectie is dus nooit verworven." }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Keurwijzer gratis?",
+     "acceptedAnswer": { "@type": "Answer", "text": "Ja. Keurwijzer is en blijft een gratis initiatief, dat bezoekers wil helpen een geschikte vakspecialist in hun buurt te vinden. Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau dasslim.be uitbaat. Bedrijven kunnen ervoor kiezen om, los van hun opname, met ons samen te werken voor hun marketing; zo'n samenwerking heeft geen enkele invloed op hun opname." }
+    }
+   ]
+  }
+ ]
+}
+</script>
+
+<style>
+/* ===================== DESIGN TOKENS ===================== */
+#reglist {
+  scroll-margin-top: 90px;
+}
+:root {
+  --primary:       #619870;
+  --primary-d:     #005C2B;
+  --primary-bg:    #E8F6EE;
+  --primary-ring:  #C0E8D0;
+  --secondary:     #191919;
+  --bg:            #FFFFFF;
+  --bg-soft:       #F4F7F5;
+  --card:          #FFFFFF;
+  --ink:           #26382E;
+  --muted:         #4A5E54;
+  --faint:         #8A9E94;
+  --amber-bg:      #FBF1DD;
+  --amber-d:       #8A5A0F;
+  --slate-bg:      #EEF2F4;
+  --slate-d:       #41606C;
+  --dark:          #26382E;
+  --line:          #E4EBE7;
+  --line-2:        #D4DDD8;
+  --gold:          #D9A33A;
+  --display:       'Plus Jakarta Sans', system-ui, sans-serif;
+  --sans:          'Manrope', system-ui, -apple-system, sans-serif;
+  --r:             16px;
+  --r-sm:          10px;
+  --pill:          999px;
+  --maxw:          1200px;
+  --shadow:        0 1px 3px rgba(38,56,46,.05), 0 8px 24px rgba(38,56,46,.06);
+  --shadow-hover:  0 2px 6px rgba(38,56,46,.07), 0 18px 40px rgba(38,56,46,.11);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 17px; line-height: 1.65; }
+.container { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+a { color: inherit; }
+h1, h2, h3 { font-family: var(--display); font-weight: 700; line-height: 1.1; letter-spacing: -0.025em; margin: 0; }
+p { margin: 0; }
+img { display: block; max-width: 100%; }
+.eyebrow { font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--primary); }
+.svgsym { position: absolute; width: 0; height: 0; overflow: hidden; }
+.ico use { stroke: currentColor; fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ===================== BUTTONS ===================== */
+.btn { display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-weight: 600; font-size: 15px; text-decoration: none; border-radius: var(--pill); padding: 13px 24px; cursor: pointer; border: 1.5px solid transparent; transition: background .18s ease, border-color .18s ease, box-shadow .18s ease, transform .12s ease; white-space: nowrap; }
+.btn:active { transform: translateY(1px); }
+.btn-primary { background: var(--primary); color: #fff; box-shadow: 0 4px 14px rgba(0,160,77,.28); }
+.btn-primary:hover { background: var(--primary-d); box-shadow: 0 6px 20px rgba(0,160,77,.34); }
+.btn-ghost { background: transparent; color: var(--ink); border-color: var(--line-2); }
+.btn-ghost:hover { border-color: var(--primary); color: var(--primary-d); }
+.btn-sm { padding: 10px 18px; font-size: 14px; }
+
+/* ===================== TOPBAR ===================== */
+.nav { position: absolute; top: 0; left: 0; right: 0; z-index: 30; background: transparent; }
+.nav-in { display: flex; align-items: center; justify-content: space-between; gap: 14px; height: 76px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.brand .name { font-family: var(--display); font-weight: 700; font-size: 21px; letter-spacing: -0.03em; color: #fff; }
+.brand-tag { font-family: var(--sans); font-size: 11px; font-weight: 600; letter-spacing: 0.03em; color: var(--primary); background: rgba(0,160,77,.16); border: 1px solid rgba(0,160,77,.3); border-radius: var(--pill); padding: 3px 10px; }
+.nav-mid { display: flex; align-items: center; gap: 24px; font-size: 14px; font-weight: 500; }
+.nav-mid a { text-decoration: none; color: rgba(255,255,255,.75); transition: color .15s; }
+.nav-mid a:hover { color: #fff; }
+.nav-cta { display: flex; align-items: center; gap: 10px; }
+.nav-cta .btn-ghost { color: #fff; border-color: rgba(255,255,255,.25); }
+.nav-cta .btn-ghost:hover { border-color: #fff; background: rgba(255,255,255,.07); }
+.nav.scrolled { position: fixed; background: rgba(38,56,46,.94); backdrop-filter: saturate(160%) blur(14px); border-bottom: 1px solid rgba(255,255,255,.08); }
+
+/* ===================== HERO ===================== */
+/* --- hero foto tuning knoppen (pas hier aan om varianten te proberen) --- */
+.hero {
+  --hero-pt: clamp(90px, 10vw, 110px);      /* padding boven  */
+  --hero-pb: clamp(60px, 8vw, 88px);        /* padding onder  */
+  --hero-bleed: max(24px, calc((100vw - var(--maxw)) / 2));  /* afstand container -> rechterrand */
+
+  --hero-img-radius: 44px;   /* afronding linksboven + linksonder */
+
+  /* >>> HOOGTE VAN DE FOTO <<<
+     De foto zit vast aan de ONDERKANT van de hero. Deze waarde bepaalt hoeveel
+     donkere ruimte er BOVEN de foto blijft: hoger getal = kortere foto,
+     lager getal = hogere foto. Dit is de enige knop die je nodig hebt. */
+  --hero-img-top: clamp(70px, 8vw, 120px);
+
+  --hero-skew: -5deg;        /* schuine linkerrand (0deg = recht, positief = andere kant) */
+
+  --hero-tint: var(--primary);  /* kleur van de huisstijl-wash     */
+  --hero-tint-op: 0.20;         /* sterkte groenfilter (0 = uit)   */
+  --hero-tint-blend: soft-light;/* of: color, overlay, multiply    */
+  --hero-img-sat: 0.88;         /* verzadiging foto                */
+  --hero-img-contrast: 1.04;
+  --hero-img-bright: 0.94;
+  --hero-fade-op: 0.85;         /* zachte overgang naar de zwarte hero links */
+
+  position: relative; overflow: hidden; background: var(--secondary); display: flex; align-items: stretch;
+}
+.hero-bg { position: absolute; inset: 0; pointer-events: none; }
+.hero-bg::before { content: ""; position: absolute; top: -15%; left: -8%; width: 55%; height: 75%; border-radius: 50%; background: radial-gradient(ellipse, rgba(0,160,77,.18) 0%, transparent 65%); }
+.hero-bg::after { content: ""; position: absolute; bottom: -15%; right: 0; width: 45%; height: 65%; border-radius: 50%; background: radial-gradient(ellipse, rgba(0,160,77,.09) 0%, transparent 65%); }
+.hero-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; width: 100%; padding: var(--hero-pt) 0 var(--hero-pb); }
+.hero-left { position: relative; z-index: 2; }
+.hero h1 { font-size: clamp(34px,5vw,60px); letter-spacing: -0.03em; margin-bottom: 22px; color: #fff; line-height: 1.1; }
+.hero h1 .hl { color: var(--primary); }
+.hero .lede { font-size: clamp(15.5px,1.5vw,18px); color: rgba(255,255,255,.58); max-width: 44ch; margin-bottom: 34px; line-height: 1.7; }
+.hero-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 0; }
+
+/* ---------- HERO VISUAL (foto, bleed naar rechts) ---------- */
+.hero-right {
+  position: relative; z-index: 2;
+  align-self: stretch;
+  /* trek het blok tot tegen de rechterrand van het scherm en tot onderaan de hero */
+  margin-right: calc(-1 * var(--hero-bleed));
+  margin-bottom: calc(-1 * var(--hero-pb));
+}
+.hero-photo {
+  position: absolute;
+  top: var(--hero-img-top);   /* <-- hoogte van de foto: zie --hero-img-top hierboven */
+  bottom: 0; left: 0;
+  /* extra breedte naar rechts zodat de schuine rand nooit een gat laat aan de schermrand */
+  right: -80px;
+  border-radius: var(--hero-img-radius) 0 0 var(--hero-img-radius);
+  overflow: hidden;
+  isolation: isolate;                       /* houdt de blend-modes binnen dit blok */
+  box-shadow: 0 30px 80px rgba(0,0,0,.45);
+  background: #101a13;
+  transform: skewX(var(--hero-skew));       /* schuine linkerrand */
+}
+/* wrapper draait de skew terug zodat de FOTO zelf niet vervormt */
+.hero-photo-inner {
+  position: absolute; inset: 0 -80px;       /* ruimer dan de clip, zodat de hoeken gevuld blijven */
+  transform: skewX(calc(-1 * var(--hero-skew)));
+  overflow: hidden;
+}
+.hero-photo img {
+  width: 100%; height: 100%;
+  object-fit: cover; object-position: center;
+  display: block;
+  filter: saturate(var(--hero-img-sat)) contrast(var(--hero-img-contrast)) brightness(var(--hero-img-bright));
+}
+/* groene huisstijl-wash over de foto */
+.hero-photo::before {
+  content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background: var(--hero-tint);
+  opacity: var(--hero-tint-op);
+  mix-blend-mode: var(--hero-tint-blend);
+}
+/* zachte overgang van de foto naar de donkere hero-achtergrond links/onder */
+.hero-photo::after {
+  content: ""; position: absolute; inset: 0 -80px; z-index: 2; pointer-events: none;
+  transform: skewX(calc(-1 * var(--hero-skew)));
+  background:
+    linear-gradient(90deg, var(--secondary) 0%, rgba(25,25,25,0) 34%),
+    linear-gradient(0deg, rgba(25,25,25,.55) 0%, rgba(25,25,25,0) 30%);
+  opacity: var(--hero-fade-op);
+}
+@media (max-width: 1000px) {
+  .hero { --hero-img-radius: 34px; }
+}
+@media (max-width: 860px) {
+  .hero { --hero-skew: -3deg; }
+  .hero-layout { grid-template-columns: 1fr; gap: 40px; }
+  .hero-right {
+    align-self: auto;
+    height: clamp(230px, 48vw, 340px);
+    margin-bottom: calc(-1 * var(--hero-pb));
+  }
+  .hero-photo { top: 0; }
+  .hero-photo::after {
+    background: linear-gradient(0deg, rgba(25,25,25,.55) 0%, rgba(25,25,25,0) 38%);
+  }
+  .nav-mid { display: none; }
+}
+
+/* ===================== SECTIONS ===================== */
+.section { padding: clamp(52px, 7vw, 88px) 0; }
+.section.soft { background: var(--bg-soft); }
+.sec-head { max-width: 60rem; margin-bottom: 38px; }
+.sec-head h2 { font-size: clamp(26px, 4vw, 42px); letter-spacing: -0.03em; }
+.sec-head p { color: var(--muted); margin-top: 14px; font-size: 17px; line-height: 1.65; }
+.sec-head p { max-width: none; }
+
+/* methodiek */
+.crit-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.crit { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 24px 22px 26px; box-shadow: var(--shadow); transition: transform .18s ease, box-shadow .18s ease; }
+.crit:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+.crit .cico { width: 44px; height: 44px; border-radius: 12px; background: var(--primary-bg); display: grid; place-items: center; margin-bottom: 16px; color: var(--primary-d); }
+.crit .cico svg { width: 22px; height: 22px; }
+.crit .ct { font-weight: 700; font-size: 16px; letter-spacing: -0.01em; font-family: var(--display); }
+.crit .cs { color: var(--muted); font-size: 14px; margin-top: 7px; line-height: 1.55; }
+
+/* ===================== REGISTER ===================== */
+.reg-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 18px; }
+.reg-head h2 { font-size: clamp(26px, 4vw, 42px); letter-spacing: -0.03em; }
+.reg-head .sub { color: var(--muted); margin-top: 10px; font-size: 15px; }
+
+/* ===================== COMPANY CARD ===================== */
+.company { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 24px; margin-bottom: 14px; box-shadow: var(--shadow); transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; position: relative; }
+.company:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); border-color: var(--line-2); }
+
+.co-grid { display: flex; gap: 20px; align-items: flex-start; padding-left: 20px; }
+/* Neutraal kwaliteitszegel op elke kaart: wit vinkje in een groene cirkel
+   (geen rangnummer, geen "Top N") — de pagina toont een brede selectie. */
+.seal { position: relative; width: 74px; height: 74px; flex: none; display: grid; place-items: center;
+  border-radius: 50%; background: var(--primary);
+  box-shadow: 0 5px 14px rgba(0,140,70,.28), inset 0 0 0 3px rgba(255,255,255,.20); }
+.seal-check { position: relative; z-index: 1; width: 36px; height: 36px; stroke: #fff; fill: none;
+  stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+.gstar { color: var(--gold); font-weight: 700; font-size: 14px; letter-spacing: -0.01em; }
+.gstar::before { content: "★ "; }
+.co-body { flex: 1; min-width: 0; }
+.co-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; margin-bottom: 10px; }
+.co-name { font-family: var(--display); font-weight: 700; font-size: 21px; letter-spacing: -0.025em; line-height: 1.1; margin: 0; }
+
+/* ===================== SAMENVATTING (GEO/SEO) ===================== */
+.summary-card { background: var(--bg-soft); border: 1px solid var(--line); border-radius: var(--r); padding: 26px 28px; margin-bottom: 34px; }
+.summary-card h3 { font-size: 17px; margin-bottom: 12px; }
+.summary-card > p { color: var(--muted); font-size: 16px; max-width: 100%; }
+.summary-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px 28px; margin: 20px 0 18px; padding: 18px 0 0; border-top: 1px solid var(--line-2); }
+.summary-facts div { display: flex; flex-direction: column; gap: 2px; }
+.summary-facts dt { font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--faint); font-family: var(--sans); }
+.summary-facts dd { font-size: 15px; font-weight: 600; color: var(--ink); margin: 0; }
+.summary-method { font-size: 14px; color: var(--muted); line-height: 1.6; padding-top: 16px; border-top: 1px solid var(--line-2); max-width: 100%; }
+.summary-gemeenten { font-size: 14px; color: var(--muted); line-height: 1.7; margin: 0 0 4px; max-width: 100%; }
+.summary-gemeenten strong { color: var(--ink); }
+/* Inklapbare samenvatting (details/summary) */
+.summary-more { margin-top: 16px; }
+.summary-more > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-weight: 600; font-size: 14px; color: var(--primary-d); user-select: none; }
+.summary-more > summary::-webkit-details-marker { display: none; }
+.summary-more > summary:hover { color: var(--primary); }
+.summary-more > summary .chev { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: transform .2s ease; }
+.summary-more[open] > summary .chev { transform: rotate(180deg); }
+.summary-more > summary .summary-toggle-close { display: none; }
+.summary-more[open] > summary .summary-toggle-open { display: none; }
+.summary-more[open] > summary .summary-toggle-close { display: inline; }
+.summary-more .summary-facts { margin-top: 18px; }
+
+/* ===================== FAQ ===================== */
+.faq { max-width: 800px; margin: 0 auto; }
+.faq-item { border-bottom: 1px solid var(--line); }
+.faq-item:first-child { border-top: 1px solid var(--line); }
+.faq-item > summary { list-style: none; cursor: pointer; display: flex; align-items: flex-start; gap: 16px; padding: 22px 0; user-select: none; }
+.faq-item > summary::-webkit-details-marker { display: none; }
+.faq-item > summary h3 { font-size: 18px; letter-spacing: -0.015em; margin: 0; flex: 1; }
+.faq-item .faq-chev { width: 20px; height: 20px; stroke: var(--primary); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; margin-top: 3px; transition: transform .2s ease; }
+.faq-item[open] > summary .faq-chev { transform: rotate(180deg); }
+.faq-item > summary:hover h3 { color: var(--primary-d); }
+.faq-item > p { color: var(--muted); font-size: 16px; line-height: 1.65; max-width: 76ch; margin: -4px 0 22px; }
+.co-loc { color: var(--faint); font-size: 13.5px; margin-top: 5px; display: flex; align-items: center; gap: 5px; }
+.co-loc svg { width: 13px; height: 13px; stroke: currentColor; fill: none; stroke-width: 1.7; }
+.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 700; letter-spacing: .01em; padding: 6px 12px; border-radius: var(--pill); white-space: nowrap; flex: none; font-family: var(--sans); }
+.badge svg { width: 13px; height: 13px; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.badge.ver { background: var(--slate-bg); color: var(--slate-d); }
+.co-data { display: flex; flex-wrap: wrap; gap: 5px 16px; color: var(--muted); font-size: 14px; margin-bottom: 12px; }
+.co-data .sep { color: var(--line-2); }
+.co-data .rev b { color: var(--ink); font-weight: 700; }
+.chips { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 13px; }
+.chip.tag-site   { color: var(--primary-d); background: var(--primary-bg); }
+.chip.tag-review { color: var(--amber-d);   background: var(--amber-bg); }
+.chip { font-size: 13px; color: var(--primary-d); background: var(--primary-bg); border-radius: var(--pill); padding: 4px 12px; font-weight: 600; font-family: var(--sans); cursor: default; }
+.co-desc { color: var(--muted); font-size: 15px; line-height: 1.6; margin-bottom: 16px; max-width: 64ch; }
+.co-foot { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 14px; }
+.co-meta { color: var(--faint); font-size: 13px; display: flex; align-items: center; gap: 7px; }
+.co-meta svg { width: 14px; height: 14px; stroke: currentColor; fill: none; stroke-width: 1.7; }
+.co-link { font-weight: 700; font-size: 14.5px; color: var(--primary-d); text-decoration: none; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; font-family: var(--sans); }
+.co-link:hover { color: var(--primary); }
+.co-link .arr { transition: transform .15s ease; }
+.co-link:hover .arr { transform: translateX(4px); }
+
+/* ===================== FOOTER ===================== */
+.foot { border-top: 1px solid var(--line); padding: 46px 0 58px; }
+.foot-in { display: flex; justify-content: space-between; gap: 36px; flex-wrap: wrap; }
+.foot .brand { margin-bottom: 14px; }
+.foot .disc { max-width: 44ch; font-size: 14px; color: var(--faint); line-height: 1.6; }
+.foot .disc b { color: var(--muted); font-weight: 600; }
+.foot-links { display: flex; gap: 56px; flex-wrap: wrap; }
+.foot-col h3.foot-h { font-family: var(--sans); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--faint); margin-bottom: 14px; }
+.foot-col a, .foot-col span { display: block; font-size: 14px; color: var(--muted); text-decoration: none; margin-bottom: 9px; }
+.foot-col a:hover { color: var(--primary-d); }
+.foot .copy { border-top: 1px solid var(--line); margin-top: 38px; padding-top: 20px; font-size: 13px; color: var(--faint); }
+
+/* ===================== METHODIEK SCORE VISUALISATIE ===================== */
+.method-formula { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 20px 24px; margin-top: 24px; font-size: 14px; color: var(--muted); line-height: 1.7; }
+.method-formula strong { color: var(--ink); }
+.method-weights { display: flex; gap: 0; margin-top: 14px; border-radius: var(--r-sm); overflow: hidden; height: 8px; }
+.mw-seg { height: 100%; transition: flex .3s ease; }
+
+/* ===================== FOCUS / MOTION ===================== */
+:focus-visible { outline: 2.5px solid var(--primary); outline-offset: 3px; border-radius: 6px; }
+.rise { animation: rise .72s cubic-bezier(.2,.7,.2,1) both; }
+.d1{animation-delay:.04s}.d2{animation-delay:.12s}.d3{animation-delay:.20s}.d4{animation-delay:.28s}.d5{animation-delay:.36s}
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+.pre { opacity: 0; transform: translateY(20px); }
+.pre.in { opacity: 1; transform: none; transition: opacity .6s ease, transform .6s cubic-bezier(.2,.7,.2,1); }
+
+/* ===================== RESPONSIVE ===================== */
+@media (max-width: 900px) {
+  .crit-grid { grid-template-columns: 1fr !important; }
+  .nav-mid { display: none; }
+}
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  .nav-cta .btn-ghost { display: none; }
+  .brand-tag { display: none; }
+  .co-grid { flex-direction: row; }
+  .seal { width: 64px; height: 64px; } .seal-check { width: 30px; height: 30px; }
+  .co-top { flex-direction: column; }
+}
+@media (max-width: 430px) {
+  .crit-grid { grid-template-columns: 1fr; }
+  .co-grid { padding-left: 0; gap: 12px; }
+  .seal { width: 56px; height: 56px; } .seal-check { width: 26px; height: 26px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .pre { opacity: 1; transform: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- SVG-symbolen -->
+<svg class="svgsym" aria-hidden="true">
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 6.5"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.2l2.55 5.45 6 .72-4.43 4.18 1.16 5.95L12 18.7 6.72 19.5l1.16-5.95-4.43-4.18 6-.72z"/></symbol>
+  <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3.5" y="5.2" width="17" height="15" rx="2"/><path d="M3.5 9.4h17M8.2 3.2v3.6M15.8 3.2v3.6"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 2.8A5.4 5.4 0 0 1 17.4 8.2c0 5.4-5.4 12.4-5.4 12.4S6.6 13.6 6.6 8.2A5.4 5.4 0 0 1 12 2.8z"/><circle cx="12" cy="8.5" r="2"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 16v-5M12 8h.01"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></symbol>
+  <symbol id="i-response" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></symbol>
+</svg>
+
+<!-- ===== TOPBAR ===== -->
+<header class="nav" id="topbar">
+  <div class="container nav-in">
+    <a class="brand" href="/" aria-label="Keurwijzer.be — startpagina">
+      <span class="name">Keurwijzer.be</span>
+    <!--  <span class="brand-tag">Onafhankelijke selectie</span> -->
+    </a>
+
+
+
+<nav class="nav-mid" aria-label="Navigatie">
+{{NAV_LINKS}}
+</nav>
+
+
+<!--
+<div class="nav-cta">
+<a class="btn btn-ghost btn-sm" href="#methodiek">Methodiek</a>
+<a class="btn btn-primary btn-sm" href="mailto:info@keurwijzer.be?subject=Vermelding%20controleren">Vermelding controleren</a>
+</div>
+-->
+
+
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="container" style="display:flex;align-items:stretch;width:100%">
+    <div class="hero-layout">
+
+      <div class="hero-left">
+      <!--  <span class="eyebrow rise d1">Onafhankelijke kwaliteitsselectie</span>-->
+        <h1 class="rise d2" style="margin-top:14px">De best beoordeelde {{VAK_MV}} in <br>
+<span class="hl">{{REGIO}}</span></h1>
+        <p class="lede rise d3">Deze pagina selecteert de best beoordeelde {{VAK_MV}} in {{REGIO}} volgens een vaste, publieke methodiek: de getuigenissen van klanten en de vakspecialiteit van het bedrijf. Gewoon de vergelijking die je als klant zelf zou maken, verzameld op één plek.</p>
+        <div class="hero-cta rise d4">
+          <a class="btn btn-primary" href="#reglist">Bekijk de selectie</a>
+        </div>
+      </div>
+
+      <div class="hero-right rise d3">
+        <figure class="hero-photo">
+          <div class="hero-photo-inner">
+            <img src="{{HERO_IMG}}" alt="{{HERO_IMG_ALT}}" loading="eager" decoding="async">
+          </div>
+        </figure>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+/* ===================== NAVIGATIE-ARCHITECTUUR ===================== */
+.crumbs { border-bottom: 1px solid var(--line); background: var(--bg); }
+.crumbs .container { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; padding-top: 13px; padding-bottom: 13px; font-size: 13.5px; font-family: var(--sans); }
+.crumbs a { color: var(--muted); text-decoration: none; transition: color .15s; }
+.crumbs a:hover { color: var(--primary-d); }
+.crumb-sep { color: var(--line-2); }
+.crumbs [aria-current="page"] { color: var(--ink); font-weight: 600; }
+
+.verder { border-top: 1px solid var(--line); }
+.verder-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.verder-col { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); padding: 24px 26px; }
+.verder-h { font-family: var(--display); font-size: 17px; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); margin-bottom: 14px; }
+.verder-links { list-style: none; margin: 0 0 16px; padding: 0; }
+.verder-links a { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 11px 0; border-bottom: 1px solid var(--line); color: var(--ink); text-decoration: none; font-size: 15px; font-weight: 500; transition: color .15s; }
+.verder-links li:last-child a { border-bottom: 0; }
+.verder-links a:hover { color: var(--primary-d); }
+.verder-links a .arr { color: var(--primary-d); transition: transform .15s ease; }
+.verder-links a:hover .arr { transform: translateX(4px); }
+.verder-empty { font-size: 14.5px; color: var(--faint); margin-bottom: 16px; }
+.verder-all { display: inline-flex; align-items: center; gap: 7px; font-size: 14px; font-weight: 600; color: var(--primary-d); text-decoration: none; }
+.verder-all .arr { transition: transform .15s ease; }
+.verder-all:hover .arr { transform: translateX(4px); }
+@media (max-width: 720px) { .verder-grid { grid-template-columns: 1fr; } }
+</style>
+
+<!-- ===== BROODKRUIMEL ===== -->
+<nav class="crumbs" aria-label="Kruimelpad">
+  <div class="container">
+    {{BREADCRUMB_NAV}}
+  </div>
+</nav>
+
+<!-- ===== REGISTER ===== -->
+<section class="section" id="register">
+  <div class="container">
+    <div class="reg-head">
+      <div>
+        <span class="eyebrow">Onze selectie</span>
+        <h2 style="margin-top:14px">De beste {{VAK_MV}} in {{REGIO}}, gewikt en gewogen</h2>
+        <p class="sub">Laatst bijgewerkt: <time datetime="{{ISO_DATUM}}">{{UPDATE_DATUM}}</time> · bedrijven opgenomen uit {{GEMEENTEN_KORT}} met minstens {{MIN_REVIEWS}} Google-reviews én minstens {{MIN_RECENT}} reviews in de laatste 24 maanden · geselecteerd volgens een vaste, publieke methodiek · <a href="#methodiek" style="color:var(--primary-d);font-weight:600">lees hoe we selecteren</a></p>
+      </div>
+    </div>
+
+    <!-- Samenvatting: expliciete, citeerbare feiten. Bewust in platte tekst
+         zodat zoekmachines én taalmodellen dit correct kunnen overnemen. -->
+    <div class="summary-card" id="samenvatting">
+      <h3>Samenvatting</h3>
+      <p>{{SAMENVATTING}}</p>
+      <!-- Inklapbaar met <details>: de cijfers en methodiek blijven volledig in de
+           HTML (zoekmachines en taalmodellen lezen ze meteen), maar staan visueel
+           gevouwen zodat de focus op de bedrijvenlijst ligt. -->
+      <details class="summary-more">
+        <summary class="summary-toggle">
+          <span class="summary-toggle-open">Toon de cijfers &amp; methodiek</span>
+          <span class="summary-toggle-close">Verberg de cijfers &amp; methodiek</span>
+          <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-chevron"/></svg>
+        </summary>
+        <dl class="summary-facts">
+          <div><dt>Vakgebied</dt><dd>{{VAK_MV_CAP}}</dd></div>
+          <div><dt>Regio</dt><dd>{{REGIO}} ({{GEMEENTEN_AANTAL}} gemeenten)</dd></div>
+          <div><dt>Bedrijven beoordeeld</dt><dd>{{AANTAL_BEOORDEELD}}</dd></div>
+          <div><dt>Bedrijven in de selectie</dt><dd>{{AANTAL_TOP}}</dd></div>
+          <div><dt>Google-reviews geanalyseerd</dt><dd>{{TOTAAL_REVIEWS}}</dd></div>
+          <div><dt>Gemiddelde Google-score in de regio</dt><dd>{{REGIO_GEMIDDELDE}} / 5</dd></div>
+          <div><dt>Databron</dt><dd>Google-reviews (publiek), datum {{ISO_DATUM}}</dd></div>
+          <div><dt>Updatefrequentie</dt><dd>Jaarlijks</dd></div>
+        </dl>
+        <p class="summary-gemeenten"><strong>Opgenomen gemeenten ({{GEMEENTEN_UNIEK_AANTAL}}):</strong> {{GEMEENTEN_VOLLEDIG}}.</p>
+        <p class="summary-method">Selectie volgens een vaste, publieke methodiek op basis van 4 criteria: vertrouwen (35%, tijdsgewogen Bayesiaanse Google-score), reviewkwaliteit (30%, inhoud van de reviewteksten), recentheid (15%, reviews van de laatste 24 maanden) en specialiteit (20%, specialisatiegraad en credentials).</p>
+      </details>
+    </div>
+
+
+
+
+<!--
+<div class="legend">
+<span><span class="ldot" style="background:var(--primary)"></span>Keurwijzer-score berekend</span>
+<span><span class="ldot" style="background:#D9C49A"></span>Score volgt (nog niet volledig beoordeeld)</span>
+<span><span class="ldot" style="background:var(--faint)"></span>Voldoet nog niet aan de opnamecriteria</span>
+</div>
+-->
+
+
+    <div id="reglist">
+{{COMPANIES}}
+</div>
+
+
+
+
+
+
+
+<!-- #reglist -->
+
+    <!-- Bewust GEEN blok "11–20" of "wachtlijst" meer op de pagina.
+         De site toont enkel de Top N. Bedrijven daarbuiten staan in het
+         controlerapport en in het prospectiedocument voor dasslim.be. -->
+
+  </div>
+</section>
+
+
+
+
+
+<section class="section soft" id="methodiek">
+  <div class="container">
+    <div class="sec-head">
+      <span class="eyebrow pre">Onze methode</span>
+      <h2 class="pre" style="margin-top:14px">Hoe de selectie tot stand komt</h2>
+
+<p class="pre">De selectie wordt automatisch bepaald op basis van 4 criteria en publieke informatie zoals Google-reviews en de website van het bedrijf. Een AI leest en beoordeelt alleen de reviewteksten en de website; het rekenwerk, de selectie gebeurt daarna in vaste, controleerbare code.</p>
+
+
+
+
+    </div>
+
+    <div class="crit-grid" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-star"/></svg></span>
+        <div class="ct">Vertrouwen</div>
+        <div class="cs">Tijdsgewogen, Bayesiaans gecorrigeerde Google-score. Recente reviews wegen zwaarder (halveringstijd: 2 jaar) en bedrijven met weinig reviewgewicht worden naar het regiogemiddelde getrokken.</div>
+
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-response"/></svg></span>
+        <div class="ct">Reviewkwaliteit</div>
+        <div class="cs">Wat klanten daadwerkelijk schrijven: vakkundige diagnose, eerlijk advies, nagekomen afspraken en opgeloste problemen wegen zwaarder dan lege lof of losse sterren.</div>
+
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-cal"/></svg></span>
+        <div class="ct">Recentheid</div>
+        <div class="cs">Het aantal reviews uit de laatste 24 maanden. Een sterk reviewprofiel van jaren geleden zegt minder over de kwaliteit van vandaag dan een actieve, recente reviewstroom — een lange staat van dienst wordt daarbij nooit afgestraft.</div>
+
+      </div>
+      <div class="crit pre">
+        <span class="cico"><svg class="ico" viewBox="0 0 24 24"><use href="#i-shield"/></svg></span>
+        <div class="ct">Specialiteit</div>
+        <div class="cs">Nichefocus en aantoonbare erkenningen, certificaten of garanties, beoordeeld op basis van de eigen website. Bedrijven zonder website krijgen hier een neutrale score — geen website is geen vakprobleem.</div>
+
+      </div>
+    </div>
+    
+
+
+<div class="method-formula pre">
+<strong>Gecombineerde beoordeling</strong> = 35% × Vertrouwen + 30% × Reviewkwaliteit + 15% × Recentheid + 20% × Specialiteit<br>
+<span style="font-size:13px">Elke dimensie wordt genormaliseerd (0–1) en samengeteld tot één gecombineerde beoordeling per bedrijf. Die bepaalt welke bedrijven samen de selectie van deze regio vormen. De vergelijking gebeurt altijd binnen dezelfde regio en hetzelfde vakgebied. De weging van individuele reviews daalt met de leeftijd van de review (halveringstijd 2 jaar): een review van vorige maand telt volledig mee, een review van vijf jaar geleden nog nauwelijks.</span>
+
+<div class="method-weights" style="margin-top:14px" aria-hidden="true">
+<div class="mw-seg" style="flex:35;background:var(--primary);"></div>
+<div class="mw-seg" style="flex:30;background:#7B9E8A;margin-left:2px"></div>
+<div class="mw-seg" style="flex:15;background:var(--slate-d);margin-left:2px"></div>
+<div class="mw-seg" style="flex:20;background:var(--gold);margin-left:2px"></div>
+</div>
+      <div style="display:flex;gap:16px;margin-top:8px;font-size:12px;color:var(--faint);flex-wrap:wrap">
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--primary);display:inline-block"></span>Vertrouwen 35%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:#7B9E8A;display:inline-block"></span>Reviewkwaliteit 30%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--slate-d);display:inline-block"></span>Recentheid 15%</span>
+        <span style="display:flex;align-items:center;gap:5px"><span style="width:10px;height:10px;border-radius:2px;background:var(--gold);display:inline-block"></span>Specialiteit 20%</span>
+      </div>
+    </div>
+
+
+
+
+  </div>
+</section>
+
+
+<!-- ===== FOOTER ===== -->
+<!-- ===== FAQ ===== -->
+<section class="section" id="veelgestelde-vragen">
+  <div class="container">
+    <div class="sec-head" style="margin-bottom:30px">
+      <span class="eyebrow pre">Veelgestelde vragen</span>
+      <h2 class="pre" style="margin-top:14px">Over deze selectie</h2>
+    </div>
+    <div class="faq">
+
+<details class="faq-item">
+<summary><h3>Hoe bepaalt Keurwijzer welke bedrijven geselecteerd worden?</h3><svg class="faq-chev" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-chevron"/></svg></summary>
+<p>De selectie wordt bepaald op basis van vier criteria: vertrouwen (35%), reviewkwaliteit (30%), recentheid (15%) en specialiteit (20%). De bedrijven met de hoogste gecombineerde beoordeling vormen samen de selectie van een regio. Alle gegevens waarop we ons baseren zijn publiek: Google-reviews en de eigen website van het bedrijf. Dezelfde methode geldt voor elk bedrijf in elke regio. Onze methodologie en de AI-prompt die gebruikt wordt om bedrijven te beoordelen kunnen op eenvoudig verzoek opgevraagd worden.</p>
+</details>
+
+<details class="faq-item">
+<summary><h3>Kan een bedrijf betalend opgenomen worden op Keurwijzer?</h3><svg class="faq-chev" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-chevron"/></svg></summary>
+<p>Nee. Een betaalde opname bestaat niet.</p>
+</details>
+
+<details class="faq-item">
+<summary><h3>Hoe vaak wordt de lijst met bedrijven geüpdatet?</h3><svg class="faq-chev" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-chevron"/></svg></summary>
+<p>We herberekenen jaarlijks alles opnieuw met verse data. Een plaats in de selectie is dus nooit verworven.</p>
+</details>
+
+<details class="faq-item">
+<summary><h3>Is Keurwijzer gratis?</h3><svg class="faq-chev" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-chevron"/></svg></summary>
+<p>Ja. Keurwijzer is en blijft een gratis initiatief, dat bezoekers wil helpen een geschikte vakspecialist in hun buurt te vinden. Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau dasslim.be uitbaat. Bedrijven kunnen ervoor kiezen om, los van hun opname, met ons samen te werken voor hun marketing; zo'n samenwerking heeft geen enkele invloed op hun opname.</p>
+</details>
+
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== VERDER KIJKEN (kruislinks, gegenereerd uit de registry) ===== -->
+{{CROSSLINKS}}
+
+</main>
+
+<footer class="foot">
+  <div class="container">
+    <div class="foot-in">
+      <div>
+        <a class="brand" href="/" aria-label="Keurwijzer.be — startpagina" style="display:flex;align-items:center;gap:9px;text-decoration:none;margin-bottom:14px">
+
+          <span style="font-family:var(--display);font-weight:700;font-size:19px;letter-spacing:-0.03em;color:var(--ink)">Keurwijzer.be</span>
+        </a>
+        <p class="disc">Keurwijzer is een onafhankelijke kwaliteitsselectie van {{VAK_MV}} en andere vakspecialisten per regio, die bezoekers helpt de juiste vakman in hun buurt te vinden.</p>
+      </div>
+      <div class="foot-links">
+        <div class="foot-col">
+          <h3 class="foot-h">Navigatie</h3>
+          {{FOOT_SECTOR_LINKS}}
+        </div>
+        <div class="foot-col">
+          <h3 class="foot-h">Over ons</h3>
+          <a href="#methodiek">Hoe we selecteren</a>
+          <a href="mailto:info@keurwijzer.be">Contact</a>
+<a href="https://www.dasslim.be">Dasslim.be</a>
+
+        </div>
+      </div>
+    </div>
+<div class="disc" style="margin-top:22px;padding-top:18px;border-top:1px solid rgba(0,0,0,.08);font-size:13px;line-height:1.6;color:var(--faint);max-width:none;width:100%"><strong style="color:var(--ink)">Transparantie en onafhankelijkheid.</strong> Keurwijzer is een initiatief van Magicworx bv, dat ook het marketingbureau <a href="https://www.dasslim.be" style="color:var(--primary-d)">dasslim.be</a> runt. Bedrijven kunnen, los van hun opname, met ons samenwerken voor marketing; dat heeft <strong style="color:var(--ink)">geen enkele invloed</strong> op hun selectie.</div>
+
+
+
+ <p class="copy">© Keurwijzer.be · Onafhankelijke kwaliteitsselectie · Een initiatief van Magicworx bv · +32 (0)470 12 44 61 · <a href="mailto:info@keurwijzer.be" style="color:var(--primary-d)">info@keurwijzer.be</a> · <a href="mailto:info@keurwijzer.be?subject=Verwijdering%20uit%20overzicht">Verwijder mijn bedrijf uit overzicht</a>   </p >  
+  </div>
+</footer>
+
+<script>
+// =====================================================================
+// (De vroegere ring-animatie voor het score-percentage is verwijderd:
+//  de kaarten tonen nu een vast rangnummer (#1..#N), geen cijfer op 10.)
+// =====================================================================
+
+// =====================================================================
+// SCROLL STICKY NAV
+// =====================================================================
+(function(){
+  var nav = document.getElementById('topbar');
+  window.addEventListener('scroll', function(){
+    nav.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+})();
+
+// =====================================================================
+// SCROLL REVEAL
+// =====================================================================
+(function(){
+  var els = document.querySelectorAll('.pre');
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(function(el){ el.classList.add('in'); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { e.target.classList.add('in'); obs.unobserve(e.target); }
+    });
+  }, { threshold: 0.12 });
+  els.forEach(function(el){ obs.observe(el); });
+})();
+</script>
+</body>
+</html>
