@@ -1,0 +1,22 @@
+{
+  "slug": "dakwerkers-brugge",
+  "vak": {
+    "mv": "dakwerkers",
+    "mvCap": "Dakwerkers",
+    "ev": "dakwerker",
+    "kort": "dakwerken",
+    "syn": { "mv": "dakdekkers", "ev": "dakdekker" }
+  },
+  "regio": {
+    "naam": "regio Brugge",
+    "kern": "Brugge",
+    "provincie": "West-Vlaanderen"
+  },
+  "gemeenten": [
+    "Brugge", "Beernem", "Blankenberge", "Damme", "Jabbeke",
+    "Knokke-Heist", "Oostkamp", "Torhout", "Zedelgem", "Zuienkerke"
+  ],
+  "zoektermen": ["dakwerker Brugge", "dakdekker Brugge", "dakwerken Brugge"],
+  "peildatum": "2026-08-20",
+  "updateDatum": "augustus 2026"
+}
