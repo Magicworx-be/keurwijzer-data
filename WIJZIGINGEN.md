@@ -70,6 +70,24 @@ fluctuatie die je opmerkte: zolang `beoordeling.json` + `reviews.json` gelijk
 blijven, geeft `build.js` altijd exact dezelfde Top 10. Draai de LLM-stap dus
 niet lichtvaardig opnieuw.
 
+### 7. Reactie van het bedrijf op reviews wordt nu meegegeven aan de LLM
+Rubriek 1 vroeg de LLM altijd al om "professionele, inhoudelijke reacties van het
+bedrijf op reviews" mee te wegen als kwaliteitssignaal — maar `normalize.js` gooide
+het Apify-veld `responseFromOwnerText` weg en bewaarde per review enkel
+`score`/`datum`/`tekst`/`auteur`. De LLM heeft die reacties dus nooit gezien; de
+rubriek beoordeelde bewijs dat niet in de input zat. In onze echte data draagt ~23%
+van de reviews een reactie en reageert maar ongeveer een kwart van de bedrijven —
+een sterk, onderscheidend professionaliteitssignaal waar we blind voor waren.
+
+`normalize.js` bewaart nu per review een veld `reactie` (leeg als er geen reactie is),
+en `prompts/scoring-prompt.md` + `METHODIEK.md` §3.2 benoemen dat het bewijs is.
+Bewust géén methodiek-versie: dit verbetert alleen de *input* van de LLM, niet de
+`build.js`-rekenlogica (die leest enkel `score`/`datum` en negeert `reactie`), en raakt
+geen enkele publieke constante. Nieuwe beoordelingen volgen zo trouwer de reeds
+gepubliceerde methode; **bestaande pagina's blijven bevroren** en pikken dit pas op bij
+hun periodieke herbeoordeling — `reviews.json` is regenereerbaar, `beoordeling.json`
+wordt niet aangeraakt.
+
 ---
 
 ## Wat is NIET veranderd

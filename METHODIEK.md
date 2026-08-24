@@ -15,7 +15,7 @@ dit document verouderd — zie [Onderhoud](#onderhoud-1-bron-2-lezers).
 | **Bindende bron voor het werkproces** | `prompts/directory-pagina-prompt.md` |
 | **Waarom-beslissingen** | `WIJZIGINGEN.md` |
 | **Nieuwste methodiek-versie** | v2 (zie [Methodiek-versies](#methodiek-versies)) |
-| **Laatst gelijkgezet met de code** | 19 augustus 2026 |
+| **Laatst gelijkgezet met de code** | 21 augustus 2026 |
 
 ---
 
@@ -196,6 +196,11 @@ Wat meetelt als substantie:
 - eerlijkheid: eerlijk advies, ook als dat minder werk oplevert voor het bedrijf;
 - omgang met problemen: klacht erkend en netjes rechtgezet;
 - professionele, inhoudelijke reacties van het bedrijf op reviews (zeker op negatieve).
+
+De publieke reacties van het bedrijf op reviews horen bij het bewijs: elke review in
+`reviews.json` draagt een veld `reactie` met de publieke reactie van het bedrijf (leeg
+als er geen is). Een professionele, ter zake doende reactie — zeker op een kritische
+review — telt mee als substantie; een copy-paste of defensieve reactie niet.
 
 Wat nauwelijks meetelt: "top", "aanrader", "super", losse sterren zonder tekst.
 
