@@ -1,0 +1,98 @@
+KEURWIJZER CONTROLERAPPORT — dakwerkers-brugge  (variant: Top 10-concept, geen zichtbare score)
+Peildatum: 2026-08-20 · Prior C (regiogemiddelde, tijdsgewogen): 4.700
+Methodiek-versie: 2 (nieuwste, standaard)  ·  vertrouwen-vloer 4.0→0, 5.0→1  ·  recentheid vol bij 10 reviews/24m  ·  publicatiedrempel ≥15 reviews
+Opnamecriteria: gemeente in lijst, ≥10 reviews, ≥3 in 24m
+Gewichten: 35% vertrouwen / 30% reviewkwaliteit / 15% recentheid / 20% vakfocus
+Eligible bedrijven: 23 (waarvan 16 publicabel, ≥15 reviews) → gepubliceerd: Top 10 (10 bedrijven)
+
+⚠ DATA-INTEGRITEIT — MOGELIJK AFGEKAPTE REVIEW-EXPORT (exact 100 bruikbare reviews)
+  Vermoedelijke exportlimiet. Dit vertekent het VERTROUWEN van grote spelers naar beneden.
+  Actie: her-scrape zonder limiet en draai normalize opnieuw vóór publicatie.
+    EPDM Solutions — 100 van 355 reviews gebruikt  (niet eligible)
+
+TOP 10  (dit staat op de site — zonder cijfer)
+pos  comp   trust  rq    rec   focus  bayes  Rw    v_w    n24  reviews  bedrijf
+ #1  0.901  0.861  1.00  1.00  0.75   4.86   4.97   23.1   23       45  Dakwerken Schollier
+ #2  0.868  0.695  1.00  1.00  0.88   4.70   4.69   24.0   19       72  Dakwerken Devidt
+ #3  0.823  0.781  1.00  1.00  0.50   4.78   4.85   17.8   23       27  Dakwerken Nathan - regio Brugge
+ #4  0.761  0.781  0.88  0.50  0.75   4.78   4.96    7.4    5       21  Degraeve / Karel
+ #5  0.752  0.684  0.88  0.50  0.88   4.68   4.65    8.7    5       26  Dakwerken Van Tongerloo
+ #6  0.747  0.814  0.88  1.00  0.25   4.81   4.93   15.1   16       16  Dakwerken Vandewalle Thomas
+ #7  0.706  0.659  0.50  1.00  0.88   4.66   4.63   20.7   22       37  Dakwerken BS
+ #8  0.699  0.784  0.75  1.00  0.25   4.78   4.87   14.8   16       16  uwdakraam velux te Torhout Brugge Oostende Zedelgem Roeselare Oostkamp
+ #9  0.698  0.808  0.75  0.60  0.50   4.81   5.00    9.0    6       19  Dakor Dakwerken 🔨🏠
+#10  0.693  0.801  0.63  1.00  0.38   4.80   4.86   27.9   24       61  Vandenbussche-Lampo
+
+VAKFOCUS-AUDIT (bron van de specialiteitsdimensie, per gerankt bedrijf)
+    Dakwerken Schollier — 4.0 via https://dakwerken-schollier.be/
+    Dakwerken Devidt — 4.5 via https://dakwerkendevidt.be/
+    Dakwerken Nathan - regio Brugge — 3.0 via https://dakwerkerbrugge.be/
+    Degraeve / Karel — regiomediaan (4.0), geen website
+    Dakwerken Van Tongerloo — 4.5 via http://www.dakdekkerbrugge.be/
+    Dakwerken Vandewalle Thomas — 2.0 via https://www.uwdakraam.be/
+    Dakwerken BS — 4.5 via http://www.dakwerkenbs.be/
+    uwdakraam velux te Torhout Brugge Oostende Zedelgem Roeselare Oostkamp — 2.0 via https://www.uwdakraam.be/
+    Dakor Dakwerken 🔨🏠 — 3.0 via http://www.dakordakwerken.be/
+    Vandenbussche-Lampo — 2.5 via https://vandenbussche-lampo.be/
+
+ROBUUSTHEID VAN DE SELECTIE (±0,5 op reviewkwaliteit + vakfocus, 5000 trials, vaste seed)
+  kans = P(blijft in Top 10)   ·   band = 5e–95e percentiel van de positie
+  #1  kans 100%   band #1–#2   vast          Dakwerken Schollier
+  #2  kans 100%   band #1–#2   vast          Dakwerken Devidt
+  #3  kans 100%   band #3–#4   vast          Dakwerken Nathan - regio Brugge
+  #4  kans 100%   band #4–#7   vast          Degraeve / Karel
+  #5  kans 100%   band #4–#8   vast          Dakwerken Van Tongerloo
+  #6  kans 100%   band #4–#8   vast          Dakwerken Vandewalle Thomas
+  #7  kans  88%   band #5–#11   waarschijnlijk Dakwerken BS
+  #8  kans  83%   band #6–#12   waarschijnlijk uwdakraam velux te Torhout Brugge Oostende Zedelgem Roeselare Oostkamp
+  #9  kans  81%   band #6–#12   waarschijnlijk Dakor Dakwerken 🔨🏠
+ #10  kans  73%   band #6–#12   WANKEL        Vandenbussche-Lampo
+  Samengevat: 6 vast, 3 waarschijnlijk, 1 wankel (van 10).
+  Marge #10 → eerstvolgende publicabele (De Backer Afdichtingen Knokke NV): 0.015.
+
+BEDRIJVEN 11–20 — NIET OP DE SITE (zie prospectiedocument voor dasslim.be)
+    #11  comp 0.929  D&G Dakwerken (Brugge)  [< 15 reviews: eligible, niet publicabel]
+    #12  comp 0.837  Versteele  [< 15 reviews: eligible, niet publicabel]
+    #13  comp 0.807  Casarit | Ambachtelijke Rieten Daken  [< 15 reviews: eligible, niet publicabel]
+    #14  comp 0.770  Dakwerken Vermeersch  [< 15 reviews: eligible, niet publicabel]
+    #15  comp 0.733  Dakwerken Decorte  [< 15 reviews: eligible, niet publicabel]
+    #16  comp 0.678  De Backer Afdichtingen Knokke NV
+    #17  comp 0.657  Dakwerken NH Construct BV
+    #18  comp 0.629  Interdak Bv
+    #19  comp 0.624  Dakwerken Dakralux
+    #20  comp 0.619  Dakwerken Elias  [< 15 reviews: eligible, niet publicabel]
+
+ELIGIBLE MAAR VOORBIJ PLEK 20 (niet getoond, niet in prospectie)
+    comp 0.543  Dakwerken Van Overbeke
+    comp 0.535  Verhelst-Casier | dakwerken & isolatie, gevelbekleding (crepi, sidings, leien), asbestverwijdering
+    comp 0.483  L. Vandenbussche en Zoon bv
+
+NOG NIET ELIGIBLE — NIET OP DE SITE (wél in prospectiedocument, max 10)
+    Walfrabouw | dé plat dak specialist in EPDM voor nieuwbouw & renovaties — Nog te weinig recente reviews (2 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Steenkaai BV — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Dakwerken Logghe Prinsie — Nog te weinig recente reviews (1 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Algemene Dakwerken Zwaenepoel — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    dakwerken Goethals Anthony — Nog te weinig recente reviews (1 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Depuydt Kurt — Nog te weinig recente reviews (0 in de laatste 24 maanden, min. 3) voor een actuele beoordeling.
+    Algemene dakwerken cisn — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Schrijn- & Dakwerken Sam — Nog te weinig Google-reviews (9 van min. 10) om betrouwbaar te beoordelen.
+    Dakwerken Avaria bv — Nog te weinig Google-reviews (8 van min. 10) om betrouwbaar te beoordelen.
+    De Dakdekker — Nog te weinig Google-reviews (8 van min. 10) om betrouwbaar te beoordelen.
+
+BUITEN DE GEMEENTELIJST (volledig weggelaten)
+    Dakwerken JiBra (De Haan)
+    dakwerken DOF (Bredene)
+    Dakwerken Lauwereyns (Les Bons Villers)
+    Dakwerken Denbere (Kortemark)
+    Dakwerken VCM-projects (Hooglede)
+    Dak-Art bvba (Beveren-Kruibeke-Zwijndrecht)
+    Dakwerken Kegel (Nieuwpoort)
+    Roof Proof (De Haan)
+    Dak- en Gevelrenovatie Durieux (Aalter)
+    Dakwerken Vanhooren (Aalter)
+    DAKWERKEN VANDAMME (Kortemark)
+    Dakwerken Glenn Van Damme (Lievegem)
+    EPDM Solutions (Roeselare)
+
+WAARSCHUWINGEN
+  ! "EPDM Solutions": slechts 100 van 355 reviews met bruikbare datum/score — controleer de export
