@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-sint-niklaas",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Sint-Niklaas",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-sint-niklaas/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Tectura Groep B.V. - Dakwerken & Renovaties",
+      "bedrijfSlug": "tectura-groep-b-v-dakwerken-renovaties",
+      "gemeente": "Sint-Niklaas",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/tectura-groep-b-v-dakwerken-renovaties--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/tectura-groep-b-v-dakwerken-renovaties--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "KD Dak",
+      "bedrijfSlug": "kd-dak",
+      "gemeente": "Beveren-Kruibeke-Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/kd-dak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/kd-dak--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Boba Dakwerker Sint-Niklaas",
+      "bedrijfSlug": "boba-dakwerker-sint-niklaas",
+      "gemeente": "Beveren-Kruibeke-Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/boba-dakwerker-sint-niklaas--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/boba-dakwerker-sint-niklaas--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "D&D Dakwerken",
+      "bedrijfSlug": "d-d-dakwerken",
+      "gemeente": "Beveren-Kruibeke-Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/d-d-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/d-d-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken De Clerck - Dakteam",
+      "bedrijfSlug": "dakwerken-de-clerck-dakteam",
+      "gemeente": "Beveren-Kruibeke-Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/dakwerken-de-clerck-dakteam--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/dakwerken-de-clerck-dakteam--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Skydak",
+      "bedrijfSlug": "skydak",
+      "gemeente": "Sint-Niklaas",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/skydak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/skydak--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "KDS dak en gevel",
+      "bedrijfSlug": "kds-dak-en-gevel",
+      "gemeente": "Beveren-Kruibeke-Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/kds-dak-en-gevel--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/kds-dak-en-gevel--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "RVD dak-gevelwerken",
+      "bedrijfSlug": "rvd-dak-gevelwerken",
+      "gemeente": "Stekene",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/rvd-dak-gevelwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/rvd-dak-gevelwerken--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Schrijn en dakwerken Rooms bv",
+      "bedrijfSlug": "schrijn-en-dakwerken-rooms-bv",
+      "gemeente": "Lokeren",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/schrijn-en-dakwerken-rooms-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/schrijn-en-dakwerken-rooms-bv--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Plat dak EPDMshop Sint-Niklaas Stekene",
+      "bedrijfSlug": "plat-dak-epdmshop-sint-niklaas-stekene",
+      "gemeente": "Stekene",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/plat-dak-epdmshop-sint-niklaas-stekene--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-niklaas/plat-dak-epdmshop-sint-niklaas-stekene--licht.png"
+    }
+  ]
+}

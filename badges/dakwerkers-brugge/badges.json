@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-brugge",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Brugge",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-brugge/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "D&G Dakwerken (Brugge)",
+      "bedrijfSlug": "d-g-dakwerken-brugge",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/d-g-dakwerken-brugge--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/d-g-dakwerken-brugge--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Versteele",
+      "bedrijfSlug": "versteele",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/versteele--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/versteele--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Schollier",
+      "bedrijfSlug": "dakwerken-schollier",
+      "gemeente": "Jabbeke",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-schollier--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-schollier--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken Vandewalle Thomas",
+      "bedrijfSlug": "dakwerken-vandewalle-thomas",
+      "gemeente": "Torhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-vandewalle-thomas--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-vandewalle-thomas--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Devidt",
+      "bedrijfSlug": "dakwerken-devidt",
+      "gemeente": "Zedelgem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-devidt--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-devidt--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Dakwerken Nathan - regio Brugge",
+      "bedrijfSlug": "dakwerken-nathan-regio-brugge",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-nathan-regio-brugge--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-nathan-regio-brugge--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakor Dakwerken 🔨🏠",
+      "bedrijfSlug": "dakor-dakwerken",
+      "gemeente": "Torhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakor-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakor-dakwerken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Dakwerken Vermeersch",
+      "bedrijfSlug": "dakwerken-vermeersch",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-vermeersch--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-vermeersch--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakwerken BS",
+      "bedrijfSlug": "dakwerken-bs",
+      "gemeente": "Oostkamp",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-bs--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/dakwerken-bs--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Uw Dakraam Torhout",
+      "bedrijfSlug": "uw-dakraam-torhout",
+      "gemeente": "Torhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/uw-dakraam-torhout--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brugge/uw-dakraam-torhout--licht.png"
+    }
+  ]
+}

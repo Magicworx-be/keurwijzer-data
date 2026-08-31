@@ -1,0 +1,57 @@
+{
+  "slug": "dakwerkers-meetjesland",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Meetjesland",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-meetjesland/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken Glenn Van Damme",
+      "bedrijfSlug": "dakwerken-glenn-van-damme",
+      "gemeente": "Lievegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-glenn-van-damme--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-glenn-van-damme--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Algemene renovatiewerken (RDC)",
+      "bedrijfSlug": "algemene-renovatiewerken-rdc",
+      "gemeente": "Eeklo",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/algemene-renovatiewerken-rdc--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/algemene-renovatiewerken-rdc--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Schepens",
+      "bedrijfSlug": "dakwerken-schepens",
+      "gemeente": "Lievegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-schepens--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-schepens--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken Boelaert",
+      "bedrijfSlug": "dakwerken-boelaert",
+      "gemeente": "Eeklo",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-boelaert--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/dakwerken-boelaert--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "VSB Dakwerken",
+      "bedrijfSlug": "vsb-dakwerken",
+      "gemeente": "Eeklo",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/vsb-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-meetjesland/vsb-dakwerken--licht.png"
+    }
+  ]
+}

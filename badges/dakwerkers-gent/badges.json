@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-gent",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Gent",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-gent/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken Maenhaut",
+      "bedrijfSlug": "dakwerken-maenhaut",
+      "gemeente": "Evergem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-maenhaut--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-maenhaut--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Schiettecatte bv",
+      "bedrijfSlug": "dakwerken-schiettecatte-bv",
+      "gemeente": "Nazareth-De Pinte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-schiettecatte-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-schiettecatte-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Fortura",
+      "bedrijfSlug": "fortura",
+      "gemeente": "Nazareth-De Pinte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/fortura--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/fortura--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken Elewaut",
+      "bedrijfSlug": "dakwerken-elewaut",
+      "gemeente": "Zelzate",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-elewaut--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-elewaut--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Top-Bouw",
+      "bedrijfSlug": "top-bouw",
+      "gemeente": "Gent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/top-bouw--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/top-bouw--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Dakinvest",
+      "bedrijfSlug": "dakinvest",
+      "gemeente": "Evergem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakinvest--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakinvest--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakwerken TM",
+      "bedrijfSlug": "dakwerken-tm",
+      "gemeente": "Evergem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-tm--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-tm--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Dakwerken Sigitek",
+      "bedrijfSlug": "dakwerken-sigitek",
+      "gemeente": "Merelbeke-Melle",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-sigitek--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/dakwerken-sigitek--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "uwdakspecialist.be",
+      "bedrijfSlug": "uwdakspecialist-be",
+      "gemeente": "Gent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/uwdakspecialist-be--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/uwdakspecialist-be--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Donzo",
+      "bedrijfSlug": "donzo",
+      "gemeente": "Merelbeke-Melle",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/donzo--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-gent/donzo--licht.png"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-dendermonde",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Dendermonde",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-dendermonde/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Grembergse dakwerken van Walsem",
+      "bedrijfSlug": "grembergse-dakwerken-van-walsem",
+      "gemeente": "Dendermonde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/grembergse-dakwerken-van-walsem--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/grembergse-dakwerken-van-walsem--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakalex BVBA",
+      "bedrijfSlug": "dakalex-bvba",
+      "gemeente": "Waasmunster",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakalex-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakalex-bvba--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Optek | Dak- en bouwwerken",
+      "bedrijfSlug": "optek-dak-en-bouwwerken",
+      "gemeente": "Opwijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/optek-dak-en-bouwwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/optek-dak-en-bouwwerken--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken SD Projects",
+      "bedrijfSlug": "dakwerken-sd-projects",
+      "gemeente": "Berlare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-sd-projects--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-sd-projects--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Drt-Dakwerken Bv",
+      "bedrijfSlug": "drt-dakwerken-bv",
+      "gemeente": "Wichelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/drt-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/drt-dakwerken-bv--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Gery Van Esbroeck",
+      "bedrijfSlug": "gery-van-esbroeck",
+      "gemeente": "Hamme",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/gery-van-esbroeck--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/gery-van-esbroeck--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakwerken Hofman bvba",
+      "bedrijfSlug": "dakwerken-hofman-bvba",
+      "gemeente": "Zele",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-hofman-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-hofman-bvba--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Algemene Dak & Schrijnwerken MB Construction BV",
+      "bedrijfSlug": "algemene-dak-schrijnwerken-mb-construction-bv",
+      "gemeente": "Berlare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/algemene-dak-schrijnwerken-mb-construction-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/algemene-dak-schrijnwerken-mb-construction-bv--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "EKO-Huis",
+      "bedrijfSlug": "eko-huis",
+      "gemeente": "Dendermonde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/eko-huis--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/eko-huis--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Dakwerken YDM",
+      "bedrijfSlug": "dakwerken-ydm",
+      "gemeente": "Dendermonde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-ydm--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-ydm--licht.png"
+    }
+  ]
+}

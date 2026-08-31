@@ -1,0 +1,48 @@
+{
+  "slug": "dakwerkers-veurne-diksmuide",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Veurne-Diksmuide",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-veurne-diksmuide/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken De Raeve | Platte daken in EPDM | Regio Kortemark (Zarren) & West-Vlaanderen",
+      "bedrijfSlug": "dakwerken-de-raeve-platte-daken-in-epdm-regio-kortemark-zarren-west-vlaanderen",
+      "gemeente": "Kortemark",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/dakwerken-de-raeve-platte-daken-in-epdm-regio-kortemark-zarren-west-vlaanderen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/dakwerken-de-raeve-platte-daken-in-epdm-regio-kortemark-zarren-west-vlaanderen--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Bruneel BV - Lieven Claus : dakwerken & installateur zonnepanelen, laadpalen en thuisbatterijen",
+      "bedrijfSlug": "dakwerken-bruneel-bv-lieven-claus-dakwerken-installateur-zonnepanelen-laadpalen-en-thuisbatterijen",
+      "gemeente": "Houthulst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/dakwerken-bruneel-bv-lieven-claus-dakwerken-installateur-zonnepanelen-laadpalen-en-thuisbatterijen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/dakwerken-bruneel-bv-lieven-claus-dakwerken-installateur-zonnepanelen-laadpalen-en-thuisbatterijen--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "De Torre Veurne",
+      "bedrijfSlug": "de-torre-veurne",
+      "gemeente": "Veurne",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/de-torre-veurne--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/de-torre-veurne--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "ESE",
+      "bedrijfSlug": "ese",
+      "gemeente": "Veurne",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/ese--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-veurne-diksmuide/ese--licht.png"
+    }
+  ]
+}

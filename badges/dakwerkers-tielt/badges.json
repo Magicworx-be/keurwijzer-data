@@ -1,0 +1,57 @@
+{
+  "slug": "dakwerkers-tielt",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Tielt",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-tielt/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Plat Dak Demeestere",
+      "bedrijfSlug": "plat-dak-demeestere",
+      "gemeente": "Pittem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/plat-dak-demeestere--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/plat-dak-demeestere--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Marijn",
+      "bedrijfSlug": "dakwerken-marijn",
+      "gemeente": "Tielt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/dakwerken-marijn--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/dakwerken-marijn--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Tieltse Dakwerken bvba",
+      "bedrijfSlug": "tieltse-dakwerken-bvba",
+      "gemeente": "Tielt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/tieltse-dakwerken-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/tieltse-dakwerken-bvba--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "T-Plus Dakwerken",
+      "bedrijfSlug": "t-plus-dakwerken",
+      "gemeente": "Oostrozebeke",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/t-plus-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/t-plus-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "DFR Guido",
+      "bedrijfSlug": "dfr-guido",
+      "gemeente": "Dentergem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/dfr-guido--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-tielt/dfr-guido--licht.png"
+    }
+  ]
+}

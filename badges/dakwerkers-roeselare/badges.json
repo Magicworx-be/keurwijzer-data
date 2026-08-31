@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-roeselare",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Roeselare",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-roeselare/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Cauwelier | We take care of your roof",
+      "bedrijfSlug": "cauwelier-we-take-care-of-your-roof",
+      "gemeente": "Roeselare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/cauwelier-we-take-care-of-your-roof--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/cauwelier-we-take-care-of-your-roof--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Tectora",
+      "bedrijfSlug": "tectora",
+      "gemeente": "Izegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/tectora--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/tectora--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "EPDM Solutions",
+      "bedrijfSlug": "epdm-solutions",
+      "gemeente": "Roeselare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/epdm-solutions--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/epdm-solutions--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken VCM-projects",
+      "bedrijfSlug": "dakwerken-vcm-projects",
+      "gemeente": "Hooglede",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/dakwerken-vcm-projects--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/dakwerken-vcm-projects--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Thomadak",
+      "bedrijfSlug": "thomadak",
+      "gemeente": "Roeselare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/thomadak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/thomadak--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Saniroof",
+      "bedrijfSlug": "saniroof",
+      "gemeente": "Izegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/saniroof--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/saniroof--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Het dak atelier",
+      "bedrijfSlug": "het-dak-atelier",
+      "gemeente": "Roeselare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/het-dak-atelier--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/het-dak-atelier--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "INDUR",
+      "bedrijfSlug": "indur",
+      "gemeente": "Roeselare",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/indur--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/indur--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Detailleur Dakwerken",
+      "bedrijfSlug": "detailleur-dakwerken",
+      "gemeente": "Izegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/detailleur-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/detailleur-dakwerken--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "HURO NV",
+      "bedrijfSlug": "huro-nv",
+      "gemeente": "Staden",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/huro-nv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-roeselare/huro-nv--licht.png"
+    }
+  ]
+}

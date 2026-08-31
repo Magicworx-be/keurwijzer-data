@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-aalst",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Aalst",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-aalst/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken Elite Bouwteam",
+      "bedrijfSlug": "dakwerken-elite-bouwteam",
+      "gemeente": "Aalst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-elite-bouwteam--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-elite-bouwteam--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "BV Dakwerken Van den Driessche - Dakwerken Aalst",
+      "bedrijfSlug": "bv-dakwerken-van-den-driessche-dakwerken-aalst",
+      "gemeente": "Aalst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/bv-dakwerken-van-den-driessche-dakwerken-aalst--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/bv-dakwerken-van-den-driessche-dakwerken-aalst--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Cieters",
+      "bedrijfSlug": "dakwerken-cieters",
+      "gemeente": "Geraardsbergen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-cieters--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-cieters--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Ribeiro Dakwerken",
+      "bedrijfSlug": "ribeiro-dakwerken",
+      "gemeente": "Ninove",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/ribeiro-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/ribeiro-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Matthieu Baertsoen",
+      "bedrijfSlug": "dakwerken-matthieu-baertsoen",
+      "gemeente": "Geraardsbergen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-matthieu-baertsoen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-matthieu-baertsoen--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "GCS Epdm Bv",
+      "bedrijfSlug": "gcs-epdm-bv",
+      "gemeente": "Geraardsbergen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/gcs-epdm-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/gcs-epdm-bv--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "DWG Projects specialist platte daken",
+      "bedrijfSlug": "dwg-projects-specialist-platte-daken",
+      "gemeente": "Ninove",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dwg-projects-specialist-platte-daken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dwg-projects-specialist-platte-daken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Sneldak",
+      "bedrijfSlug": "sneldak",
+      "gemeente": "Herzele",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/sneldak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/sneldak--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakdekker Dossche",
+      "bedrijfSlug": "dakdekker-dossche",
+      "gemeente": "Zottegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdekker-dossche--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdekker-dossche--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "DakDender - De Vulder",
+      "bedrijfSlug": "dakdender-de-vulder",
+      "gemeente": "Ninove",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdender-de-vulder--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdender-de-vulder--licht.png"
+    }
+  ]
+}

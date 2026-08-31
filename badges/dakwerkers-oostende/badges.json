@@ -1,0 +1,57 @@
+{
+  "slug": "dakwerkers-oostende",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Oostende",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-oostende/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Buitenschrijnwerk Vereecke Tobias BV",
+      "bedrijfSlug": "buitenschrijnwerk-vereecke-tobias-bv",
+      "gemeente": "Oudenburg",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/buitenschrijnwerk-vereecke-tobias-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/buitenschrijnwerk-vereecke-tobias-bv--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "DGD",
+      "bedrijfSlug": "dgd",
+      "gemeente": "Oudenburg",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dgd--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dgd--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "dakwerken DOF",
+      "bedrijfSlug": "dakwerken-dof",
+      "gemeente": "Bredene",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dakwerken-dof--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dakwerken-dof--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dak-En Timmerwerken Bienstman",
+      "bedrijfSlug": "dak-en-timmerwerken-bienstman",
+      "gemeente": "Oostende",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dak-en-timmerwerken-bienstman--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dak-en-timmerwerken-bienstman--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "BV Kena Group",
+      "bedrijfSlug": "bv-kena-group",
+      "gemeente": "Oostende",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/bv-kena-group--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/bv-kena-group--licht.png"
+    }
+  ]
+}
