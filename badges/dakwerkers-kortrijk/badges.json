@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-kortrijk",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Kortrijk",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-kortrijk/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "De Dakvensterinstallateur",
+      "bedrijfSlug": "de-dakvensterinstallateur",
+      "gemeente": "Lendelede",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/de-dakvensterinstallateur--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/de-dakvensterinstallateur--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken B-Concept BV",
+      "bedrijfSlug": "dakwerken-b-concept-bv",
+      "gemeente": "Kortrijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dakwerken-b-concept-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dakwerken-b-concept-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "SD Constructs",
+      "bedrijfSlug": "sd-constructs",
+      "gemeente": "Anzegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/sd-constructs--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/sd-constructs--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dynamic Daylight Solutions",
+      "bedrijfSlug": "dynamic-daylight-solutions",
+      "gemeente": "Kortrijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dynamic-daylight-solutions--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dynamic-daylight-solutions--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Yan Dakwerken BV",
+      "bedrijfSlug": "yan-dakwerken-bv",
+      "gemeente": "Wevelgem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/yan-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/yan-dakwerken-bv--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "D-12 Construct BV",
+      "bedrijfSlug": "d-12-construct-bv",
+      "gemeente": "Zulte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/d-12-construct-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/d-12-construct-bv--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "DD Roofing BV",
+      "bedrijfSlug": "dd-roofing-bv",
+      "gemeente": "Menen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dd-roofing-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dd-roofing-bv--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "ND roofing",
+      "bedrijfSlug": "nd-roofing",
+      "gemeente": "Harelbeke",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/nd-roofing--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/nd-roofing--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Algemene Dakwerken Debrabandere BV",
+      "bedrijfSlug": "algemene-dakwerken-debrabandere-bv",
+      "gemeente": "Kortrijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/algemene-dakwerken-debrabandere-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/algemene-dakwerken-debrabandere-bv--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Dakwerken Moerman BV",
+      "bedrijfSlug": "dakwerken-moerman-bv",
+      "gemeente": "Waregem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dakwerken-moerman-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-kortrijk/dakwerken-moerman-bv--licht.png"
+    }
+  ]
+}
