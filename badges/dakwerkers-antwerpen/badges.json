@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-antwerpen",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Antwerpen",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-antwerpen/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Roof Service Company B.V.",
+      "bedrijfSlug": "roof-service-company-b-v",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/roof-service-company-b-v--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/roof-service-company-b-v--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "VDK Dakwerken",
+      "bedrijfSlug": "vdk-dakwerken",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/vdk-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/vdk-dakwerken--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Van der Vorst",
+      "bedrijfSlug": "dakwerken-van-der-vorst",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/dakwerken-van-der-vorst--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/dakwerken-van-der-vorst--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Kerobo",
+      "bedrijfSlug": "kerobo",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/kerobo--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/kerobo--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "A12 Dakwerken",
+      "bedrijfSlug": "a12-dakwerken",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/a12-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/a12-dakwerken--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Matrix Dakwerken Antwerpen bv",
+      "bedrijfSlug": "matrix-dakwerken-antwerpen-bv",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/matrix-dakwerken-antwerpen-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/matrix-dakwerken-antwerpen-bv--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "EdB Dakwerken",
+      "bedrijfSlug": "edb-dakwerken",
+      "gemeente": "Boechout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/edb-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/edb-dakwerken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Dak en Bouw Spiessens",
+      "bedrijfSlug": "dak-en-bouw-spiessens",
+      "gemeente": "Mortsel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/dak-en-bouw-spiessens--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/dak-en-bouw-spiessens--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Franks Dakwerken Antwerpen",
+      "bedrijfSlug": "franks-dakwerken-antwerpen",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/franks-dakwerken-antwerpen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/franks-dakwerken-antwerpen--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "RVO Construct",
+      "bedrijfSlug": "rvo-construct",
+      "gemeente": "Kontich",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/rvo-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-antwerpen/rvo-construct--licht.png"
+    }
+  ]
+}
