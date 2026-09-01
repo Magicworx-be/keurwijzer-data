@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-brasschaat",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Brasschaat",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-brasschaat/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Wouters Dakwerken",
+      "bedrijfSlug": "wouters-dakwerken",
+      "gemeente": "Essen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/wouters-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/wouters-dakwerken--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Nuytemans Luk & Bjorn",
+      "bedrijfSlug": "dakwerken-nuytemans-luk-bjorn",
+      "gemeente": "Wuustwezel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/dakwerken-nuytemans-luk-bjorn--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/dakwerken-nuytemans-luk-bjorn--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Algemene Dakwerken Primo",
+      "bedrijfSlug": "algemene-dakwerken-primo",
+      "gemeente": "Brecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/algemene-dakwerken-primo--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/algemene-dakwerken-primo--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Apex Roof",
+      "bedrijfSlug": "apex-roof",
+      "gemeente": "Ranst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/apex-roof--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/apex-roof--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Solide & WaterpROOF bv",
+      "bedrijfSlug": "solide-waterproof-bv",
+      "gemeente": "Schilde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/solide-waterproof-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/solide-waterproof-bv--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Van Dyck Dakwerken",
+      "bedrijfSlug": "van-dyck-dakwerken",
+      "gemeente": "Brasschaat",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/van-dyck-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/van-dyck-dakwerken--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Heito Dakwerken",
+      "bedrijfSlug": "heito-dakwerken",
+      "gemeente": "Zoersel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/heito-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/heito-dakwerken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Luyts Dakwerken bv",
+      "bedrijfSlug": "luyts-dakwerken-bv",
+      "gemeente": "Schoten",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/luyts-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/luyts-dakwerken-bv--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dural Bouwgroep",
+      "bedrijfSlug": "dural-bouwgroep",
+      "gemeente": "Schoten",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/dural-bouwgroep--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/dural-bouwgroep--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Roofing Service Dakwerken",
+      "bedrijfSlug": "roofing-service-dakwerken",
+      "gemeente": "Zoersel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/roofing-service-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-brasschaat/roofing-service-dakwerken--licht.png"
+    }
+  ]
+}
