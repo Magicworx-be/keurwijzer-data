@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-mechelen",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Mechelen",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-mechelen/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dafridak Bvba",
+      "bedrijfSlug": "dafridak-bvba",
+      "gemeente": "Putte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dafridak-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dafridak-bvba--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Verstrepen BV",
+      "bedrijfSlug": "dakwerken-verstrepen-bv",
+      "gemeente": "Willebroek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-verstrepen-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-verstrepen-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Kar-Mi BV - Algemene dakwerken | Isolatie | Gevelbekleding",
+      "bedrijfSlug": "kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding",
+      "gemeente": "Sint-Katelijne-Waver",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken Stoffels BV",
+      "bedrijfSlug": "dakwerken-stoffels-bv",
+      "gemeente": "Sint-Katelijne-Waver",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-stoffels-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-stoffels-bv--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Goris timmer- en dakwerken",
+      "bedrijfSlug": "goris-timmer-en-dakwerken",
+      "gemeente": "Sint-Katelijne-Waver",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/goris-timmer-en-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/goris-timmer-en-dakwerken--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Schrijnwerken Leus",
+      "bedrijfSlug": "schrijnwerken-leus",
+      "gemeente": "Nijlen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/schrijnwerken-leus--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/schrijnwerken-leus--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakwerken CPD bv",
+      "bedrijfSlug": "dakwerken-cpd-bv",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-cpd-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-cpd-bv--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "BENOGROUP",
+      "bedrijfSlug": "benogroup",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/benogroup--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/benogroup--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakwerken David en zoon",
+      "bedrijfSlug": "dakwerken-david-en-zoon",
+      "gemeente": "Sint-Katelijne-Waver",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-david-en-zoon--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-david-en-zoon--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Dak en Gevelwerken Noah",
+      "bedrijfSlug": "dak-en-gevelwerken-noah",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dak-en-gevelwerken-noah--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dak-en-gevelwerken-noah--licht.png"
+    }
+  ]
+}
