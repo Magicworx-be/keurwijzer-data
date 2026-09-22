@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-geel-mol",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Geel-Mol",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-geel-mol/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken H en K",
+      "bedrijfSlug": "dakwerken-h-en-k",
+      "gemeente": "Tielen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-h-en-k--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-h-en-k--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "VDW Dakwerken",
+      "bedrijfSlug": "vdw-dakwerken",
+      "gemeente": "Lille",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/vdw-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/vdw-dakwerken--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Cedric Sels Dakwerken",
+      "bedrijfSlug": "cedric-sels-dakwerken",
+      "gemeente": "Mol",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/cedric-sels-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/cedric-sels-dakwerken--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakproject Vaes BV",
+      "bedrijfSlug": "dakproject-vaes-bv",
+      "gemeente": "Meerhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakproject-vaes-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakproject-vaes-bv--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Daniels",
+      "bedrijfSlug": "dakwerken-daniels",
+      "gemeente": "Dessel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-daniels--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-daniels--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Dakwerken Service Jarda",
+      "bedrijfSlug": "dakwerken-service-jarda",
+      "gemeente": "Laakdal",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-service-jarda--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-service-jarda--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakwerken Dave Van Hoof BV | Dakprojecten",
+      "bedrijfSlug": "dakwerken-dave-van-hoof-bv-dakprojecten",
+      "gemeente": "Laakdal",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-dave-van-hoof-bv-dakprojecten--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-dave-van-hoof-bv-dakprojecten--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Dakwerken Leyde",
+      "bedrijfSlug": "dakwerken-leyde",
+      "gemeente": "Laakdal",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-leyde--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/dakwerken-leyde--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Roofers BV",
+      "bedrijfSlug": "roofers-bv",
+      "gemeente": "Kasterlee",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/roofers-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/roofers-bv--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Algemene Dakwerken Stefan Wolput B.V.",
+      "bedrijfSlug": "algemene-dakwerken-stefan-wolput-b-v",
+      "gemeente": "Geel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/algemene-dakwerken-stefan-wolput-b-v--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-geel-mol/algemene-dakwerken-stefan-wolput-b-v--licht.png"
+    }
+  ]
+}
