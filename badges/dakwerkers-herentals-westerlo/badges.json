@@ -1,0 +1,57 @@
+{
+  "slug": "dakwerkers-herentals-westerlo",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Herentals-Westerlo",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-herentals-westerlo/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Renisol Badkamers",
+      "bedrijfSlug": "renisol-badkamers",
+      "gemeente": "Herentals",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/renisol-badkamers--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/renisol-badkamers--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "KVL Dakwerken Bv",
+      "bedrijfSlug": "kvl-dakwerken-bv",
+      "gemeente": "Vorselaar",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/kvl-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/kvl-dakwerken-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Moorkens",
+      "bedrijfSlug": "dakwerken-moorkens",
+      "gemeente": "Vorselaar",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/dakwerken-moorkens--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/dakwerken-moorkens--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "HerVaàM Groep",
+      "bedrijfSlug": "hervaam-groep",
+      "gemeente": "Herentals",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/hervaam-groep--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/hervaam-groep--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Demessemaeker",
+      "bedrijfSlug": "dakwerken-demessemaeker",
+      "gemeente": "Herentals",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/dakwerken-demessemaeker--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-herentals-westerlo/dakwerken-demessemaeker--licht.png"
+    }
+  ]
+}
