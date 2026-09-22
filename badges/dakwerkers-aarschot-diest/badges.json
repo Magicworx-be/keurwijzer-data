@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-aarschot-diest",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Aarschot-Diest",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-aarschot-diest/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "DAZ Construct",
+      "bedrijfSlug": "daz-construct",
+      "gemeente": "Scherpenheuvel-Zichem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/daz-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/daz-construct--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Verdeyen",
+      "bedrijfSlug": "dakwerken-verdeyen",
+      "gemeente": "Messelbroek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-verdeyen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-verdeyen--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Verschuere",
+      "bedrijfSlug": "dakwerken-verschuere",
+      "gemeente": "Rillaar",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-verschuere--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-verschuere--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Phv-works",
+      "bedrijfSlug": "phv-works",
+      "gemeente": "Kortenaken",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/phv-works--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/phv-works--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Haesevoets",
+      "bedrijfSlug": "dakwerken-haesevoets",
+      "gemeente": "Waanrode",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-haesevoets--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-haesevoets--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Jud Bouw b.v.b.a.",
+      "bedrijfSlug": "jud-bouw-b-v-b-a",
+      "gemeente": "Scherpenheuvel-Zichem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/jud-bouw-b-v-b-a--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/jud-bouw-b-v-b-a--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "AMS Systems BVBA",
+      "bedrijfSlug": "ams-systems-bvba",
+      "gemeente": "Glabbeek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/ams-systems-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/ams-systems-bvba--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "VATODAK Dakwerken Begijnendijk",
+      "bedrijfSlug": "vatodak-dakwerken-begijnendijk",
+      "gemeente": "Begijnendijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/vatodak-dakwerken-begijnendijk--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/vatodak-dakwerken-begijnendijk--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakwerken Pfaff",
+      "bedrijfSlug": "dakwerken-pfaff",
+      "gemeente": "Bekkevoort",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-pfaff--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-pfaff--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Dakwerken Sammy Mariën BVBA",
+      "bedrijfSlug": "dakwerken-sammy-marien-bvba",
+      "gemeente": "Begijnendijk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-sammy-marien-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aarschot-diest/dakwerken-sammy-marien-bvba--licht.png"
+    }
+  ]
+}
