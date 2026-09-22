@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-turnhout",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Turnhout",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-turnhout/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "FTJ - Van der Linden BV",
+      "bedrijfSlug": "ftj-van-der-linden-bv",
+      "gemeente": "Hoogstraten",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/ftj-van-der-linden-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/ftj-van-der-linden-bv--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken Cristian Bv",
+      "bedrijfSlug": "dakwerken-cristian-bv",
+      "gemeente": "Rijkevorsel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-cristian-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-cristian-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken RDG",
+      "bedrijfSlug": "dakwerken-rdg",
+      "gemeente": "Turnhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-rdg--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-rdg--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "TeoDakwerken",
+      "bedrijfSlug": "teodakwerken",
+      "gemeente": "Turnhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/teodakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/teodakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Roozenburg Daken & Dakkapellen",
+      "bedrijfSlug": "roozenburg-daken-dakkapellen",
+      "gemeente": "Rijkevorsel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/roozenburg-daken-dakkapellen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/roozenburg-daken-dakkapellen--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "RAW Algemene dakwerken",
+      "bedrijfSlug": "raw-algemene-dakwerken",
+      "gemeente": "Turnhout",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/raw-algemene-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/raw-algemene-dakwerken--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Gilles Totaalbouw",
+      "bedrijfSlug": "gilles-totaalbouw",
+      "gemeente": "Ravels",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/gilles-totaalbouw--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/gilles-totaalbouw--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "HartDak",
+      "bedrijfSlug": "hartdak",
+      "gemeente": "Hoogstraten",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/hartdak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/hartdak--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "John Vermetten BV | Bouwbedrijf, Totaalrenovaties, Dakwerken & Timmerwerken",
+      "bedrijfSlug": "john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken",
+      "gemeente": "Hoogstraten",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "SBS-PRO Dak en Schrijnwerken",
+      "bedrijfSlug": "sbs-pro-dak-en-schrijnwerken",
+      "gemeente": "Arendonk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/sbs-pro-dak-en-schrijnwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/sbs-pro-dak-en-schrijnwerken--licht.png"
+    }
+  ]
+}
