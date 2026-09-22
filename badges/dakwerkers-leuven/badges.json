@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-leuven",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Leuven",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-leuven/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "MSM-group",
+      "bedrijfSlug": "msm-group",
+      "gemeente": "Leuven",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/msm-group--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/msm-group--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakwerken-cristian",
+      "bedrijfSlug": "dakwerken-cristian",
+      "gemeente": "Hoeilaart",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/dakwerken-cristian--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/dakwerken-cristian--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "JWD Dakwerken",
+      "bedrijfSlug": "jwd-dakwerken",
+      "gemeente": "Herent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/jwd-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/jwd-dakwerken--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Moens / Kim",
+      "bedrijfSlug": "moens-kim",
+      "gemeente": "Haacht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/moens-kim--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/moens-kim--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "A-M-I Toiture & Façades – Uw Dak, Onze Expertise!",
+      "bedrijfSlug": "a-m-i-toiture-facades-uw-dak-onze-expertise",
+      "gemeente": "Overijse",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/a-m-i-toiture-facades-uw-dak-onze-expertise--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/a-m-i-toiture-facades-uw-dak-onze-expertise--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Eco Reno Top bv",
+      "bedrijfSlug": "eco-reno-top-bv",
+      "gemeente": "Boutersem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/eco-reno-top-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/eco-reno-top-bv--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "ROOFWALL Dakwerken TERVUREN",
+      "bedrijfSlug": "roofwall-dakwerken-tervuren",
+      "gemeente": "Tervuren",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/roofwall-dakwerken-tervuren--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/roofwall-dakwerken-tervuren--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "ROOF & WALL dakwerken",
+      "bedrijfSlug": "roof-wall-dakwerken",
+      "gemeente": "Overijse",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/roof-wall-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/roof-wall-dakwerken--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "RENO-FLEX bv",
+      "bedrijfSlug": "reno-flex-bv",
+      "gemeente": "Overijse",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/reno-flex-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/reno-flex-bv--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Johny Kril Construct",
+      "bedrijfSlug": "johny-kril-construct",
+      "gemeente": "Holsbeek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/johny-kril-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-leuven/johny-kril-construct--licht.png"
+    }
+  ]
+}
