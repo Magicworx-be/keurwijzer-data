@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-vilvoorde",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Vilvoorde",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-vilvoorde/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dibra Roof",
+      "bedrijfSlug": "dibra-roof",
+      "gemeente": "Vilvoorde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/dibra-roof--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/dibra-roof--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Deladrier Toiture SRL-BV",
+      "bedrijfSlug": "deladrier-toiture-srl-bv",
+      "gemeente": "Grimbergen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/deladrier-toiture-srl-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/deladrier-toiture-srl-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Le Fils",
+      "bedrijfSlug": "le-fils",
+      "gemeente": "Wemmel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/le-fils--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/le-fils--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Daken Van Doren",
+      "bedrijfSlug": "daken-van-doren",
+      "gemeente": "Vilvoorde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/daken-van-doren--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/daken-van-doren--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "GreZo constructions",
+      "bedrijfSlug": "grezo-constructions",
+      "gemeente": "Grimbergen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/grezo-constructions--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/grezo-constructions--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Dav Toiture",
+      "bedrijfSlug": "dav-toiture",
+      "gemeente": "Wemmel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/dav-toiture--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/dav-toiture--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "JDM TOITURES",
+      "bedrijfSlug": "jdm-toitures",
+      "gemeente": "Vilvoorde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/jdm-toitures--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/jdm-toitures--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Kijzer dakwerken",
+      "bedrijfSlug": "kijzer-dakwerken",
+      "gemeente": "Machelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/kijzer-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/kijzer-dakwerken--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "ML Building",
+      "bedrijfSlug": "ml-building",
+      "gemeente": "Machelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/ml-building--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/ml-building--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Home toiture",
+      "bedrijfSlug": "home-toiture",
+      "gemeente": "Zaventem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/home-toiture--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-vilvoorde/home-toiture--licht.png"
+    }
+  ]
+}
