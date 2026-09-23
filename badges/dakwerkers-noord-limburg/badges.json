@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-noord-limburg",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Noord-Limburg",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-noord-limburg/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Kerkhoff Alexander Bvba",
+      "bedrijfSlug": "kerkhoff-alexander-bvba",
+      "gemeente": "Lommel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/kerkhoff-alexander-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/kerkhoff-alexander-bvba--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "TPL Dakwerken",
+      "bedrijfSlug": "tpl-dakwerken",
+      "gemeente": "Leopoldsburg",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/tpl-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/tpl-dakwerken--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakdec",
+      "bedrijfSlug": "dakdec",
+      "gemeente": "Beringen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakdec--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakdec--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "ASA Dakwerken",
+      "bedrijfSlug": "asa-dakwerken",
+      "gemeente": "Pelt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/asa-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/asa-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakxs BV",
+      "bedrijfSlug": "dakxs-bv",
+      "gemeente": "Beringen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakxs-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakxs-bv--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Accuraat dakwerken",
+      "bedrijfSlug": "accuraat-dakwerken",
+      "gemeente": "Beringen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/accuraat-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/accuraat-dakwerken--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dakwerken Gijsbert de Wit",
+      "bedrijfSlug": "dakwerken-gijsbert-de-wit",
+      "gemeente": "Lommel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakwerken-gijsbert-de-wit--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/dakwerken-gijsbert-de-wit--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Future Roofs - dakwerken & gevelbekleding",
+      "bedrijfSlug": "future-roofs-dakwerken-gevelbekleding",
+      "gemeente": "Beringen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/future-roofs-dakwerken-gevelbekleding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/future-roofs-dakwerken-gevelbekleding--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "A & L dakwerken ALEX",
+      "bedrijfSlug": "a-l-dakwerken-alex",
+      "gemeente": "Hechtel-Eksel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/a-l-dakwerken-alex--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/a-l-dakwerken-alex--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "VS Dakwerken",
+      "bedrijfSlug": "vs-dakwerken",
+      "gemeente": "Tessenderlo-Ham",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/vs-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-noord-limburg/vs-dakwerken--licht.png"
+    }
+  ]
+}
