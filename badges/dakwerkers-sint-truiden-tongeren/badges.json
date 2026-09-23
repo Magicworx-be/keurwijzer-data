@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-sint-truiden-tongeren",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Sint-Truiden-Tongeren",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-sint-truiden-tongeren/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "a&m Projects bv",
+      "bedrijfSlug": "a-m-projects-bv",
+      "gemeente": "Sint-Truiden",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/a-m-projects-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/a-m-projects-bv--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Luka Dakwerken BV",
+      "bedrijfSlug": "luka-dakwerken-bv",
+      "gemeente": "Sint-Truiden",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/luka-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/luka-dakwerken-bv--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Ecoroofs",
+      "bedrijfSlug": "ecoroofs",
+      "gemeente": "Brustem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/ecoroofs--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/ecoroofs--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Janssens Daniel Dakwerken",
+      "bedrijfSlug": "janssens-daniel-dakwerken",
+      "gemeente": "Alken",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/janssens-daniel-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/janssens-daniel-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Promaster Construct",
+      "bedrijfSlug": "promaster-construct",
+      "gemeente": "Sint-Truiden",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/promaster-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/promaster-construct--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "FIX JE HUIS BV",
+      "bedrijfSlug": "fix-je-huis-bv",
+      "gemeente": "Tongeren-Borgloon",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/fix-je-huis-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/fix-je-huis-bv--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Dak-service",
+      "bedrijfSlug": "dak-service",
+      "gemeente": "Tongeren-Borgloon",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dak-service--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dak-service--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Dakwerken Schuermans Bvba",
+      "bedrijfSlug": "dakwerken-schuermans-bvba",
+      "gemeente": "Gingelom",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-schuermans-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-schuermans-bvba--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakwerken Mertens",
+      "bedrijfSlug": "dakwerken-mertens",
+      "gemeente": "Sint-Truiden",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-mertens--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-mertens--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "JR Dakconstruct",
+      "bedrijfSlug": "jr-dakconstruct",
+      "gemeente": "Wellen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/jr-dakconstruct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/jr-dakconstruct--licht.png"
+    }
+  ]
+}
