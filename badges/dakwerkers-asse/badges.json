@@ -1,0 +1,57 @@
+{
+  "slug": "dakwerkers-asse",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Asse",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-asse/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Dakwerken Godart",
+      "bedrijfSlug": "dakwerken-godart",
+      "gemeente": "Dilbeek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dakwerken-godart--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dakwerken-godart--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dak & Klusgemak Gevaert | 24/7 Dakherstellingen",
+      "bedrijfSlug": "dak-klusgemak-gevaert-24-7-dakherstellingen",
+      "gemeente": "Londerzeel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dak-klusgemak-gevaert-24-7-dakherstellingen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dak-klusgemak-gevaert-24-7-dakherstellingen--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken-Vions BV",
+      "bedrijfSlug": "dakwerken-vions-bv",
+      "gemeente": "Londerzeel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dakwerken-vions-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/dakwerken-vions-bv--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Wesley Philips Dakwerken",
+      "bedrijfSlug": "wesley-philips-dakwerken",
+      "gemeente": "Londerzeel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/wesley-philips-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/wesley-philips-dakwerken--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "ISOPROJECTS bv",
+      "bedrijfSlug": "isoprojects-bv",
+      "gemeente": "Londerzeel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/isoprojects-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-asse/isoprojects-bv--licht.png"
+    }
+  ]
+}
