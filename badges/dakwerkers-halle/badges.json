@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-halle",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Halle",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-halle/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Easyfix dakwerken",
+      "bedrijfSlug": "easyfix-dakwerken",
+      "gemeente": "Roosdaal",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/easyfix-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/easyfix-dakwerken--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "D-Reno - Totale dakrenovatie in Pajottegem en omstreken",
+      "bedrijfSlug": "d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken",
+      "gemeente": "Pajottegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Van Driessche | Hellende daken, isolatie, sidings",
+      "bedrijfSlug": "dakwerken-van-driessche-hellende-daken-isolatie-sidings",
+      "gemeente": "Sint-Pieters-Leeuw",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-van-driessche-hellende-daken-isolatie-sidings--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-van-driessche-hellende-daken-isolatie-sidings--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken MDS",
+      "bedrijfSlug": "dakwerken-mds",
+      "gemeente": "Sint-Pieters-Leeuw",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-mds--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-mds--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken LFN / Toiture LFN",
+      "bedrijfSlug": "dakwerken-lfn-toiture-lfn",
+      "gemeente": "Pepingen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-lfn-toiture-lfn--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-lfn-toiture-lfn--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Toitures Jullien Dakwerken",
+      "bedrijfSlug": "toitures-jullien-dakwerken",
+      "gemeente": "Beersel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-jullien-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-jullien-dakwerken--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Bas Dakwerken - Toitures",
+      "bedrijfSlug": "bas-dakwerken-toitures",
+      "gemeente": "Pajottegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/bas-dakwerken-toitures--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/bas-dakwerken-toitures--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Entreprise Lievens SRL",
+      "bedrijfSlug": "entreprise-lievens-srl",
+      "gemeente": "Sint-Pieters-Leeuw",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/entreprise-lievens-srl--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/entreprise-lievens-srl--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Dakwerken VCS De Gieter",
+      "bedrijfSlug": "dakwerken-vcs-de-gieter",
+      "gemeente": "Pajottegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-vcs-de-gieter--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-vcs-de-gieter--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Toitures Bastien Delleuse sprl",
+      "bedrijfSlug": "toitures-bastien-delleuse-sprl",
+      "gemeente": "Beersel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-bastien-delleuse-sprl--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-bastien-delleuse-sprl--licht.png"
+    }
+  ]
+}
