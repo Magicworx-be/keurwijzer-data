@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-hasselt-genk",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Hasselt-Genk",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-hasselt-genk/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "HWK Dakwerken",
+      "bedrijfSlug": "hwk-dakwerken",
+      "gemeente": "Kuringen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/hwk-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/hwk-dakwerken--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dakenmeesters",
+      "bedrijfSlug": "dakenmeesters",
+      "gemeente": "Hasselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/dakenmeesters--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/dakenmeesters--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Steegmans Construct",
+      "bedrijfSlug": "steegmans-construct",
+      "gemeente": "Diepenbeek",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/steegmans-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/steegmans-construct--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "De Dakman",
+      "bedrijfSlug": "de-dakman",
+      "gemeente": "Guigoven",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/de-dakman--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/de-dakman--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "AZ Dakwerken",
+      "bedrijfSlug": "az-dakwerken",
+      "gemeente": "Hasselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/az-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/az-dakwerken--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "CD Dak",
+      "bedrijfSlug": "cd-dak",
+      "gemeente": "Genk",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/cd-dak--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/cd-dak--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "Thomas Dimitri Dakwerken",
+      "bedrijfSlug": "thomas-dimitri-dakwerken",
+      "gemeente": "Herk-de-Stad",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/thomas-dimitri-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/thomas-dimitri-dakwerken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Class Dakwerken",
+      "bedrijfSlug": "class-dakwerken",
+      "gemeente": "Hasselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/class-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/class-dakwerken--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "Limburgse Industriële Dakwerken",
+      "bedrijfSlug": "limburgse-industriele-dakwerken",
+      "gemeente": "Herk-de-Stad",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/limburgse-industriele-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/limburgse-industriele-dakwerken--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "DakLift",
+      "bedrijfSlug": "daklift",
+      "gemeente": "As",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/daklift--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/daklift--licht.png"
+    }
+  ]
+}
