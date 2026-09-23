@@ -1,0 +1,102 @@
+{
+  "slug": "dakwerkers-maasland",
+  "niche": "dakwerkers",
+  "vakMv": "dakwerkers",
+  "vakMvCap": "Dakwerkers",
+  "regioNaam": "regio Maasland",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/dakwerkers-maasland/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "VAJO Dak & Schrijnwerk BVBA",
+      "bedrijfSlug": "vajo-dak-schrijnwerk-bvba",
+      "gemeente": "Maasmechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vajo-dak-schrijnwerk-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vajo-dak-schrijnwerk-bvba--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Jeroen Maesen",
+      "bedrijfSlug": "jeroen-maesen",
+      "gemeente": "Lanaken",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/jeroen-maesen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/jeroen-maesen--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Dakwerken Vanderhallen",
+      "bedrijfSlug": "dakwerken-vanderhallen",
+      "gemeente": "Maasmechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-vanderhallen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-vanderhallen--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Dakwerken Delva",
+      "bedrijfSlug": "dakwerken-delva",
+      "gemeente": "Bilzen-Hoeselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-delva--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-delva--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Dakwerken Lenaers",
+      "bedrijfSlug": "dakwerken-lenaers",
+      "gemeente": "Bilzen-Hoeselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-lenaers--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-lenaers--licht.png"
+    },
+    {
+      "rang": 6,
+      "tier": "Top 10",
+      "naam": "Dakwerken Noterman",
+      "bedrijfSlug": "dakwerken-noterman",
+      "gemeente": "Bilzen-Hoeselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-noterman--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-noterman--licht.png"
+    },
+    {
+      "rang": 7,
+      "tier": "Top 10",
+      "naam": "ROOF FIX",
+      "bedrijfSlug": "roof-fix",
+      "gemeente": "Maasmechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/roof-fix--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/roof-fix--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "naam": "Topdak Construct",
+      "bedrijfSlug": "topdak-construct",
+      "gemeente": "Bree",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/topdak-construct--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/topdak-construct--licht.png"
+    },
+    {
+      "rang": 9,
+      "tier": "Top 10",
+      "naam": "GMC Dakwerken",
+      "bedrijfSlug": "gmc-dakwerken",
+      "gemeente": "Bilzen-Hoeselt",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/gmc-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/gmc-dakwerken--licht.png"
+    },
+    {
+      "rang": 10,
+      "tier": "Top 10",
+      "naam": "Vanhoef Joris dakwerken bv",
+      "bedrijfSlug": "vanhoef-joris-dakwerken-bv",
+      "gemeente": "Maaseik",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vanhoef-joris-dakwerken-bv--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vanhoef-joris-dakwerken-bv--licht.png"
+    }
+  ]
+}
