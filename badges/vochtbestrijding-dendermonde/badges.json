@@ -1,0 +1,39 @@
+{
+  "slug": "vochtbestrijding-dendermonde",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Dendermonde",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-dendermonde/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Vochtfixers",
+      "bedrijfSlug": "vochtfixers",
+      "gemeente": "Wetteren",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/vochtfixers--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/vochtfixers--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "KVC operations",
+      "bedrijfSlug": "kvc-operations",
+      "gemeente": "Dendermonde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/kvc-operations--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/kvc-operations--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "CREPISO \"CLEAN & PROTECT\" gevelreiniging en gevelrenovatie in Dendermonde",
+      "bedrijfSlug": "crepiso-clean-protect-gevelreiniging-en-gevelrenovatie-in-dendermonde",
+      "gemeente": "Dendermonde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/crepiso-clean-protect-gevelreiniging-en-gevelrenovatie-in-dendermonde--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-dendermonde/crepiso-clean-protect-gevelreiniging-en-gevelrenovatie-in-dendermonde--licht.png"
+    }
+  ]
+}
