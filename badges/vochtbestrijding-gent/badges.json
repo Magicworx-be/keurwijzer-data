@@ -1,0 +1,57 @@
+{
+  "slug": "vochtbestrijding-gent",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Gent",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-gent/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Noaqua",
+      "bedrijfSlug": "noaqua",
+      "gemeente": "Evergem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/noaqua--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/noaqua--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Vochtbestrijding Gent Aquavent - Kelderdichting - Vochtprobleem - Opstijgend Vocht - Kelderzwam",
+      "bedrijfSlug": "vochtbestrijding-gent-aquavent-kelderdichting-vochtprobleem-opstijgend-vocht-kelderzwam",
+      "gemeente": "Gent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/vochtbestrijding-gent-aquavent-kelderdichting-vochtprobleem-opstijgend-vocht-kelderzwam--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/vochtbestrijding-gent-aquavent-kelderdichting-vochtprobleem-opstijgend-vocht-kelderzwam--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Murprotec - Vochtbestrijding",
+      "bedrijfSlug": "murprotec-vochtbestrijding",
+      "gemeente": "Gent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/murprotec-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/murprotec-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "ADG de vochtspecialist | Vochtbestrijding | Oost-Vlaanderen",
+      "bedrijfSlug": "adg-de-vochtspecialist-vochtbestrijding-oost-vlaanderen",
+      "gemeente": "Merelbeke-Melle",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/adg-de-vochtspecialist-vochtbestrijding-oost-vlaanderen--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/adg-de-vochtspecialist-vochtbestrijding-oost-vlaanderen--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "Solusio",
+      "bedrijfSlug": "solusio",
+      "gemeente": "Gent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/solusio--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-gent/solusio--licht.png"
+    }
+  ]
+}
