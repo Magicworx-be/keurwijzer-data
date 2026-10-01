@@ -1,0 +1,57 @@
+{
+  "slug": "vochtbestrijding-antwerpen",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Antwerpen",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-antwerpen/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "MRklusser",
+      "bedrijfSlug": "mrklusser",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/mrklusser--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/mrklusser--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "VQA vochtbestrijding",
+      "bedrijfSlug": "vqa-vochtbestrijding",
+      "gemeente": "Rumst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vqa-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vqa-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Aquavent",
+      "bedrijfSlug": "aquavent",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/aquavent--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/aquavent--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Vernast",
+      "bedrijfSlug": "vernast",
+      "gemeente": "Antwerpen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vernast--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vernast--licht.png"
+    },
+    {
+      "rang": 5,
+      "tier": "Top 5",
+      "naam": "KB Vochtbestrijding",
+      "bedrijfSlug": "kb-vochtbestrijding",
+      "gemeente": "Rumst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/kb-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/kb-vochtbestrijding--licht.png"
+    }
+  ]
+}
