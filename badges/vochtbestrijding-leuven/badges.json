@@ -1,0 +1,30 @@
+{
+  "slug": "vochtbestrijding-leuven",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Leuven",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-leuven/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Vocht Solutions",
+      "bedrijfSlug": "vocht-solutions",
+      "gemeente": "Leuven",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/vocht-solutions--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/vocht-solutions--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "SD Services B.V.",
+      "bedrijfSlug": "sd-services-b-v",
+      "gemeente": "Herent",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/sd-services-b-v--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/sd-services-b-v--licht.png"
+    }
+  ]
+}
