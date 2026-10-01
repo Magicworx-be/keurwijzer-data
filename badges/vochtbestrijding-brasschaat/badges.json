@@ -1,0 +1,48 @@
+{
+  "slug": "vochtbestrijding-brasschaat",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Brasschaat",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-brasschaat/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "De Geveldokter - NR1 Gevelwerken & Vochtbestrijding",
+      "bedrijfSlug": "de-geveldokter-nr1-gevelwerken-vochtbestrijding",
+      "gemeente": "Schilde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/de-geveldokter-nr1-gevelwerken-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/de-geveldokter-nr1-gevelwerken-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Opstijgend vocht probleem? DRY IT!",
+      "bedrijfSlug": "opstijgend-vocht-probleem-dry-it",
+      "gemeente": "Wuustwezel",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/opstijgend-vocht-probleem-dry-it--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/opstijgend-vocht-probleem-dry-it--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "AquaConsult Vochtbestrijding en Kelderdichting",
+      "bedrijfSlug": "aquaconsult-vochtbestrijding-en-kelderdichting",
+      "gemeente": "Schilde",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/aquaconsult-vochtbestrijding-en-kelderdichting--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/aquaconsult-vochtbestrijding-en-kelderdichting--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Bodima",
+      "bedrijfSlug": "bodima",
+      "gemeente": "Zandhoven",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/bodima--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/bodima--licht.png"
+    }
+  ]
+}
