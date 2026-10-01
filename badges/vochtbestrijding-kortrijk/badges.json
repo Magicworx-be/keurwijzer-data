@@ -1,0 +1,39 @@
+{
+  "slug": "vochtbestrijding-kortrijk",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Kortrijk",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-kortrijk/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Renovigo BV - Vochtbestrijding - Kelderdichting - Vochtprobleem - Opstijgend vocht - Pleisterwerken",
+      "bedrijfSlug": "renovigo-bv-vochtbestrijding-kelderdichting-vochtprobleem-opstijgend-vocht-pleisterwerken",
+      "gemeente": "Harelbeke",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/renovigo-bv-vochtbestrijding-kelderdichting-vochtprobleem-opstijgend-vocht-pleisterwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/renovigo-bv-vochtbestrijding-kelderdichting-vochtprobleem-opstijgend-vocht-pleisterwerken--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Aqua Protect: jouw specialist in vochtbestrijding",
+      "bedrijfSlug": "aqua-protect-jouw-specialist-in-vochtbestrijding",
+      "gemeente": "Zwevegem",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/aqua-protect-jouw-specialist-in-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/aqua-protect-jouw-specialist-in-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "DTS Dieter T'Siolle: kelderdichting, injecteren & gevelrenovatie",
+      "bedrijfSlug": "dts-dieter-t-siolle-kelderdichting-injecteren-gevelrenovatie",
+      "gemeente": "Zulte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/dts-dieter-t-siolle-kelderdichting-injecteren-gevelrenovatie--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-kortrijk/dts-dieter-t-siolle-kelderdichting-injecteren-gevelrenovatie--licht.png"
+    }
+  ]
+}

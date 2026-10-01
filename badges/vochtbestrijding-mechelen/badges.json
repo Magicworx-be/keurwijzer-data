@@ -1,0 +1,48 @@
+{
+  "slug": "vochtbestrijding-mechelen",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Mechelen",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-mechelen/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Totalfix Vochtbestrijding",
+      "bedrijfSlug": "totalfix-vochtbestrijding",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/totalfix-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/totalfix-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Dry Plan | Vochtbestrijding, kelderdichting, opstijgend vocht, condensatie en waterschotten",
+      "bedrijfSlug": "dry-plan-vochtbestrijding-kelderdichting-opstijgend-vocht-condensatie-en-waterschotten",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/dry-plan-vochtbestrijding-kelderdichting-opstijgend-vocht-condensatie-en-waterschotten--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/dry-plan-vochtbestrijding-kelderdichting-opstijgend-vocht-condensatie-en-waterschotten--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Aqua Protect: jouw specialist in vochtbestrijding",
+      "bedrijfSlug": "aqua-protect-jouw-specialist-in-vochtbestrijding",
+      "gemeente": "Mechelen",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/aqua-protect-jouw-specialist-in-vochtbestrijding--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/aqua-protect-jouw-specialist-in-vochtbestrijding--licht.png"
+    },
+    {
+      "rang": 4,
+      "tier": "Top 5",
+      "naam": "Wauters Renovatiewerken & De Vochtfabriek",
+      "bedrijfSlug": "wauters-renovatiewerken-de-vochtfabriek",
+      "gemeente": "Putte",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/wauters-renovatiewerken-de-vochtfabriek--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-mechelen/wauters-renovatiewerken-de-vochtfabriek--licht.png"
+    }
+  ]
+}
