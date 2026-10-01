@@ -1,0 +1,30 @@
+{
+  "slug": "vochtbestrijding-brugge",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Brugge",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-brugge/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Aquavent",
+      "bedrijfSlug": "aquavent",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brugge/aquavent--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brugge/aquavent--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "Pleisterwerken Dominique Verbeke - Nuova Linea",
+      "bedrijfSlug": "pleisterwerken-dominique-verbeke-nuova-linea",
+      "gemeente": "Brugge",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brugge/pleisterwerken-dominique-verbeke-nuova-linea--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brugge/pleisterwerken-dominique-verbeke-nuova-linea--licht.png"
+    }
+  ]
+}
