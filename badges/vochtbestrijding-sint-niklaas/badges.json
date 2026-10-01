@@ -1,0 +1,39 @@
+{
+  "slug": "vochtbestrijding-sint-niklaas",
+  "niche": "vochtbestrijding",
+  "vakMv": "vochtbestrijders",
+  "vakMvCap": "Vochtbestrijders",
+  "regioNaam": "regio Sint-Niklaas",
+  "jaar": "2026",
+  "landingsUrl": "https://keurwijzer.be/vochtbestrijding-sint-niklaas/",
+  "badgeBaseUrl": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges",
+  "bedrijven": [
+    {
+      "rang": 1,
+      "tier": "#1",
+      "naam": "Aquaproved",
+      "bedrijfSlug": "aquaproved",
+      "gemeente": "Sint-Niklaas",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/aquaproved--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/aquaproved--licht.png"
+    },
+    {
+      "rang": 2,
+      "tier": "Top 3",
+      "naam": "DryProtect",
+      "bedrijfSlug": "dryprotect",
+      "gemeente": "Sint-Niklaas",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/dryprotect--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/dryprotect--licht.png"
+    },
+    {
+      "rang": 3,
+      "tier": "Top 3",
+      "naam": "Vochtbestrijding Tibas bvba",
+      "bedrijfSlug": "vochtbestrijding-tibas-bvba",
+      "gemeente": "Zwijndrecht",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/vochtbestrijding-tibas-bvba--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-sint-niklaas/vochtbestrijding-tibas-bvba--licht.png"
+    }
+  ]
+}
