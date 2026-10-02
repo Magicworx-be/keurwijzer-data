@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Wouters Dakwerken",
       "bedrijfSlug": "wouters-dakwerken",
       "gemeente": "Essen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Nuytemans Luk & Bjorn",
       "bedrijfSlug": "dakwerken-nuytemans-luk-bjorn",
       "gemeente": "Wuustwezel",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Algemene Dakwerken Primo",
       "bedrijfSlug": "algemene-dakwerken-primo",
       "gemeente": "Brecht",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Apex Roof",
       "bedrijfSlug": "apex-roof",
       "gemeente": "Ranst",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Solide & WaterpROOF bv",
       "bedrijfSlug": "solide-waterproof-bv",
       "gemeente": "Schilde",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Van Dyck Dakwerken",
       "bedrijfSlug": "van-dyck-dakwerken",
       "gemeente": "Brasschaat",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Heito Dakwerken",
       "bedrijfSlug": "heito-dakwerken",
       "gemeente": "Zoersel",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Luyts Dakwerken bv",
       "bedrijfSlug": "luyts-dakwerken-bv",
       "gemeente": "Schoten",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dural Bouwgroep",
       "bedrijfSlug": "dural-bouwgroep",
       "gemeente": "Schoten",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Roofing Service Dakwerken",
       "bedrijfSlug": "roofing-service-dakwerken",
       "gemeente": "Zoersel",

@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Zink- en Dakwerken Verhaeghe BV",
       "bedrijfSlug": "zink-en-dakwerken-verhaeghe-bv",
       "gemeente": "Ieper",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken EPDM Construct BV",
       "bedrijfSlug": "dakwerken-epdm-construct-bv",
       "gemeente": "Ieper",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Vanrobaeys Panels",
       "bedrijfSlug": "vanrobaeys-panels",
       "gemeente": "Poperinge",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Descamps",
       "bedrijfSlug": "dakwerken-descamps",
       "gemeente": "Wervik",

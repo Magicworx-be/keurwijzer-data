@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "a&m Projects bv",
       "bedrijfSlug": "a-m-projects-bv",
       "gemeente": "Sint-Truiden",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Luka Dakwerken BV",
       "bedrijfSlug": "luka-dakwerken-bv",
       "gemeente": "Sint-Truiden",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Ecoroofs",
       "bedrijfSlug": "ecoroofs",
       "gemeente": "Brustem",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Janssens Daniel Dakwerken",
       "bedrijfSlug": "janssens-daniel-dakwerken",
       "gemeente": "Alken",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Promaster Construct",
       "bedrijfSlug": "promaster-construct",
       "gemeente": "Sint-Truiden",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "FIX JE HUIS BV",
       "bedrijfSlug": "fix-je-huis-bv",
       "gemeente": "Tongeren-Borgloon",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dak-service",
       "bedrijfSlug": "dak-service",
       "gemeente": "Tongeren-Borgloon",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Schuermans Bvba",
       "bedrijfSlug": "dakwerken-schuermans-bvba",
       "gemeente": "Gingelom",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Mertens",
       "bedrijfSlug": "dakwerken-mertens",
       "gemeente": "Sint-Truiden",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "JR Dakconstruct",
       "bedrijfSlug": "jr-dakconstruct",
       "gemeente": "Wellen",

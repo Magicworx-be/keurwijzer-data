@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Tectura Groep B.V. - Dakwerken & Renovaties",
       "bedrijfSlug": "tectura-groep-b-v-dakwerken-renovaties",
       "gemeente": "Sint-Niklaas",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "KD Dak",
       "bedrijfSlug": "kd-dak",
       "gemeente": "Beveren-Kruibeke-Zwijndrecht",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Boba Dakwerker Sint-Niklaas",
       "bedrijfSlug": "boba-dakwerker-sint-niklaas",
       "gemeente": "Beveren-Kruibeke-Zwijndrecht",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "D&D Dakwerken",
       "bedrijfSlug": "d-d-dakwerken",
       "gemeente": "Beveren-Kruibeke-Zwijndrecht",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken De Clerck - Dakteam",
       "bedrijfSlug": "dakwerken-de-clerck-dakteam",
       "gemeente": "Beveren-Kruibeke-Zwijndrecht",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Skydak",
       "bedrijfSlug": "skydak",
       "gemeente": "Sint-Niklaas",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "KDS dak en gevel",
       "bedrijfSlug": "kds-dak-en-gevel",
       "gemeente": "Beveren-Kruibeke-Zwijndrecht",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "RVD dak-gevelwerken",
       "bedrijfSlug": "rvd-dak-gevelwerken",
       "gemeente": "Stekene",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Schrijn en dakwerken Rooms bv",
       "bedrijfSlug": "schrijn-en-dakwerken-rooms-bv",
       "gemeente": "Lokeren",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Plat dak EPDMshop Sint-Niklaas Stekene",
       "bedrijfSlug": "plat-dak-epdmshop-sint-niklaas-stekene",
       "gemeente": "Stekene",

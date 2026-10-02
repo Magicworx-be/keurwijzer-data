@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken Glenn Van Damme",
       "bedrijfSlug": "dakwerken-glenn-van-damme",
       "gemeente": "Lievegem",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Algemene renovatiewerken (RDC)",
       "bedrijfSlug": "algemene-renovatiewerken-rdc",
       "gemeente": "Eeklo",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Schepens",
       "bedrijfSlug": "dakwerken-schepens",
       "gemeente": "Lievegem",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Boelaert",
       "bedrijfSlug": "dakwerken-boelaert",
       "gemeente": "Eeklo",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "VSB Dakwerken",
       "bedrijfSlug": "vsb-dakwerken",
       "gemeente": "Eeklo",

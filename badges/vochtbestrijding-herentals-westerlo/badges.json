@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Den Injecteur | Opstijgend Vocht Specialist",
       "bedrijfSlug": "den-injecteur-opstijgend-vocht-specialist",
       "gemeente": "Herenthout",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "De Vocht Expert",
       "bedrijfSlug": "de-vocht-expert",
       "gemeente": "Herentals",

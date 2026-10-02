@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Plat Dak Demeestere",
       "bedrijfSlug": "plat-dak-demeestere",
       "gemeente": "Pittem",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Marijn",
       "bedrijfSlug": "dakwerken-marijn",
       "gemeente": "Tielt",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Tieltse Dakwerken bvba",
       "bedrijfSlug": "tieltse-dakwerken-bvba",
       "gemeente": "Tielt",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "T-Plus Dakwerken",
       "bedrijfSlug": "t-plus-dakwerken",
       "gemeente": "Oostrozebeke",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "DFR Guido",
       "bedrijfSlug": "dfr-guido",
       "gemeente": "Dentergem",

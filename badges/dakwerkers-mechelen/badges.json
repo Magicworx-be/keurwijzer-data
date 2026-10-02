@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dafridak Bvba",
       "bedrijfSlug": "dafridak-bvba",
       "gemeente": "Putte",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Verstrepen BV",
       "bedrijfSlug": "dakwerken-verstrepen-bv",
       "gemeente": "Willebroek",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Kar-Mi BV - Algemene dakwerken | Isolatie | Gevelbekleding",
       "bedrijfSlug": "kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding",
       "gemeente": "Sint-Katelijne-Waver",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Stoffels BV",
       "bedrijfSlug": "dakwerken-stoffels-bv",
       "gemeente": "Sint-Katelijne-Waver",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Goris timmer- en dakwerken",
       "bedrijfSlug": "goris-timmer-en-dakwerken",
       "gemeente": "Sint-Katelijne-Waver",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Schrijnwerken Leus",
       "bedrijfSlug": "schrijnwerken-leus",
       "gemeente": "Nijlen",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken CPD bv",
       "bedrijfSlug": "dakwerken-cpd-bv",
       "gemeente": "Mechelen",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "BENOGROUP",
       "bedrijfSlug": "benogroup",
       "gemeente": "Mechelen",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken David en zoon",
       "bedrijfSlug": "dakwerken-david-en-zoon",
       "gemeente": "Sint-Katelijne-Waver",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dak en Gevelwerken Noah",
       "bedrijfSlug": "dak-en-gevelwerken-noah",
       "gemeente": "Mechelen",

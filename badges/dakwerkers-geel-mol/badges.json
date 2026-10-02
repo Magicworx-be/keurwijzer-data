@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken H en K",
       "bedrijfSlug": "dakwerken-h-en-k",
       "gemeente": "Tielen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "VDW Dakwerken",
       "bedrijfSlug": "vdw-dakwerken",
       "gemeente": "Lille",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Cedric Sels Dakwerken",
       "bedrijfSlug": "cedric-sels-dakwerken",
       "gemeente": "Mol",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakproject Vaes BV",
       "bedrijfSlug": "dakproject-vaes-bv",
       "gemeente": "Meerhout",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Daniels",
       "bedrijfSlug": "dakwerken-daniels",
       "gemeente": "Dessel",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Service Jarda",
       "bedrijfSlug": "dakwerken-service-jarda",
       "gemeente": "Laakdal",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Dave Van Hoof BV | Dakprojecten",
       "bedrijfSlug": "dakwerken-dave-van-hoof-bv-dakprojecten",
       "gemeente": "Laakdal",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Leyde",
       "bedrijfSlug": "dakwerken-leyde",
       "gemeente": "Laakdal",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Roofers BV",
       "bedrijfSlug": "roofers-bv",
       "gemeente": "Kasterlee",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Algemene Dakwerken Stefan Wolput B.V.",
       "bedrijfSlug": "algemene-dakwerken-stefan-wolput-b-v",
       "gemeente": "Geel",

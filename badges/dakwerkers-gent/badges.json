@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken Maenhaut",
       "bedrijfSlug": "dakwerken-maenhaut",
       "gemeente": "Evergem",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Schiettecatte bv",
       "bedrijfSlug": "dakwerken-schiettecatte-bv",
       "gemeente": "Nazareth-De Pinte",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Fortura",
       "bedrijfSlug": "fortura",
       "gemeente": "Nazareth-De Pinte",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Elewaut",
       "bedrijfSlug": "dakwerken-elewaut",
       "gemeente": "Zelzate",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Top-Bouw",
       "bedrijfSlug": "top-bouw",
       "gemeente": "Gent",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakinvest",
       "bedrijfSlug": "dakinvest",
       "gemeente": "Evergem",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken TM",
       "bedrijfSlug": "dakwerken-tm",
       "gemeente": "Evergem",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Sigitek",
       "bedrijfSlug": "dakwerken-sigitek",
       "gemeente": "Merelbeke-Melle",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "uwdakspecialist.be",
       "bedrijfSlug": "uwdakspecialist-be",
       "gemeente": "Gent",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Donzo",
       "bedrijfSlug": "donzo",
       "gemeente": "Merelbeke-Melle",

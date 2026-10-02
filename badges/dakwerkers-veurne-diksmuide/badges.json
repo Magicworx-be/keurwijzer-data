@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken De Raeve | Platte daken in EPDM | Regio Kortemark (Zarren) & West-Vlaanderen",
       "bedrijfSlug": "dakwerken-de-raeve-platte-daken-in-epdm-regio-kortemark-zarren-west-vlaanderen",
       "gemeente": "Kortemark",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Bruneel BV - Lieven Claus : dakwerken & installateur zonnepanelen, laadpalen en thuisbatterijen",
       "bedrijfSlug": "dakwerken-bruneel-bv-lieven-claus-dakwerken-installateur-zonnepanelen-laadpalen-en-thuisbatterijen",
       "gemeente": "Houthulst",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "De Torre Veurne",
       "bedrijfSlug": "de-torre-veurne",
       "gemeente": "Veurne",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "ESE",
       "bedrijfSlug": "ese",
       "gemeente": "Veurne",

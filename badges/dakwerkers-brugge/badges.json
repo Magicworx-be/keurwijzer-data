@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "D&G Dakwerken (Brugge)",
       "bedrijfSlug": "d-g-dakwerken-brugge",
       "gemeente": "Brugge",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Versteele",
       "bedrijfSlug": "versteele",
       "gemeente": "Brugge",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Schollier",
       "bedrijfSlug": "dakwerken-schollier",
       "gemeente": "Jabbeke",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Vandewalle Thomas",
       "bedrijfSlug": "dakwerken-vandewalle-thomas",
       "gemeente": "Torhout",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Devidt",
       "bedrijfSlug": "dakwerken-devidt",
       "gemeente": "Zedelgem",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Nathan - regio Brugge",
       "bedrijfSlug": "dakwerken-nathan-regio-brugge",
       "gemeente": "Brugge",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakor Dakwerken 🔨🏠",
       "bedrijfSlug": "dakor-dakwerken",
       "gemeente": "Torhout",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Vermeersch",
       "bedrijfSlug": "dakwerken-vermeersch",
       "gemeente": "Brugge",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken BS",
       "bedrijfSlug": "dakwerken-bs",
       "gemeente": "Oostkamp",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Uw Dakraam Torhout",
       "bedrijfSlug": "uw-dakraam-torhout",
       "gemeente": "Torhout",

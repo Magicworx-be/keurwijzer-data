@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Nrgy-solutions",
       "bedrijfSlug": "nrgy-solutions",
       "gemeente": "Geraardsbergen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Vochtbestrijding Steenhout",
       "bedrijfSlug": "vochtbestrijding-steenhout",
       "gemeente": "Aalst",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "sova-bouw",
       "bedrijfSlug": "sova-bouw",
       "gemeente": "Aalst",

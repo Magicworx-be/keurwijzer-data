@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Aquavent",
       "bedrijfSlug": "aquavent",
       "gemeente": "Brugge",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Pleisterwerken Dominique Verbeke - Nuova Linea",
       "bedrijfSlug": "pleisterwerken-dominique-verbeke-nuova-linea",
       "gemeente": "Brugge",

@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dibra Roof",
       "bedrijfSlug": "dibra-roof",
       "gemeente": "Vilvoorde",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Deladrier Toiture SRL-BV",
       "bedrijfSlug": "deladrier-toiture-srl-bv",
       "gemeente": "Grimbergen",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Le Fils",
       "bedrijfSlug": "le-fils",
       "gemeente": "Wemmel",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Daken Van Doren",
       "bedrijfSlug": "daken-van-doren",
       "gemeente": "Vilvoorde",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "GreZo constructions",
       "bedrijfSlug": "grezo-constructions",
       "gemeente": "Grimbergen",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dav Toiture",
       "bedrijfSlug": "dav-toiture",
       "gemeente": "Wemmel",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "JDM TOITURES",
       "bedrijfSlug": "jdm-toitures",
       "gemeente": "Vilvoorde",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Kijzer dakwerken",
       "bedrijfSlug": "kijzer-dakwerken",
       "gemeente": "Machelen",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "ML Building",
       "bedrijfSlug": "ml-building",
       "gemeente": "Machelen",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Home toiture",
       "bedrijfSlug": "home-toiture",
       "gemeente": "Zaventem",

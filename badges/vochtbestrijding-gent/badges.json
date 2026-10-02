@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Noaqua",
       "bedrijfSlug": "noaqua",
       "gemeente": "Evergem",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Vochtbestrijding Gent Aquavent - Kelderdichting - Vochtprobleem - Opstijgend Vocht - Kelderzwam",
       "bedrijfSlug": "vochtbestrijding-gent-aquavent-kelderdichting-vochtprobleem-opstijgend-vocht-kelderzwam",
       "gemeente": "Gent",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Murprotec - Vochtbestrijding",
       "bedrijfSlug": "murprotec-vochtbestrijding",
       "gemeente": "Gent",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "ADG de vochtspecialist | Vochtbestrijding | Oost-Vlaanderen",
       "bedrijfSlug": "adg-de-vochtspecialist-vochtbestrijding-oost-vlaanderen",
       "gemeente": "Merelbeke-Melle",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Solusio",
       "bedrijfSlug": "solusio",
       "gemeente": "Gent",

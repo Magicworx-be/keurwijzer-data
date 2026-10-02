@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "DAZ Construct",
       "bedrijfSlug": "daz-construct",
       "gemeente": "Scherpenheuvel-Zichem",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Verdeyen",
       "bedrijfSlug": "dakwerken-verdeyen",
       "gemeente": "Messelbroek",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Verschuere",
       "bedrijfSlug": "dakwerken-verschuere",
       "gemeente": "Rillaar",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Phv-works",
       "bedrijfSlug": "phv-works",
       "gemeente": "Kortenaken",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Haesevoets",
       "bedrijfSlug": "dakwerken-haesevoets",
       "gemeente": "Waanrode",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Jud Bouw b.v.b.a.",
       "bedrijfSlug": "jud-bouw-b-v-b-a",
       "gemeente": "Scherpenheuvel-Zichem",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "AMS Systems BVBA",
       "bedrijfSlug": "ams-systems-bvba",
       "gemeente": "Glabbeek",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "VATODAK Dakwerken Begijnendijk",
       "bedrijfSlug": "vatodak-dakwerken-begijnendijk",
       "gemeente": "Begijnendijk",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Pfaff",
       "bedrijfSlug": "dakwerken-pfaff",
       "gemeente": "Bekkevoort",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Sammy Mariën BVBA",
       "bedrijfSlug": "dakwerken-sammy-marien-bvba",
       "gemeente": "Begijnendijk",

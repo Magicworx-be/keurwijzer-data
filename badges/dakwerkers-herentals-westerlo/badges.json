@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Renisol Badkamers",
       "bedrijfSlug": "renisol-badkamers",
       "gemeente": "Herentals",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "KVL Dakwerken Bv",
       "bedrijfSlug": "kvl-dakwerken-bv",
       "gemeente": "Vorselaar",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Moorkens",
       "bedrijfSlug": "dakwerken-moorkens",
       "gemeente": "Vorselaar",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "HerVaàM Groep",
       "bedrijfSlug": "hervaam-groep",
       "gemeente": "Herentals",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Demessemaeker",
       "bedrijfSlug": "dakwerken-demessemaeker",
       "gemeente": "Herentals",

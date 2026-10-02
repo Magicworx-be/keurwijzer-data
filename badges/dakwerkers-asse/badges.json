@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken Godart",
       "bedrijfSlug": "dakwerken-godart",
       "gemeente": "Dilbeek",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dak & Klusgemak Gevaert | 24/7 Dakherstellingen",
       "bedrijfSlug": "dak-klusgemak-gevaert-24-7-dakherstellingen",
       "gemeente": "Londerzeel",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken-Vions BV",
       "bedrijfSlug": "dakwerken-vions-bv",
       "gemeente": "Londerzeel",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Wesley Philips Dakwerken",
       "bedrijfSlug": "wesley-philips-dakwerken",
       "gemeente": "Londerzeel",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "ISOPROJECTS bv",
       "bedrijfSlug": "isoprojects-bv",
       "gemeente": "Londerzeel",

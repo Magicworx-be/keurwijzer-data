@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Roof Service Company B.V.",
       "bedrijfSlug": "roof-service-company-b-v",
       "gemeente": "Antwerpen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "VDK Dakwerken",
       "bedrijfSlug": "vdk-dakwerken",
       "gemeente": "Antwerpen",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Van der Vorst",
       "bedrijfSlug": "dakwerken-van-der-vorst",
       "gemeente": "Antwerpen",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Kerobo",
       "bedrijfSlug": "kerobo",
       "gemeente": "Antwerpen",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "A12 Dakwerken",
       "bedrijfSlug": "a12-dakwerken",
       "gemeente": "Antwerpen",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Matrix Dakwerken Antwerpen bv",
       "bedrijfSlug": "matrix-dakwerken-antwerpen-bv",
       "gemeente": "Antwerpen",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "EdB Dakwerken",
       "bedrijfSlug": "edb-dakwerken",
       "gemeente": "Boechout",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dak en Bouw Spiessens",
       "bedrijfSlug": "dak-en-bouw-spiessens",
       "gemeente": "Mortsel",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Franks Dakwerken Antwerpen",
       "bedrijfSlug": "franks-dakwerken-antwerpen",
       "gemeente": "Antwerpen",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "RVO Construct",
       "bedrijfSlug": "rvo-construct",
       "gemeente": "Kontich",

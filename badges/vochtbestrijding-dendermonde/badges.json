@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Vochtfixers",
       "bedrijfSlug": "vochtfixers",
       "gemeente": "Wetteren",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "KVC operations",
       "bedrijfSlug": "kvc-operations",
       "gemeente": "Dendermonde",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "CREPISO \"CLEAN & PROTECT\" gevelreiniging en gevelrenovatie in Dendermonde",
       "bedrijfSlug": "crepiso-clean-protect-gevelreiniging-en-gevelrenovatie-in-dendermonde",
       "gemeente": "Dendermonde",

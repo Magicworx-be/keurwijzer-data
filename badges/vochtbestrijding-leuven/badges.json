@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Vocht Solutions",
       "bedrijfSlug": "vocht-solutions",
       "gemeente": "Leuven",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "SD Services B.V.",
       "bedrijfSlug": "sd-services-b-v",
       "gemeente": "Herent",

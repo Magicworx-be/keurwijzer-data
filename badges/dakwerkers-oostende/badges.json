@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Buitenschrijnwerk Vereecke Tobias BV",
       "bedrijfSlug": "buitenschrijnwerk-vereecke-tobias-bv",
       "gemeente": "Oudenburg",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "DGD",
       "bedrijfSlug": "dgd",
       "gemeente": "Oudenburg",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "dakwerken DOF",
       "bedrijfSlug": "dakwerken-dof",
       "gemeente": "Bredene",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dak-En Timmerwerken Bienstman",
       "bedrijfSlug": "dak-en-timmerwerken-bienstman",
       "gemeente": "Oostende",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "BV Kena Group",
       "bedrijfSlug": "bv-kena-group",
       "gemeente": "Oostende",

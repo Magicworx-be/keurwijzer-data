@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Aquaproved",
       "bedrijfSlug": "aquaproved",
       "gemeente": "Sint-Niklaas",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "DryProtect",
       "bedrijfSlug": "dryprotect",
       "gemeente": "Sint-Niklaas",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Vochtbestrijding Tibas bvba",
       "bedrijfSlug": "vochtbestrijding-tibas-bvba",
       "gemeente": "Zwijndrecht",

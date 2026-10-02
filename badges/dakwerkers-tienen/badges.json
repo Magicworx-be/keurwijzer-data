@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken Puyneers",
       "bedrijfSlug": "dakwerken-puyneers",
       "gemeente": "Tienen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "I&B Dakwerken",
       "bedrijfSlug": "i-b-dakwerken",
       "gemeente": "Lubbeek",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Goed Gedakt",
       "bedrijfSlug": "goed-gedakt",
       "gemeente": "Linter",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Brolin verhelst",
       "bedrijfSlug": "dakwerken-brolin-verhelst",
       "gemeente": "Geetbets",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Naets",
       "bedrijfSlug": "dakwerken-naets",
       "gemeente": "Lubbeek",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dak Hannes",
       "bedrijfSlug": "dak-hannes",
       "gemeente": "Lubbeek",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "RVZ Concept",
       "bedrijfSlug": "rvz-concept",
       "gemeente": "Tienen",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "T Dakdekkertje",
       "bedrijfSlug": "t-dakdekkertje",
       "gemeente": "Zoutleeuw",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakwerken Van Goethem & Nagels",
       "bedrijfSlug": "dakwerken-van-goethem-nagels",
       "gemeente": "Lubbeek",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Crabbe Dakwerken",
       "bedrijfSlug": "crabbe-dakwerken",
       "gemeente": "Zoutleeuw",

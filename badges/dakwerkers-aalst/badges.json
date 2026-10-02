@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Dakwerken Elite Bouwteam",
       "bedrijfSlug": "dakwerken-elite-bouwteam",
       "gemeente": "Aalst",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "BV Dakwerken Van den Driessche - Dakwerken Aalst",
       "bedrijfSlug": "bv-dakwerken-van-den-driessche-dakwerken-aalst",
       "gemeente": "Aalst",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dakwerken Cieters",
       "bedrijfSlug": "dakwerken-cieters",
       "gemeente": "Geraardsbergen",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Ribeiro Dakwerken",
       "bedrijfSlug": "ribeiro-dakwerken",
       "gemeente": "Ninove",
@@ -47,6 +51,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Dakwerken Matthieu Baertsoen",
       "bedrijfSlug": "dakwerken-matthieu-baertsoen",
       "gemeente": "Geraardsbergen",
@@ -56,6 +61,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "GCS Epdm Bv",
       "bedrijfSlug": "gcs-epdm-bv",
       "gemeente": "Geraardsbergen",
@@ -65,6 +71,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "DWG Projects specialist platte daken",
       "bedrijfSlug": "dwg-projects-specialist-platte-daken",
       "gemeente": "Ninove",
@@ -74,6 +81,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Sneldak",
       "bedrijfSlug": "sneldak",
       "gemeente": "Herzele",
@@ -83,6 +91,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dakdekker Dossche",
       "bedrijfSlug": "dakdekker-dossche",
       "gemeente": "Zottegem",
@@ -92,6 +101,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
+      "soort": "rang",
       "naam": "DakDender - De Vulder",
       "bedrijfSlug": "dakdender-de-vulder",
       "gemeente": "Ninove",

@@ -11,6 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
+      "soort": "rang",
       "naam": "Totalfix Vochtbestrijding",
       "bedrijfSlug": "totalfix-vochtbestrijding",
       "gemeente": "Mechelen",
@@ -20,6 +21,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Dry Plan | Vochtbestrijding, kelderdichting, opstijgend vocht, condensatie en waterschotten",
       "bedrijfSlug": "dry-plan-vochtbestrijding-kelderdichting-opstijgend-vocht-condensatie-en-waterschotten",
       "gemeente": "Mechelen",
@@ -29,6 +31,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
+      "soort": "rang",
       "naam": "Aqua Protect: jouw specialist in vochtbestrijding",
       "bedrijfSlug": "aqua-protect-jouw-specialist-in-vochtbestrijding",
       "gemeente": "Mechelen",
@@ -38,6 +41,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
+      "soort": "rang",
       "naam": "Wauters Renovatiewerken & De Vochtfabriek",
       "bedrijfSlug": "wauters-renovatiewerken-de-vochtfabriek",
       "gemeente": "Putte",
