@@ -78,6 +78,17 @@
       "rang": 7,
       "tier": "Top 10",
       "soort": "rang",
+      "naam": "Haesen Pierre Dakwerken",
+      "weergave": "Haesen Pierre Dakwerken",
+      "bedrijfSlug": "haesen-pierre-dakwerken",
+      "gemeente": "Riemst",
+      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/haesen-pierre-dakwerken--donker.png",
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/haesen-pierre-dakwerken--licht.png"
+    },
+    {
+      "rang": 8,
+      "tier": "Top 10",
+      "soort": "rang",
       "naam": "Dak-service",
       "weergave": "Dak-service",
       "bedrijfSlug": "dak-service",
@@ -86,7 +97,7 @@
       "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dak-service--licht.png"
     },
     {
-      "rang": 8,
+      "rang": 9,
       "tier": "Top 10",
       "soort": "rang",
       "naam": "Dakwerken Schuermans Bvba",
@@ -97,7 +108,7 @@
       "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-schuermans-bvba--licht.png"
     },
     {
-      "rang": 9,
+      "rang": 10,
       "tier": "Top 10",
       "soort": "rang",
       "naam": "Dakwerken Mertens",
@@ -106,17 +117,6 @@
       "gemeente": "Sint-Truiden",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-mertens--donker.png",
       "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/dakwerken-mertens--licht.png"
-    },
-    {
-      "rang": 10,
-      "tier": "Top 10",
-      "soort": "rang",
-      "naam": "JR Dakconstruct",
-      "weergave": "JR Dakconstruct",
-      "bedrijfSlug": "jr-dakconstruct",
-      "gemeente": "Wellen",
-      "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/jr-dakconstruct--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-sint-truiden-tongeren/jr-dakconstruct--licht.png"
     }
   ]
 }
