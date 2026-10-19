@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VAJO Dak & Schrijnwerk BVBA",
       "weergave": "VAJO Dak & Schrijnwerk BVBA",
       "bedrijfSlug": "vajo-dak-schrijnwerk-bvba",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Jeroen Maesen",
       "weergave": "Jeroen Maesen",
       "bedrijfSlug": "jeroen-maesen",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Vanderhallen",
       "weergave": "Dakwerken Vanderhallen",
       "bedrijfSlug": "dakwerken-vanderhallen",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Delva",
       "weergave": "Dakwerken Delva",
       "bedrijfSlug": "dakwerken-delva",

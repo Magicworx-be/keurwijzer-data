@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dibra Roof",
       "weergave": "Dibra Roof",
       "bedrijfSlug": "dibra-roof",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Deladrier Toiture SRL-BV",
       "weergave": "Deladrier Toiture SRL-BV",
       "bedrijfSlug": "deladrier-toiture-srl-bv",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Daken Van Doren",
       "weergave": "Daken Van Doren",
       "bedrijfSlug": "daken-van-doren",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "GreZo constructions",
       "weergave": "GreZo constructions",
       "bedrijfSlug": "grezo-constructions",
@@ -110,7 +110,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Home toiture",
       "weergave": "Home toiture",
       "bedrijfSlug": "home-toiture",

@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "a&m Projects bv",
       "weergave": "a&m Projects bv",
       "bedrijfSlug": "a-m-projects-bv",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Ecoroofs",
       "weergave": "Ecoroofs",
       "bedrijfSlug": "ecoroofs",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Janssens Daniel Dakwerken",
       "weergave": "Janssens Daniel Dakwerken",
       "bedrijfSlug": "janssens-daniel-dakwerken",
@@ -77,7 +77,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Haesen Pierre Dakwerken",
       "weergave": "Haesen Pierre Dakwerken",
       "bedrijfSlug": "haesen-pierre-dakwerken",

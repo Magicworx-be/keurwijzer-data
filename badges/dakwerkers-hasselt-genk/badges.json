@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "HWK Dakwerken",
       "weergave": "HWK Dakwerken",
       "bedrijfSlug": "hwk-dakwerken",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakenmeesters",
       "weergave": "Dakenmeesters",
       "bedrijfSlug": "dakenmeesters",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "De Dakman",
       "weergave": "De Dakman",
       "bedrijfSlug": "de-dakman",

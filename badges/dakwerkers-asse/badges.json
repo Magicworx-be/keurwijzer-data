@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Godart",
       "weergave": "Dakwerken Godart",
       "bedrijfSlug": "dakwerken-godart",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dak & Klusgemak Gevaert | 24/7 Dakherstellingen",
       "weergave": "Dak & Klusgemak Gevaert",
       "bedrijfSlug": "dak-klusgemak-gevaert-24-7-dakherstellingen",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken-Vions BV",
       "weergave": "Dakwerken-Vions BV",
       "bedrijfSlug": "dakwerken-vions-bv",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ISOPROJECTS bv",
       "weergave": "ISOPROJECTS bv",
       "bedrijfSlug": "isoprojects-bv",

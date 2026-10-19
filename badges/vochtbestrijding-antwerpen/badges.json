@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "MRklusser",
       "weergave": "MRklusser",
       "bedrijfSlug": "mrklusser",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Aquavent",
       "weergave": "Aquavent",
       "bedrijfSlug": "aquavent",

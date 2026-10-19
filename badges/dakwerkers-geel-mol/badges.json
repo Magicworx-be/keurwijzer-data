@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VDW Dakwerken",
       "weergave": "VDW Dakwerken",
       "bedrijfSlug": "vdw-dakwerken",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Cedric Sels Dakwerken",
       "weergave": "Cedric Sels Dakwerken",
       "bedrijfSlug": "cedric-sels-dakwerken",

@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Easyfix dakwerken",
       "weergave": "Easyfix dakwerken",
       "bedrijfSlug": "easyfix-dakwerken",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken MDS",
       "weergave": "Dakwerken MDS",
       "bedrijfSlug": "dakwerken-mds",
@@ -110,7 +110,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Toitures Bastien Delleuse sprl",
       "weergave": "Toitures Bastien Delleuse sprl",
       "bedrijfSlug": "toitures-bastien-delleuse-sprl",

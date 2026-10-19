@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "KVC operations",
       "weergave": "KVC operations",
       "bedrijfSlug": "kvc-operations",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "CREPISO \"CLEAN & PROTECT\" gevelreiniging en gevelrenovatie in Dendermonde",
       "weergave": "CREPISO \"CLEAN & PROTECT\" gevelreiniging en gevelrenovatie in Dendermonde",
       "bedrijfSlug": "crepiso-clean-protect-gevelreiniging-en-gevelrenovatie-in-dendermonde",

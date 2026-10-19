@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "MSM-group",
       "weergave": "MSM-group",
       "bedrijfSlug": "msm-group",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken-cristian",
       "weergave": "Dakwerken-cristian",
       "bedrijfSlug": "dakwerken-cristian",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "A-M-I Toiture & Façades – Uw Dak, Onze Expertise!",
       "weergave": "A-M-I Toiture & Façades",
       "bedrijfSlug": "a-m-i-toiture-facades-uw-dak-onze-expertise",

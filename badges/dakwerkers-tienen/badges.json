@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Puyneers",
       "weergave": "Dakwerken Puyneers",
       "bedrijfSlug": "dakwerken-puyneers",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Brolin verhelst",
       "weergave": "Dakwerken Brolin verhelst",
       "bedrijfSlug": "dakwerken-brolin-verhelst",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Naets",
       "weergave": "Dakwerken Naets",
       "bedrijfSlug": "dakwerken-naets",

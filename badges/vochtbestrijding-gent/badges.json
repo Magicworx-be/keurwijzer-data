@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Noaqua",
       "weergave": "Noaqua",
       "bedrijfSlug": "noaqua",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vochtbestrijding Gent Aquavent - Kelderdichting - Vochtprobleem - Opstijgend Vocht - Kelderzwam",
       "weergave": "Aquavent",
       "bedrijfSlug": "vochtbestrijding-gent-aquavent-kelderdichting-vochtprobleem-opstijgend-vocht-kelderzwam",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Murprotec - Vochtbestrijding",
       "weergave": "Murprotec",
       "bedrijfSlug": "murprotec-vochtbestrijding",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ADG de vochtspecialist | Vochtbestrijding | Oost-Vlaanderen",
       "weergave": "ADG de vochtspecialist",
       "bedrijfSlug": "adg-de-vochtspecialist-vochtbestrijding-oost-vlaanderen",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Solusio",
       "weergave": "Solusio",
       "bedrijfSlug": "solusio",

@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "FTJ - Van der Linden BV",
       "weergave": "FTJ - Van der Linden BV",
       "bedrijfSlug": "ftj-van-der-linden-bv",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Cristian Bv",
       "weergave": "Dakwerken Cristian Bv",
       "bedrijfSlug": "dakwerken-cristian-bv",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken RDG",
       "weergave": "Dakwerken RDG",
       "bedrijfSlug": "dakwerken-rdg",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Roozenburg Daken & Dakkapellen",
       "weergave": "Roozenburg Daken & Dakkapellen",
       "bedrijfSlug": "roozenburg-daken-dakkapellen",

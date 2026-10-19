@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Verschuere",
       "weergave": "Dakwerken Verschuere",
       "bedrijfSlug": "dakwerken-verschuere",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Phv-works",
       "weergave": "Phv-works",
       "bedrijfSlug": "phv-works",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Haesevoets",
       "weergave": "Dakwerken Haesevoets",
       "bedrijfSlug": "dakwerken-haesevoets",

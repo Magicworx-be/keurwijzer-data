@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ASA Dakwerken",
       "weergave": "ASA Dakwerken",
       "bedrijfSlug": "asa-dakwerken",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakxs BV",
       "weergave": "Dakxs BV",
       "bedrijfSlug": "dakxs-bv",
@@ -77,7 +77,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Gijsbert de Wit",
       "weergave": "Dakwerken Gijsbert de Wit",
       "bedrijfSlug": "dakwerken-gijsbert-de-wit",

@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Renisol Badkamers",
       "weergave": "Renisol Badkamers",
       "bedrijfSlug": "renisol-badkamers",
@@ -22,7 +22,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "KVL Dakwerken Bv",
       "weergave": "KVL Dakwerken Bv",
       "bedrijfSlug": "kvl-dakwerken-bv",
@@ -33,7 +33,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Moorkens",
       "weergave": "Dakwerken Moorkens",
       "bedrijfSlug": "dakwerken-moorkens",
@@ -44,7 +44,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "HerVaàM Groep",
       "weergave": "HerVaàM Groep",
       "bedrijfSlug": "hervaam-groep",
@@ -55,7 +55,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Demessemaeker",
       "weergave": "Dakwerken Demessemaeker",
       "bedrijfSlug": "dakwerken-demessemaeker",
