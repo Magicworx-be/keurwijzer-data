@@ -17,7 +17,8 @@
       "bedrijfSlug": "dakwerken-elite-bouwteam",
       "gemeente": "Aalst",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-elite-bouwteam--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-elite-bouwteam--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-elite-bouwteam--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-elite-bouwteam-aalst/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "bv-dakwerken-van-den-driessche-dakwerken-aalst",
       "gemeente": "Aalst",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/bv-dakwerken-van-den-driessche-dakwerken-aalst--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/bv-dakwerken-van-den-driessche-dakwerken-aalst--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/bv-dakwerken-van-den-driessche-dakwerken-aalst--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-bv-dakwerken-van-den-driessche-aalst/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "dakwerken-cieters",
       "gemeente": "Geraardsbergen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-cieters--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-cieters--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-cieters--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-cieters-geraardsbergen/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "ribeiro-dakwerken",
       "gemeente": "Ninove",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/ribeiro-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/ribeiro-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/ribeiro-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-ribeiro-dakwerken-ninove/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "dakwerken-matthieu-baertsoen",
       "gemeente": "Geraardsbergen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-matthieu-baertsoen--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-matthieu-baertsoen--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakwerken-matthieu-baertsoen--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-matthieu-baertsoen-geraardsbergen/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "gcs-epdm-bv",
       "gemeente": "Geraardsbergen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/gcs-epdm-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/gcs-epdm-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/gcs-epdm-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-gcs-epdm-bv-geraardsbergen/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "dwg-projects-specialist-platte-daken",
       "gemeente": "Ninove",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dwg-projects-specialist-platte-daken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dwg-projects-specialist-platte-daken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dwg-projects-specialist-platte-daken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dwg-projects-specialist-platte-daken-ninove/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "sneldak",
       "gemeente": "Herzele",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/sneldak--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/sneldak--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/sneldak--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-sneldak-herzele/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "dakdekker-dossche",
       "gemeente": "Zottegem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdekker-dossche--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdekker-dossche--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdekker-dossche--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakdekker-dossche-zottegem/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "dakdender-de-vulder",
       "gemeente": "Ninove",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdender-de-vulder--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdender-de-vulder--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-aalst/dakdender-de-vulder--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakdender-de-vulder-ninove/"
     }
   ]
 }
