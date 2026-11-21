@@ -17,7 +17,8 @@
       "bedrijfSlug": "grembergse-dakwerken-van-walsem",
       "gemeente": "Dendermonde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/grembergse-dakwerken-van-walsem--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/grembergse-dakwerken-van-walsem--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/grembergse-dakwerken-van-walsem--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-grembergse-dakwerken-van-walsem-dendermonde/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakalex-bvba",
       "gemeente": "Waasmunster",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakalex-bvba--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakalex-bvba--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakalex-bvba--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakalex-bvba-waasmunster/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "optek-dak-en-bouwwerken",
       "gemeente": "Opwijk",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/optek-dak-en-bouwwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/optek-dak-en-bouwwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/optek-dak-en-bouwwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-optek-opwijk/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-sd-projects",
       "gemeente": "Berlare",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-sd-projects--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-sd-projects--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-sd-projects--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-sd-projects-berlare/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "drt-dakwerken-bv",
       "gemeente": "Wichelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/drt-dakwerken-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/drt-dakwerken-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/drt-dakwerken-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-drt-dakwerken-bv-wichelen/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "gery-van-esbroeck",
       "gemeente": "Hamme",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/gery-van-esbroeck--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/gery-van-esbroeck--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/gery-van-esbroeck--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-gery-van-esbroeck-hamme/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "dakwerken-hofman-bvba",
       "gemeente": "Zele",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-hofman-bvba--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-hofman-bvba--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-hofman-bvba--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-hofman-bvba-zele/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "algemene-dak-schrijnwerken-mb-construction-bv",
       "gemeente": "Berlare",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/algemene-dak-schrijnwerken-mb-construction-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/algemene-dak-schrijnwerken-mb-construction-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/algemene-dak-schrijnwerken-mb-construction-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-algemene-dak-en-schrijnwerken-mb-construction-bv-berlare/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "eko-huis",
       "gemeente": "Dendermonde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/eko-huis--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/eko-huis--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/eko-huis--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-eko-huis-dendermonde/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "dakwerken-ydm",
       "gemeente": "Dendermonde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-ydm--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-ydm--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-dendermonde/dakwerken-ydm--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-ydm-dendermonde/"
     }
   ]
 }

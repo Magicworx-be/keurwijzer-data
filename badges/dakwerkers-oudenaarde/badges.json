@@ -17,7 +17,8 @@
       "bedrijfSlug": "matthys-projecten",
       "gemeente": "Kruishoutem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/matthys-projecten--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/matthys-projecten--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/matthys-projecten--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-matthys-projecten-kruishoutem/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakwerken-devlin",
       "gemeente": "Lierde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-devlin--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-devlin--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-devlin--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-devlin-lierde/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "joeri-vyverman-dak-en-schrijnwerken",
       "gemeente": "Lierde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/joeri-vyverman-dak-en-schrijnwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/joeri-vyverman-dak-en-schrijnwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/joeri-vyverman-dak-en-schrijnwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-joeri-vyverman-lierde/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-gebroeders-de-vos",
       "gemeente": "Oudenaarde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-gebroeders-de-vos--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-gebroeders-de-vos--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-gebroeders-de-vos--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-gebroeders-de-vos-oudenaarde/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "dakwerken-van-brussel",
       "gemeente": "Gavere",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-van-brussel--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-van-brussel--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-van-brussel--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-van-brussel-gavere/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "rousseau-toitures",
       "gemeente": "Ronse",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/rousseau-toitures--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/rousseau-toitures--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/rousseau-toitures--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-rousseau-toitures-ronse/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "lusadak",
       "gemeente": "Ronse",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/lusadak--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/lusadak--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/lusadak--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-lusadak-ronse/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "dakwerken-verschueren-oudenaarde",
       "gemeente": "Oudenaarde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-verschueren-oudenaarde--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-verschueren-oudenaarde--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/dakwerken-verschueren-oudenaarde--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-verschueren-oudenaarde/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "group-nachtergaele",
       "gemeente": "Ronse",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/group-nachtergaele--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/group-nachtergaele--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/group-nachtergaele--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-group-nachtergaele-ronse/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "coverto",
       "gemeente": "Kruisem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/coverto--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/coverto--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oudenaarde/coverto--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-coverto-kruisem/"
     }
   ]
 }
