@@ -17,7 +17,8 @@
       "bedrijfSlug": "zink-en-dakwerken-verhaeghe-bv",
       "gemeente": "Ieper",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/zink-en-dakwerken-verhaeghe-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/zink-en-dakwerken-verhaeghe-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/zink-en-dakwerken-verhaeghe-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-zink-en-dakwerken-verhaeghe-bv-ieper/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakwerken-epdm-construct-bv",
       "gemeente": "Ieper",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-epdm-construct-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-epdm-construct-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-epdm-construct-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-epdm-construct-bv-ieper-dakwerkers/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "vanrobaeys-panels",
       "gemeente": "Poperinge",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/vanrobaeys-panels--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/vanrobaeys-panels--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/vanrobaeys-panels--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vanrobaeys-panels-poperinge/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-descamps",
       "gemeente": "Wervik",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-descamps--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-descamps--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-ieper/dakwerken-descamps--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-descamps-wervik/"
     }
   ]
 }

@@ -17,7 +17,8 @@
       "bedrijfSlug": "easyfix-dakwerken",
       "gemeente": "Roosdaal",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/easyfix-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/easyfix-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/easyfix-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-easyfix-dakwerken-roosdaal/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken",
       "gemeente": "Pajottegem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-d-reno-pajottegem/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "dakwerken-van-driessche-hellende-daken-isolatie-sidings",
       "gemeente": "Sint-Pieters-Leeuw",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-van-driessche-hellende-daken-isolatie-sidings--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-van-driessche-hellende-daken-isolatie-sidings--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-van-driessche-hellende-daken-isolatie-sidings--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-van-driessche-sint-pieters-leeuw-dakwerkers/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-mds",
       "gemeente": "Sint-Pieters-Leeuw",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-mds--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-mds--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-mds--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-mds-sint-pieters-leeuw/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "dakwerken-lfn-toiture-lfn",
       "gemeente": "Pepingen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-lfn-toiture-lfn--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-lfn-toiture-lfn--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-lfn-toiture-lfn--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-lfn-toiture-lfn-pepingen/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "toitures-jullien-dakwerken",
       "gemeente": "Beersel",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-jullien-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-jullien-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-jullien-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-toitures-jullien-dakwerken-beersel/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "bas-dakwerken-toitures",
       "gemeente": "Pajottegem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/bas-dakwerken-toitures--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/bas-dakwerken-toitures--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/bas-dakwerken-toitures--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-bas-dakwerken-pajottegem/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "entreprise-lievens-srl",
       "gemeente": "Sint-Pieters-Leeuw",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/entreprise-lievens-srl--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/entreprise-lievens-srl--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/entreprise-lievens-srl--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-entreprise-lievens-srl-sint-pieters-leeuw/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "dakwerken-vcs-de-gieter",
       "gemeente": "Pajottegem",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-vcs-de-gieter--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-vcs-de-gieter--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/dakwerken-vcs-de-gieter--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-vcs-de-gieter-pajottegem/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "toitures-bastien-delleuse-sprl",
       "gemeente": "Beersel",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-bastien-delleuse-sprl--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-bastien-delleuse-sprl--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-halle/toitures-bastien-delleuse-sprl--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-toitures-bastien-delleuse-sprl-beersel/"
     }
   ]
 }

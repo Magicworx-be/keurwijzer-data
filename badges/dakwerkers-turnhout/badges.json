@@ -17,7 +17,8 @@
       "bedrijfSlug": "ftj-van-der-linden-bv",
       "gemeente": "Hoogstraten",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/ftj-van-der-linden-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/ftj-van-der-linden-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/ftj-van-der-linden-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-ftj-van-der-linden-bv-hoogstraten/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakwerken-cristian-bv",
       "gemeente": "Rijkevorsel",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-cristian-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-cristian-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-cristian-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-cristian-bv-rijkevorsel/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "dakwerken-rdg",
       "gemeente": "Turnhout",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-rdg--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-rdg--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/dakwerken-rdg--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-rdg-turnhout/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "teodakwerken",
       "gemeente": "Turnhout",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/teodakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/teodakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/teodakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-teodakwerken-turnhout/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "roozenburg-daken-dakkapellen",
       "gemeente": "Rijkevorsel",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/roozenburg-daken-dakkapellen--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/roozenburg-daken-dakkapellen--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/roozenburg-daken-dakkapellen--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-roozenburg-daken-en-dakkapellen-rijkevorsel/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "raw-algemene-dakwerken",
       "gemeente": "Turnhout",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/raw-algemene-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/raw-algemene-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/raw-algemene-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-raw-algemene-dakwerken-turnhout/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "gilles-totaalbouw",
       "gemeente": "Ravels",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/gilles-totaalbouw--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/gilles-totaalbouw--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/gilles-totaalbouw--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-gilles-totaalbouw-ravels/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "hartdak",
       "gemeente": "Hoogstraten",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/hartdak--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/hartdak--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/hartdak--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-hartdak-hoogstraten/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken",
       "gemeente": "Hoogstraten",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-john-vermetten-bv-hoogstraten/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "sbs-pro-dak-en-schrijnwerken",
       "gemeente": "Arendonk",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/sbs-pro-dak-en-schrijnwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/sbs-pro-dak-en-schrijnwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-turnhout/sbs-pro-dak-en-schrijnwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-sbs-pro-dak-en-schrijnwerken-arendonk/"
     }
   ]
 }

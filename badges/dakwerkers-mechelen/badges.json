@@ -17,7 +17,8 @@
       "bedrijfSlug": "dafridak-bvba",
       "gemeente": "Putte",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dafridak-bvba--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dafridak-bvba--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dafridak-bvba--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dafridak-bvba-putte/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakwerken-verstrepen-bv",
       "gemeente": "Willebroek",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-verstrepen-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-verstrepen-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-verstrepen-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-verstrepen-bv-willebroek/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding",
       "gemeente": "Sint-Katelijne-Waver",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-kar-mi-bv-sint-katelijne-waver/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-stoffels-bv",
       "gemeente": "Sint-Katelijne-Waver",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-stoffels-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-stoffels-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-stoffels-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-stoffels-bv-sint-katelijne-waver/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "goris-timmer-en-dakwerken",
       "gemeente": "Sint-Katelijne-Waver",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/goris-timmer-en-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/goris-timmer-en-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/goris-timmer-en-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-goris-timmer-en-dakwerken-sint-katelijne-waver/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "schrijnwerken-leus",
       "gemeente": "Nijlen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/schrijnwerken-leus--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/schrijnwerken-leus--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/schrijnwerken-leus--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-schrijnwerken-leus-nijlen/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "dakwerken-cpd-bv",
       "gemeente": "Mechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-cpd-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-cpd-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-cpd-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-cpd-bv-mechelen/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "benogroup",
       "gemeente": "Mechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/benogroup--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/benogroup--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/benogroup--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-benogroup-mechelen/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "dakwerken-david-en-zoon",
       "gemeente": "Sint-Katelijne-Waver",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-david-en-zoon--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-david-en-zoon--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dakwerken-david-en-zoon--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-david-en-zoon-sint-katelijne-waver/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "dak-en-gevelwerken-noah",
       "gemeente": "Mechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dak-en-gevelwerken-noah--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dak-en-gevelwerken-noah--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-mechelen/dak-en-gevelwerken-noah--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dak-en-gevelwerken-noah-mechelen/"
     }
   ]
 }

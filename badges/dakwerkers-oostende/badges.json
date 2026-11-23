@@ -17,7 +17,8 @@
       "bedrijfSlug": "buitenschrijnwerk-vereecke-tobias-bv",
       "gemeente": "Oudenburg",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/buitenschrijnwerk-vereecke-tobias-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/buitenschrijnwerk-vereecke-tobias-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/buitenschrijnwerk-vereecke-tobias-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-buitenschrijnwerk-vereecke-tobias-bv-oudenburg/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dgd",
       "gemeente": "Oudenburg",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dgd--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dgd--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dgd--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dgd-oudenburg/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "dakwerken-dof",
       "gemeente": "Bredene",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dakwerken-dof--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dakwerken-dof--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dakwerken-dof--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-dof-bredene/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dak-en-timmerwerken-bienstman",
       "gemeente": "Oostende",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dak-en-timmerwerken-bienstman--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dak-en-timmerwerken-bienstman--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/dak-en-timmerwerken-bienstman--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dak-en-timmerwerken-bienstman-oostende/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "bv-kena-group",
       "gemeente": "Oostende",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/bv-kena-group--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/bv-kena-group--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-oostende/bv-kena-group--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-bv-kena-group-oostende/"
     }
   ]
 }

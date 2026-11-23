@@ -17,7 +17,8 @@
       "bedrijfSlug": "hwk-dakwerken",
       "gemeente": "Kuringen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/hwk-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/hwk-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/hwk-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-hwk-dakwerken-kuringen/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "dakenmeesters",
       "gemeente": "Hasselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/dakenmeesters--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/dakenmeesters--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/dakenmeesters--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakenmeesters-hasselt/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "steegmans-construct",
       "gemeente": "Diepenbeek",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/steegmans-construct--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/steegmans-construct--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/steegmans-construct--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-steegmans-construct-diepenbeek/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "de-dakman",
       "gemeente": "Guigoven",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/de-dakman--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/de-dakman--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/de-dakman--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-de-dakman-guigoven/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "az-dakwerken",
       "gemeente": "Hasselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/az-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/az-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/az-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-az-dakwerken-hasselt/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "cd-dak",
       "gemeente": "Genk",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/cd-dak--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/cd-dak--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/cd-dak--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-cd-dak-genk/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "thomas-dimitri-dakwerken",
       "gemeente": "Herk-de-Stad",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/thomas-dimitri-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/thomas-dimitri-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/thomas-dimitri-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-thomas-dimitri-dakwerken-herk-de-stad/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "class-dakwerken",
       "gemeente": "Hasselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/class-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/class-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/class-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-class-dakwerken-hasselt/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "limburgse-industriele-dakwerken",
       "gemeente": "Herk-de-Stad",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/limburgse-industriele-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/limburgse-industriele-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/limburgse-industriele-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-limburgse-industriele-dakwerken-herk-de-stad/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "daklift",
       "gemeente": "As",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/daklift--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/daklift--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-hasselt-genk/daklift--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-daklift-as/"
     }
   ]
 }

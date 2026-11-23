@@ -17,7 +17,8 @@
       "bedrijfSlug": "vajo-dak-schrijnwerk-bvba",
       "gemeente": "Maasmechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vajo-dak-schrijnwerk-bvba--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vajo-dak-schrijnwerk-bvba--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vajo-dak-schrijnwerk-bvba--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vajo-dak-en-schrijnwerk-bvba-maasmechelen/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "jeroen-maesen",
       "gemeente": "Lanaken",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/jeroen-maesen--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/jeroen-maesen--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/jeroen-maesen--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-jeroen-maesen-lanaken-dakwerkers/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "dakwerken-vanderhallen",
       "gemeente": "Maasmechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-vanderhallen--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-vanderhallen--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-vanderhallen--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-vanderhallen-maasmechelen/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "dakwerken-delva",
       "gemeente": "Bilzen-Hoeselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-delva--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-delva--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-delva--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-delva-bilzen-hoeselt/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "dakwerken-lenaers",
       "gemeente": "Bilzen-Hoeselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-lenaers--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-lenaers--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-lenaers--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-lenaers-bilzen-hoeselt/"
     },
     {
       "rang": 6,
@@ -72,7 +77,8 @@
       "bedrijfSlug": "dakwerken-noterman",
       "gemeente": "Bilzen-Hoeselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-noterman--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-noterman--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/dakwerken-noterman--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-dakwerken-noterman-bilzen-hoeselt/"
     },
     {
       "rang": 7,
@@ -83,7 +89,8 @@
       "bedrijfSlug": "roof-fix",
       "gemeente": "Maasmechelen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/roof-fix--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/roof-fix--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/roof-fix--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-roof-fix-maasmechelen/"
     },
     {
       "rang": 8,
@@ -94,7 +101,8 @@
       "bedrijfSlug": "topdak-construct",
       "gemeente": "Bree",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/topdak-construct--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/topdak-construct--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/topdak-construct--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-topdak-construct-bree/"
     },
     {
       "rang": 9,
@@ -105,7 +113,8 @@
       "bedrijfSlug": "gmc-dakwerken",
       "gemeente": "Bilzen-Hoeselt",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/gmc-dakwerken--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/gmc-dakwerken--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/gmc-dakwerken--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-gmc-dakwerken-bilzen-hoeselt/"
     },
     {
       "rang": 10,
@@ -116,7 +125,8 @@
       "bedrijfSlug": "vanhoef-joris-dakwerken-bv",
       "gemeente": "Maaseik",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vanhoef-joris-dakwerken-bv--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vanhoef-joris-dakwerken-bv--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/dakwerkers-maasland/vanhoef-joris-dakwerken-bv--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vanhoef-joris-dakwerken-bv-maaseik/"
     }
   ]
 }
