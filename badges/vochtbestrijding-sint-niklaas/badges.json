@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Aquaproved",
       "weergave": "Aquaproved",
       "bedrijfSlug": "aquaproved",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DryProtect",
       "weergave": "DryProtect",
       "bedrijfSlug": "dryprotect",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vochtbestrijding Tibas bvba",
       "weergave": "Vochtbestrijding Tibas BVBA",
       "bedrijfSlug": "vochtbestrijding-tibas-bvba",
