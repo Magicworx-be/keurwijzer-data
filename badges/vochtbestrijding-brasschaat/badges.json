@@ -17,7 +17,8 @@
       "bedrijfSlug": "de-geveldokter-nr1-gevelwerken-vochtbestrijding",
       "gemeente": "Schilde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/de-geveldokter-nr1-gevelwerken-vochtbestrijding--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/de-geveldokter-nr1-gevelwerken-vochtbestrijding--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/de-geveldokter-nr1-gevelwerken-vochtbestrijding--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-de-geveldokter-schilde-vochtbestrijding/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "opstijgend-vocht-probleem-dry-it",
       "gemeente": "Wuustwezel",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/opstijgend-vocht-probleem-dry-it--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/opstijgend-vocht-probleem-dry-it--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/opstijgend-vocht-probleem-dry-it--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-opstijgend-vocht-probleem-dry-it-wuustwezel/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "aquaconsult-vochtbestrijding-en-kelderdichting",
       "gemeente": "Schilde",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/aquaconsult-vochtbestrijding-en-kelderdichting--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/aquaconsult-vochtbestrijding-en-kelderdichting--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/aquaconsult-vochtbestrijding-en-kelderdichting--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-aquaconsult-vochtbestrijding-en-kelderdichting-schilde/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "bodima",
       "gemeente": "Zandhoven",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/bodima--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/bodima--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-brasschaat/bodima--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-bodima-zandhoven/"
     }
   ]
 }

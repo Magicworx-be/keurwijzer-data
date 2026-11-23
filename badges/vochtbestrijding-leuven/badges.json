@@ -17,7 +17,8 @@
       "bedrijfSlug": "vocht-solutions",
       "gemeente": "Leuven",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/vocht-solutions--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/vocht-solutions--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/vocht-solutions--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vocht-solutions-leuven/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "sd-services-b-v",
       "gemeente": "Herent",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/sd-services-b-v--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/sd-services-b-v--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-leuven/sd-services-b-v--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-sd-services-b-v-herent/"
     }
   ]
 }

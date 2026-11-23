@@ -17,7 +17,8 @@
       "bedrijfSlug": "mrklusser",
       "gemeente": "Antwerpen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/mrklusser--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/mrklusser--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/mrklusser--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-mrklusser-antwerpen/"
     },
     {
       "rang": 2,
@@ -28,7 +29,8 @@
       "bedrijfSlug": "vqa-vochtbestrijding",
       "gemeente": "Rumst",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vqa-vochtbestrijding--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vqa-vochtbestrijding--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vqa-vochtbestrijding--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vqa-vochtbestrijding-rumst/"
     },
     {
       "rang": 3,
@@ -39,7 +41,8 @@
       "bedrijfSlug": "aquavent",
       "gemeente": "Antwerpen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/aquavent--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/aquavent--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/aquavent--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-aquavent-antwerpen/"
     },
     {
       "rang": 4,
@@ -50,7 +53,8 @@
       "bedrijfSlug": "vernast",
       "gemeente": "Antwerpen",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vernast--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vernast--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/vernast--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-vernast-antwerpen/"
     },
     {
       "rang": 5,
@@ -61,7 +65,8 @@
       "bedrijfSlug": "kb-vochtbestrijding",
       "gemeente": "Rumst",
       "badgeDonker": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/kb-vochtbestrijding--donker.png",
-      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/kb-vochtbestrijding--licht.png"
+      "badgeLicht": "https://cdn.jsdelivr.net/gh/Magicworx-be/keurwijzer-data/badges/vochtbestrijding-antwerpen/kb-vochtbestrijding--licht.png",
+      "landingsUrl": "https://keurwijzer.be/reviews-kb-vochtbestrijding-rumst/"
     }
   ]
 }
