@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Maenhaut",
       "weergave": "Dakwerken Maenhaut",
       "bedrijfSlug": "dakwerken-maenhaut",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Schiettecatte bv",
       "weergave": "Dakwerken Schiettecatte BV",
       "bedrijfSlug": "dakwerken-schiettecatte-bv",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Fortura",
       "weergave": "Fortura",
       "bedrijfSlug": "fortura",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Elewaut",
       "weergave": "Dakwerken Elewaut",
       "bedrijfSlug": "dakwerken-elewaut",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Top-Bouw",
       "weergave": "Top-Bouw",
       "bedrijfSlug": "top-bouw",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakinvest",
       "weergave": "Dakinvest",
       "bedrijfSlug": "dakinvest",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken TM",
       "weergave": "Dakwerken TM",
       "bedrijfSlug": "dakwerken-tm",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Sigitek",
       "weergave": "Dakwerken Sigitek",
       "bedrijfSlug": "dakwerken-sigitek",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "uwdakspecialist.be",
       "weergave": "Uwdakspecialist.be",
       "bedrijfSlug": "uwdakspecialist-be",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Donzo",
       "weergave": "Donzo",
       "bedrijfSlug": "donzo",

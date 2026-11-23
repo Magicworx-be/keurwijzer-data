@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Plat Dak Demeestere",
       "weergave": "Plat Dak Demeestere",
       "bedrijfSlug": "plat-dak-demeestere",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Marijn",
       "weergave": "Dakwerken Marijn",
       "bedrijfSlug": "dakwerken-marijn",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Tieltse Dakwerken bvba",
       "weergave": "Tieltse Dakwerken BVBA",
       "bedrijfSlug": "tieltse-dakwerken-bvba",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "T-Plus Dakwerken",
       "weergave": "T-Plus Dakwerken",
       "bedrijfSlug": "t-plus-dakwerken",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DFR Guido",
       "weergave": "DFR Guido",
       "bedrijfSlug": "dfr-guido",

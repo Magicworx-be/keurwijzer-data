@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken H en K",
       "weergave": "Dakwerken H en K",
       "bedrijfSlug": "dakwerken-h-en-k",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakproject Vaes BV",
       "weergave": "Dakproject Vaes BV",
       "bedrijfSlug": "dakproject-vaes-bv",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Daniels",
       "weergave": "Dakwerken Daniels",
       "bedrijfSlug": "dakwerken-daniels",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Service Jarda",
       "weergave": "Dakwerken Service Jarda",
       "bedrijfSlug": "dakwerken-service-jarda",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Dave Van Hoof BV | Dakprojecten",
       "weergave": "Dakwerken Dave Van Hoof BV",
       "bedrijfSlug": "dakwerken-dave-van-hoof-bv-dakprojecten",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Leyde",
       "weergave": "Dakwerken Leyde",
       "bedrijfSlug": "dakwerken-leyde",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Roofers BV",
       "weergave": "Roofers BV",
       "bedrijfSlug": "roofers-bv",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene Dakwerken Stefan Wolput B.V.",
       "weergave": "Algemene Dakwerken Stefan Wolput B.V.",
       "bedrijfSlug": "algemene-dakwerken-stefan-wolput-b-v",

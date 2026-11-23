@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "D&G Dakwerken (Brugge)",
       "weergave": "D&G Dakwerken (Brugge)",
       "bedrijfSlug": "d-g-dakwerken-brugge",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Versteele",
       "weergave": "Versteele",
       "bedrijfSlug": "versteele",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Schollier",
       "weergave": "Dakwerken Schollier",
       "bedrijfSlug": "dakwerken-schollier",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Vandewalle Thomas",
       "weergave": "Dakwerken Vandewalle Thomas",
       "bedrijfSlug": "dakwerken-vandewalle-thomas",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Devidt",
       "weergave": "Dakwerken Devidt",
       "bedrijfSlug": "dakwerken-devidt",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Nathan - regio Brugge",
       "weergave": "Dakwerken Nathan",
       "bedrijfSlug": "dakwerken-nathan-regio-brugge",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakor Dakwerken 🔨🏠",
       "weergave": "Dakor Dakwerken",
       "bedrijfSlug": "dakor-dakwerken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Vermeersch",
       "weergave": "Dakwerken Vermeersch",
       "bedrijfSlug": "dakwerken-vermeersch",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken BS",
       "weergave": "Dakwerken BS",
       "bedrijfSlug": "dakwerken-bs",

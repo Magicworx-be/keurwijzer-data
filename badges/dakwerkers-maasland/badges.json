@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Lenaers",
       "weergave": "Dakwerken Lenaers",
       "bedrijfSlug": "dakwerken-lenaers",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Noterman",
       "weergave": "Dakwerken Noterman",
       "bedrijfSlug": "dakwerken-noterman",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ROOF FIX",
       "weergave": "Roof Fix",
       "bedrijfSlug": "roof-fix",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Topdak Construct",
       "weergave": "Topdak Construct",
       "bedrijfSlug": "topdak-construct",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "GMC Dakwerken",
       "weergave": "GMC Dakwerken",
       "bedrijfSlug": "gmc-dakwerken",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vanhoef Joris dakwerken bv",
       "weergave": "Vanhoef Joris dakwerken BV",
       "bedrijfSlug": "vanhoef-joris-dakwerken-bv",

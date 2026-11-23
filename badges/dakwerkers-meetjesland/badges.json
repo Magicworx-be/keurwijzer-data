@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Glenn Van Damme",
       "weergave": "Dakwerken Glenn Van Damme",
       "bedrijfSlug": "dakwerken-glenn-van-damme",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene renovatiewerken (RDC)",
       "weergave": "Algemene renovatiewerken (RDC)",
       "bedrijfSlug": "algemene-renovatiewerken-rdc",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Schepens",
       "weergave": "Dakwerken Schepens",
       "bedrijfSlug": "dakwerken-schepens",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Boelaert",
       "weergave": "Dakwerken Boelaert",
       "bedrijfSlug": "dakwerken-boelaert",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VSB Dakwerken",
       "weergave": "VSB Dakwerken",
       "bedrijfSlug": "vsb-dakwerken",

@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Tectura Groep B.V. - Dakwerken & Renovaties",
       "weergave": "Tectura Groep B.V.",
       "bedrijfSlug": "tectura-groep-b-v-dakwerken-renovaties",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "KD Dak",
       "weergave": "KD Dak",
       "bedrijfSlug": "kd-dak",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Boba Dakwerker Sint-Niklaas",
       "weergave": "Boba Dakwerker Sint-Niklaas",
       "bedrijfSlug": "boba-dakwerker-sint-niklaas",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "D&D Dakwerken",
       "weergave": "D&D Dakwerken",
       "bedrijfSlug": "d-d-dakwerken",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken De Clerck - Dakteam",
       "weergave": "Dakwerken De Clerck",
       "bedrijfSlug": "dakwerken-de-clerck-dakteam",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Skydak",
       "weergave": "Skydak",
       "bedrijfSlug": "skydak",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "KDS dak en gevel",
       "weergave": "KDS dak en gevel",
       "bedrijfSlug": "kds-dak-en-gevel",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "RVD dak-gevelwerken",
       "weergave": "RVD dak-gevelwerken",
       "bedrijfSlug": "rvd-dak-gevelwerken",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Schrijn en dakwerken Rooms bv",
       "weergave": "Schrijn en dakwerken Rooms BV",
       "bedrijfSlug": "schrijn-en-dakwerken-rooms-bv",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Plat dak EPDMshop Sint-Niklaas Stekene",
       "weergave": "Plat dak EPDMshop Sint-Niklaas Stekene",
       "bedrijfSlug": "plat-dak-epdmshop-sint-niklaas-stekene",

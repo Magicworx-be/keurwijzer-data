@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Le Fils",
       "weergave": "Le Fils",
       "bedrijfSlug": "le-fils",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dav Toiture",
       "weergave": "Dav Toiture",
       "bedrijfSlug": "dav-toiture",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "JDM TOITURES",
       "weergave": "JDM Toitures",
       "bedrijfSlug": "jdm-toitures",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Kijzer dakwerken",
       "weergave": "Kijzer dakwerken",
       "bedrijfSlug": "kijzer-dakwerken",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ML Building",
       "weergave": "ML Building",
       "bedrijfSlug": "ml-building",

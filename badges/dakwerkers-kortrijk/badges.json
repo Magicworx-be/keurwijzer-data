@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken B-Concept BV",
       "weergave": "Dakwerken B-Concept BV",
       "bedrijfSlug": "dakwerken-b-concept-bv",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "SD Constructs",
       "weergave": "SD Constructs",
       "bedrijfSlug": "sd-constructs",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Yan Dakwerken BV",
       "weergave": "Yan Dakwerken BV",
       "bedrijfSlug": "yan-dakwerken-bv",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "D-12 Construct BV",
       "weergave": "D-12 Construct BV",
       "bedrijfSlug": "d-12-construct-bv",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DD Roofing BV",
       "weergave": "DD Roofing BV",
       "bedrijfSlug": "dd-roofing-bv",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ND roofing",
       "weergave": "ND roofing",
       "bedrijfSlug": "nd-roofing",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene Dakwerken Debrabandere BV",
       "weergave": "Algemene Dakwerken Debrabandere BV",
       "bedrijfSlug": "algemene-dakwerken-debrabandere-bv",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Moerman BV",
       "weergave": "Dakwerken Moerman BV",
       "bedrijfSlug": "dakwerken-moerman-bv",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene Dakwerken Dirk Depraetere BV",
       "weergave": "Algemene Dakwerken Dirk Depraetere BV",
       "bedrijfSlug": "algemene-dakwerken-dirk-depraetere-bv",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Devabo nv",
       "weergave": "Devabo NV",
       "bedrijfSlug": "devabo-nv",

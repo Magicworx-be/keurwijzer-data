@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "JWD Dakwerken",
       "weergave": "JWD Dakwerken",
       "bedrijfSlug": "jwd-dakwerken",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Moens / Kim",
       "weergave": "Moens / Kim",
       "bedrijfSlug": "moens-kim",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Eco Reno Top bv",
       "weergave": "Eco Reno Top BV",
       "bedrijfSlug": "eco-reno-top-bv",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ROOFWALL Dakwerken TERVUREN",
       "weergave": "Roofwall Dakwerken Tervuren",
       "bedrijfSlug": "roofwall-dakwerken-tervuren",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "ROOF & WALL dakwerken",
       "weergave": "Roof & Wall dakwerken",
       "bedrijfSlug": "roof-wall-dakwerken",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "RENO-FLEX bv",
       "weergave": "Reno-Flex BV",
       "bedrijfSlug": "reno-flex-bv",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Johny Kril Construct",
       "weergave": "Johny Kril Construct",
       "bedrijfSlug": "johny-kril-construct",

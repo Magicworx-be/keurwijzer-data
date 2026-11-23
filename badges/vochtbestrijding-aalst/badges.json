@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Nrgy-solutions",
       "weergave": "Nrgy-solutions",
       "bedrijfSlug": "nrgy-solutions",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "sova-bouw",
       "weergave": "Sova-bouw",
       "bedrijfSlug": "sova-bouw",

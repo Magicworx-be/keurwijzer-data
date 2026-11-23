@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Elite Bouwteam",
       "weergave": "Dakwerken Elite Bouwteam",
       "bedrijfSlug": "dakwerken-elite-bouwteam",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "BV Dakwerken Van den Driessche - Dakwerken Aalst",
       "weergave": "BV Dakwerken Van den Driessche",
       "bedrijfSlug": "bv-dakwerken-van-den-driessche-dakwerken-aalst",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Cieters",
       "weergave": "Dakwerken Cieters",
       "bedrijfSlug": "dakwerken-cieters",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Ribeiro Dakwerken",
       "weergave": "Ribeiro Dakwerken",
       "bedrijfSlug": "ribeiro-dakwerken",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Matthieu Baertsoen",
       "weergave": "Dakwerken Matthieu Baertsoen",
       "bedrijfSlug": "dakwerken-matthieu-baertsoen",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "GCS Epdm Bv",
       "weergave": "GCS Epdm BV",
       "bedrijfSlug": "gcs-epdm-bv",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DWG Projects specialist platte daken",
       "weergave": "DWG Projects specialist platte daken",
       "bedrijfSlug": "dwg-projects-specialist-platte-daken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Sneldak",
       "weergave": "Sneldak",
       "bedrijfSlug": "sneldak",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakdekker Dossche",
       "weergave": "Dakdekker Dossche",
       "bedrijfSlug": "dakdekker-dossche",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DakDender - De Vulder",
       "weergave": "DakDender - De Vulder",
       "bedrijfSlug": "dakdender-de-vulder",

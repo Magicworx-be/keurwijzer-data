@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Opstijgend vocht probleem? DRY IT!",
       "weergave": "Opstijgend vocht probleem? DRY IT!",
       "bedrijfSlug": "opstijgend-vocht-probleem-dry-it",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "AquaConsult Vochtbestrijding en Kelderdichting",
       "weergave": "AquaConsult Vochtbestrijding en Kelderdichting",
       "bedrijfSlug": "aquaconsult-vochtbestrijding-en-kelderdichting",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Bodima",
       "weergave": "Bodima",
       "bedrijfSlug": "bodima",

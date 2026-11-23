@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Renovigo BV - Vochtbestrijding - Kelderdichting - Vochtprobleem - Opstijgend vocht - Pleisterwerken",
       "weergave": "Renovigo BV",
       "bedrijfSlug": "renovigo-bv-vochtbestrijding-kelderdichting-vochtprobleem-opstijgend-vocht-pleisterwerken",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Aqua Protect: jouw specialist in vochtbestrijding",
       "weergave": "Aqua Protect: jouw specialist in vochtbestrijding",
       "bedrijfSlug": "aqua-protect-jouw-specialist-in-vochtbestrijding",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DTS Dieter T'Siolle: kelderdichting, injecteren & gevelrenovatie",
       "weergave": "DTS Dieter T'Siolle: kelderdichting, injecteren & gevelrenovatie",
       "bedrijfSlug": "dts-dieter-t-siolle-kelderdichting-injecteren-gevelrenovatie",

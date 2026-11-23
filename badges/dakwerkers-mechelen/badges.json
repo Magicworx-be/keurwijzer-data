@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dafridak Bvba",
       "weergave": "Dafridak BVBA",
       "bedrijfSlug": "dafridak-bvba",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Verstrepen BV",
       "weergave": "Dakwerken Verstrepen BV",
       "bedrijfSlug": "dakwerken-verstrepen-bv",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Kar-Mi BV - Algemene dakwerken | Isolatie | Gevelbekleding",
       "weergave": "Kar-Mi BV",
       "bedrijfSlug": "kar-mi-bv-algemene-dakwerken-isolatie-gevelbekleding",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Stoffels BV",
       "weergave": "Dakwerken Stoffels BV",
       "bedrijfSlug": "dakwerken-stoffels-bv",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Goris timmer- en dakwerken",
       "weergave": "Goris timmer- en dakwerken",
       "bedrijfSlug": "goris-timmer-en-dakwerken",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Schrijnwerken Leus",
       "weergave": "Schrijnwerken Leus",
       "bedrijfSlug": "schrijnwerken-leus",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken CPD bv",
       "weergave": "Dakwerken CPD BV",
       "bedrijfSlug": "dakwerken-cpd-bv",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "BENOGROUP",
       "weergave": "Benogroup",
       "bedrijfSlug": "benogroup",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken David en zoon",
       "weergave": "Dakwerken David en zoon",
       "bedrijfSlug": "dakwerken-david-en-zoon",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dak en Gevelwerken Noah",
       "weergave": "Dak en Gevelwerken Noah",
       "bedrijfSlug": "dak-en-gevelwerken-noah",

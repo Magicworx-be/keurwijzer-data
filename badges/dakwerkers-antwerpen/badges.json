@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Roof Service Company B.V.",
       "weergave": "Roof Service Company B.V.",
       "bedrijfSlug": "roof-service-company-b-v",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VDK Dakwerken",
       "weergave": "VDK Dakwerken",
       "bedrijfSlug": "vdk-dakwerken",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Van der Vorst",
       "weergave": "Dakwerken Van der Vorst",
       "bedrijfSlug": "dakwerken-van-der-vorst",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Kerobo",
       "weergave": "Kerobo",
       "bedrijfSlug": "kerobo",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "A12 Dakwerken",
       "weergave": "A12 Dakwerken",
       "bedrijfSlug": "a12-dakwerken",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Matrix Dakwerken Antwerpen bv",
       "weergave": "Matrix Dakwerken Antwerpen BV",
       "bedrijfSlug": "matrix-dakwerken-antwerpen-bv",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "EdB Dakwerken",
       "weergave": "EdB Dakwerken",
       "bedrijfSlug": "edb-dakwerken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dak en Bouw Spiessens",
       "weergave": "Dak en Bouw Spiessens",
       "bedrijfSlug": "dak-en-bouw-spiessens",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Franks Dakwerken Antwerpen",
       "weergave": "Franks Dakwerken Antwerpen",
       "bedrijfSlug": "franks-dakwerken-antwerpen",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "RVO Construct",
       "weergave": "RVO Construct",
       "bedrijfSlug": "rvo-construct",

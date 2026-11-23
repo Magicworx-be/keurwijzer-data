@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vocht Solutions",
       "weergave": "Vocht Solutions",
       "bedrijfSlug": "vocht-solutions",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "SD Services B.V.",
       "weergave": "SD Services B.V.",
       "bedrijfSlug": "sd-services-b-v",

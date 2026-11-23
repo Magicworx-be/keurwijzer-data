@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Kerkhoff Alexander Bvba",
       "weergave": "Kerkhoff Alexander BVBA",
       "bedrijfSlug": "kerkhoff-alexander-bvba",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "TPL Dakwerken",
       "weergave": "TPL Dakwerken",
       "bedrijfSlug": "tpl-dakwerken",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakdec",
       "weergave": "Dakdec",
       "bedrijfSlug": "dakdec",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Accuraat dakwerken",
       "weergave": "Accuraat dakwerken",
       "bedrijfSlug": "accuraat-dakwerken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Future Roofs - dakwerken & gevelbekleding",
       "weergave": "Future Roofs",
       "bedrijfSlug": "future-roofs-dakwerken-gevelbekleding",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "A & L dakwerken ALEX",
       "weergave": "A & L dakwerken Alex",
       "bedrijfSlug": "a-l-dakwerken-alex",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VS Dakwerken",
       "weergave": "VS Dakwerken",
       "bedrijfSlug": "vs-dakwerken",

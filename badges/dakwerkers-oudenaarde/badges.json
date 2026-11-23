@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Matthys Projecten",
       "weergave": "Matthys Projecten",
       "bedrijfSlug": "matthys-projecten",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Devlin",
       "weergave": "Dakwerken Devlin",
       "bedrijfSlug": "dakwerken-devlin",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Joeri Vyverman - Dak- en Schrijnwerken",
       "weergave": "Joeri Vyverman",
       "bedrijfSlug": "joeri-vyverman-dak-en-schrijnwerken",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Gebroeders De Vos",
       "weergave": "Dakwerken Gebroeders De Vos",
       "bedrijfSlug": "dakwerken-gebroeders-de-vos",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Van Brussel",
       "weergave": "Dakwerken Van Brussel",
       "bedrijfSlug": "dakwerken-van-brussel",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Rousseau Toitures",
       "weergave": "Rousseau Toitures",
       "bedrijfSlug": "rousseau-toitures",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Lusadak",
       "weergave": "Lusadak",
       "bedrijfSlug": "lusadak",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Verschueren Oudenaarde",
       "weergave": "Dakwerken Verschueren Oudenaarde",
       "bedrijfSlug": "dakwerken-verschueren-oudenaarde",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Group NACHTERGAELE",
       "weergave": "Group Nachtergaele",
       "bedrijfSlug": "group-nachtergaele",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Coverto",
       "weergave": "Coverto",
       "bedrijfSlug": "coverto",

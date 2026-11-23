@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Steegmans Construct",
       "weergave": "Steegmans Construct",
       "bedrijfSlug": "steegmans-construct",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "AZ Dakwerken",
       "weergave": "AZ Dakwerken",
       "bedrijfSlug": "az-dakwerken",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "CD Dak",
       "weergave": "CD Dak",
       "bedrijfSlug": "cd-dak",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Thomas Dimitri Dakwerken",
       "weergave": "Thomas Dimitri Dakwerken",
       "bedrijfSlug": "thomas-dimitri-dakwerken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Class Dakwerken",
       "weergave": "Class Dakwerken",
       "bedrijfSlug": "class-dakwerken",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Limburgse Industriële Dakwerken",
       "weergave": "Limburgse Industriële Dakwerken",
       "bedrijfSlug": "limburgse-industriele-dakwerken",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DakLift",
       "weergave": "DakLift",
       "bedrijfSlug": "daklift",

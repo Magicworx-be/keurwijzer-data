@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Buitenschrijnwerk Vereecke Tobias BV",
       "weergave": "Buitenschrijnwerk Vereecke Tobias BV",
       "bedrijfSlug": "buitenschrijnwerk-vereecke-tobias-bv",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "DGD",
       "weergave": "DGD",
       "bedrijfSlug": "dgd",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "dakwerken DOF",
       "weergave": "Dakwerken DOF",
       "bedrijfSlug": "dakwerken-dof",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dak-En Timmerwerken Bienstman",
       "weergave": "Dak-En Timmerwerken Bienstman",
       "bedrijfSlug": "dak-en-timmerwerken-bienstman",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "BV Kena Group",
       "weergave": "BV Kena Group",
       "bedrijfSlug": "bv-kena-group",

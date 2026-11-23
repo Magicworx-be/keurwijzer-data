@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "D-Reno - Totale dakrenovatie in Pajottegem en omstreken",
       "weergave": "D-Reno",
       "bedrijfSlug": "d-reno-totale-dakrenovatie-in-pajottegem-en-omstreken",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Van Driessche | Hellende daken, isolatie, sidings",
       "weergave": "Dakwerken Van Driessche",
       "bedrijfSlug": "dakwerken-van-driessche-hellende-daken-isolatie-sidings",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken LFN / Toiture LFN",
       "weergave": "Dakwerken LFN / Toiture LFN",
       "bedrijfSlug": "dakwerken-lfn-toiture-lfn",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Toitures Jullien Dakwerken",
       "weergave": "Toitures Jullien Dakwerken",
       "bedrijfSlug": "toitures-jullien-dakwerken",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Bas Dakwerken - Toitures",
       "weergave": "Bas Dakwerken",
       "bedrijfSlug": "bas-dakwerken-toitures",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Entreprise Lievens SRL",
       "weergave": "Entreprise Lievens SRL",
       "bedrijfSlug": "entreprise-lievens-srl",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken VCS De Gieter",
       "weergave": "Dakwerken VCS De Gieter",
       "bedrijfSlug": "dakwerken-vcs-de-gieter",

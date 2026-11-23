@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Verdeyen",
       "weergave": "Dakwerken Verdeyen",
       "bedrijfSlug": "dakwerken-verdeyen",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Jud Bouw b.v.b.a.",
       "weergave": "Jud Bouw b.v.b.a.",
       "bedrijfSlug": "jud-bouw-b-v-b-a",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "AMS Systems BVBA",
       "weergave": "AMS Systems BVBA",
       "bedrijfSlug": "ams-systems-bvba",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VATODAK Dakwerken Begijnendijk",
       "weergave": "Vatodak Dakwerken Begijnendijk",
       "bedrijfSlug": "vatodak-dakwerken-begijnendijk",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Pfaff",
       "weergave": "Dakwerken Pfaff",
       "bedrijfSlug": "dakwerken-pfaff",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Sammy Mariën BVBA",
       "weergave": "Dakwerken Sammy Mariën BVBA",
       "bedrijfSlug": "dakwerken-sammy-marien-bvba",

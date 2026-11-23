@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Grembergse dakwerken van Walsem",
       "weergave": "Grembergse dakwerken van Walsem",
       "bedrijfSlug": "grembergse-dakwerken-van-walsem",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakalex BVBA",
       "weergave": "Dakalex BVBA",
       "bedrijfSlug": "dakalex-bvba",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Optek | Dak- en bouwwerken",
       "weergave": "Optek",
       "bedrijfSlug": "optek-dak-en-bouwwerken",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken SD Projects",
       "weergave": "Dakwerken SD Projects",
       "bedrijfSlug": "dakwerken-sd-projects",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Drt-Dakwerken Bv",
       "weergave": "Drt-Dakwerken BV",
       "bedrijfSlug": "drt-dakwerken-bv",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Gery Van Esbroeck",
       "weergave": "Gery Van Esbroeck",
       "bedrijfSlug": "gery-van-esbroeck",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Hofman bvba",
       "weergave": "Dakwerken Hofman BVBA",
       "bedrijfSlug": "dakwerken-hofman-bvba",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene Dak & Schrijnwerken MB Construction BV",
       "weergave": "Algemene Dak & Schrijnwerken MB Construction BV",
       "bedrijfSlug": "algemene-dak-schrijnwerken-mb-construction-bv",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "EKO-Huis",
       "weergave": "EKO-Huis",
       "bedrijfSlug": "eko-huis",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken YDM",
       "weergave": "Dakwerken YDM",
       "bedrijfSlug": "dakwerken-ydm",

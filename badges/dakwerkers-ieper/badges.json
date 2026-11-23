@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Zink- en Dakwerken Verhaeghe BV",
       "weergave": "Zink- en Dakwerken Verhaeghe BV",
       "bedrijfSlug": "zink-en-dakwerken-verhaeghe-bv",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken EPDM Construct BV",
       "weergave": "Dakwerken EPDM Construct BV",
       "bedrijfSlug": "dakwerken-epdm-construct-bv",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vanrobaeys Panels",
       "weergave": "Vanrobaeys Panels",
       "bedrijfSlug": "vanrobaeys-panels",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Descamps",
       "weergave": "Dakwerken Descamps",
       "bedrijfSlug": "dakwerken-descamps",

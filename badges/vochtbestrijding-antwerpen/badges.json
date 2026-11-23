@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "VQA vochtbestrijding",
       "weergave": "VQA vochtbestrijding",
       "bedrijfSlug": "vqa-vochtbestrijding",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Vernast",
       "weergave": "Vernast",
       "bedrijfSlug": "vernast",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "KB Vochtbestrijding",
       "weergave": "KB Vochtbestrijding",
       "bedrijfSlug": "kb-vochtbestrijding",

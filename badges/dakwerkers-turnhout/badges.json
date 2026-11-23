@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "TeoDakwerken",
       "weergave": "TeoDakwerken",
       "bedrijfSlug": "teodakwerken",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "RAW Algemene dakwerken",
       "weergave": "RAW Algemene dakwerken",
       "bedrijfSlug": "raw-algemene-dakwerken",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Gilles Totaalbouw",
       "weergave": "Gilles Totaalbouw",
       "bedrijfSlug": "gilles-totaalbouw",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "HartDak",
       "weergave": "HartDak",
       "bedrijfSlug": "hartdak",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "John Vermetten BV | Bouwbedrijf, Totaalrenovaties, Dakwerken & Timmerwerken",
       "weergave": "John Vermetten BV",
       "bedrijfSlug": "john-vermetten-bv-bouwbedrijf-totaalrenovaties-dakwerken-timmerwerken",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "SBS-PRO Dak en Schrijnwerken",
       "weergave": "SBS-PRO Dak en Schrijnwerken",
       "bedrijfSlug": "sbs-pro-dak-en-schrijnwerken",

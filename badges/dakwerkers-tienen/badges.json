@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "I&B Dakwerken",
       "weergave": "I&B Dakwerken",
       "bedrijfSlug": "i-b-dakwerken",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Goed Gedakt",
       "weergave": "Goed Gedakt",
       "bedrijfSlug": "goed-gedakt",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dak Hannes",
       "weergave": "Dak Hannes",
       "bedrijfSlug": "dak-hannes",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "RVZ Concept",
       "weergave": "RVZ Concept",
       "bedrijfSlug": "rvz-concept",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "T Dakdekkertje",
       "weergave": "T Dakdekkertje",
       "bedrijfSlug": "t-dakdekkertje",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Van Goethem & Nagels",
       "weergave": "Dakwerken Van Goethem & Nagels",
       "bedrijfSlug": "dakwerken-van-goethem-nagels",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Crabbe Dakwerken",
       "weergave": "Crabbe Dakwerken",
       "bedrijfSlug": "crabbe-dakwerken",

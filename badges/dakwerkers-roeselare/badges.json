@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Cauwelier | We take care of your roof",
       "weergave": "Cauwelier",
       "bedrijfSlug": "cauwelier-we-take-care-of-your-roof",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Tectora",
       "weergave": "Tectora",
       "bedrijfSlug": "tectora",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "EPDM Solutions",
       "weergave": "EPDM Solutions",
       "bedrijfSlug": "epdm-solutions",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken VCM-projects",
       "weergave": "Dakwerken VCM-projects",
       "bedrijfSlug": "dakwerken-vcm-projects",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Thomadak",
       "weergave": "Thomadak",
       "bedrijfSlug": "thomadak",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Saniroof",
       "weergave": "Saniroof",
       "bedrijfSlug": "saniroof",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Het dak atelier",
       "weergave": "Het dak atelier",
       "bedrijfSlug": "het-dak-atelier",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "INDUR",
       "weergave": "Indur",
       "bedrijfSlug": "indur",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Detailleur Dakwerken",
       "weergave": "Detailleur Dakwerken",
       "bedrijfSlug": "detailleur-dakwerken",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "HURO NV",
       "weergave": "Huro NV",
       "bedrijfSlug": "huro-nv",

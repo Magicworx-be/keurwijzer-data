@@ -11,7 +11,7 @@
     {
       "rang": 1,
       "tier": "#1",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Wouters Dakwerken",
       "weergave": "Wouters Dakwerken",
       "bedrijfSlug": "wouters-dakwerken",
@@ -23,7 +23,7 @@
     {
       "rang": 2,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dakwerken Nuytemans Luk & Bjorn",
       "weergave": "Dakwerken Nuytemans Luk & Bjorn",
       "bedrijfSlug": "dakwerken-nuytemans-luk-bjorn",
@@ -35,7 +35,7 @@
     {
       "rang": 3,
       "tier": "Top 3",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Algemene Dakwerken Primo",
       "weergave": "Algemene Dakwerken Primo",
       "bedrijfSlug": "algemene-dakwerken-primo",
@@ -47,7 +47,7 @@
     {
       "rang": 4,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Apex Roof",
       "weergave": "Apex Roof",
       "bedrijfSlug": "apex-roof",
@@ -59,7 +59,7 @@
     {
       "rang": 5,
       "tier": "Top 5",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Solide & WaterpROOF bv",
       "weergave": "Solide & WaterpROOF BV",
       "bedrijfSlug": "solide-waterproof-bv",
@@ -71,7 +71,7 @@
     {
       "rang": 6,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Van Dyck Dakwerken",
       "weergave": "Van Dyck Dakwerken",
       "bedrijfSlug": "van-dyck-dakwerken",
@@ -83,7 +83,7 @@
     {
       "rang": 7,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Heito Dakwerken",
       "weergave": "Heito Dakwerken",
       "bedrijfSlug": "heito-dakwerken",
@@ -95,7 +95,7 @@
     {
       "rang": 8,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Luyts Dakwerken bv",
       "weergave": "Luyts Dakwerken BV",
       "bedrijfSlug": "luyts-dakwerken-bv",
@@ -107,7 +107,7 @@
     {
       "rang": 9,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Dural Bouwgroep",
       "weergave": "Dural Bouwgroep",
       "bedrijfSlug": "dural-bouwgroep",
@@ -119,7 +119,7 @@
     {
       "rang": 10,
       "tier": "Top 10",
-      "soort": "rang",
+      "soort": "geselecteerd",
       "naam": "Roofing Service Dakwerken",
       "weergave": "Roofing Service Dakwerken",
       "bedrijfSlug": "roofing-service-dakwerken",
